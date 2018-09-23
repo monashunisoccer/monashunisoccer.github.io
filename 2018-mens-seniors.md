@@ -6,7 +6,7 @@ back: Eddie Bago (asst coach), Sarmad Nikakhter, Kieran Enright, Todd Wallace,
  Alex Eggleston, Ben Knight, Mario Bergmann, Brian Vasey (coach)
  
 middle: Saxon Chorny, George Cummins, Souleymane Diamanka, Lucas Tobar,
- Steve Harvey, Saran Mongosokol, Casey Ferrier, Sampath Mishra, Andrew Patterson (team manager)
+ Steve Harvey, Saran Mongkolkosol, Casey Ferrier, Sampath Mishra, Andrew Patterson (team manager)
  
 front: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certoma,
     Sam Jackson, Victor de Faria
@@ -48,7 +48,7 @@ H Home, A Away, N Neutral
 
 CS Clean sheet, PS Penalty save, RC Red card
 
-F Friendly, OG Own goal, 
+F Friendly, OG Own goal 
 
 † Correction of incorrect goal scorer listed on match record
 
