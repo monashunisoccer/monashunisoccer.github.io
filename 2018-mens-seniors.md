@@ -2,13 +2,13 @@
 
 ![](https://photos.smugmug.com/photos/i-6cqsNht/0/d703da0b/L/i-6cqsNht-L.jpg)
 
-back: Eddie Bago (asst coach), Sarmad Nikakhter, Kieran Enright, Todd Wallace,
+_back_: Eddie Bago (asst coach), Sarmad Nikakhter, Kieran Enright, Todd Wallace,
  Alex Eggleston, Ben Knight, Mario Bergmann, Brian Vasey (coach)
  
-middle: Saxon Chorny, George Cummins, Souleymane Diamanka, Lucas Tobar,
+_middle_: Saxon Chorny, George Cummins, Souleymane Diamanka, Lucas Tobar,
  Steve Harvey, Saran Mongkolkosol, Casey Ferrier, Sampath Mishra, Andrew Patterson (team manager)
  
-front: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certoma,
+_front_: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certoma,
     Sam Jackson, Victor de Faria
 
 ------------------------
@@ -57,8 +57,8 @@ F Friendly, OG Own goal
 #### Scorers (including cup and finals but not friendlies)
 
 | PLAYER                   | GOALS |
-| ------------------------ | --- |
-| Alex Certoma (Junior)    | 10 |
+| ------------------------ | ---   |
+| Alex Certoma (Junior)    | 10    |
 | George Cummins           | 8 |
 | Josh de Voogel           | 8 |
 | Souleymane Diamanka      | 7 |
@@ -80,19 +80,19 @@ F Friendly, OG Own goal
 
 #### Table
 
-| # | TEAM | P | W | D | L | F | A | GD | PTS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| #   | TEAM                          | P   | W   | D   | L   | F   | A   | GD  | PTS |
+| --- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **1** | **Monash Uni Mens Seniors** | 22 | 14 | 7 | 1 | 53 | 20 | 33 | **49** |
-| 2  | Springvale City SC | 22 | 13 | 6 | 3 | 53 | 21 | 32 | 45 |
-| 3  |Sandown Lions FC | 22 | 11 | 5 | 6 | 52 | 37 | 15 | 38 |
-| 4  | Endeavour United SC | 22 | 10 | 7 | 5 | 35 | 26 | 9 | 37 |
-| 5  | Dandenong South SC | 22 | 11 | 3 | 8 | 41 | 37 | 4 | 36 |
-| 6  | Dandenong Warriors FC | 22 | 8 | 6 | 8 | 41 | 41 | 0 | 30 |
-| 7  | Keysborough SC | 22 | 7 | 7 | 8 | 31 | 34 | -3 | 28 |
-| 8  | Harrisfield Hurricanes SC | 22 | 6 | 4 | 12 | 40 | 48 | -8 | 22 |
-| 9  |Sandringham SC | 22 | 5 | 7 | 10 | 27 | 48 | -21 | 22 |
-| 10 | Baxter SC | 22 | 5 | 5 | 12 | 39 | 50 | -11 | 20 |
-| 11 | Noble Park SC | 22 | 5 | 4 | 13 | 37 | 65 | -28 | 19 |
+| 2  | Springvale City SC             | 22 | 13 | 6 | 3 | 53 | 21 | 32 | 45 |
+| 3  | Sandown Lions FC               | 22 | 11 | 5 | 6 | 52 | 37 | 15 | 38 |
+| 4  | Endeavour United SC            | 22 | 10 | 7 | 5 | 35 | 26 | 9 | 37 |
+| 5  | Dandenong South SC             | 22 | 11 | 3 | 8 | 41 | 37 | 4 | 36 |
+| 6  | Dandenong Warriors FC          | 22 | 8 | 6 | 8 | 41 | 41 | 0 | 30 |
+| 7  | Keysborough SC                 | 22 | 7 | 7 | 8 | 31 | 34 | -3 | 28 |
+| 8  | Harrisfield Hurricanes SC      | 22 | 6 | 4 | 12 | 40 | 48 | -8 | 22 |
+| 9  | Sandringham SC                 | 22 | 5 | 7 | 10 | 27 | 48 | -21 | 22 |
+| 10 | Baxter SC                      | 22 | 5 | 5 | 12 | 39 | 50 | -11 | 20 |
+| 11 | Noble Park SC                  | 22 | 5 | 4 | 13 | 37 | 65 | -28 | 19 |
 | 12 | Hampton Park United Sparrows FC | 22 | 5 | 3 | 14 | 30 | 52 | -22 | 18 |
 
 ------------------------
@@ -104,33 +104,33 @@ F Friendly, OG Own goal
 
 | PLAYER                | CUP | LEAGUE | FINALS | APPEARANCES TOTAL | PP VOTE COUNT |
 | --------------------- | --- | ------ | ------ | ----------------- | ------------- |
-| Miles Rodriquez       | 2 | 22 | 2 | 26 | 32.5             |
-| Todd Wallace          | 1 | 22 | 2 | 25 | 35               |
-| Nick Hendry           | 1 | 21 | 2 | 24 | 9.5              |
-| Souleymane Diamanka   | 1 | 20 | 1 | 22 | 7.5              |
-| Alex "Junior" Certoma | 2 | 19 | 2 | 23 | 40.5             |
-| Josh de Voogel        | 1 | 19 | 0 | 20 | **44.5 (winner)**  |
-| Sarrmad Nikahhter     | 0 | 18 | 2 | 20 | 14.5             |
-| Alex Eggleston        | 0 | 15 | 1 | 16 | 25               |
-| Saran Mongkolkosol    | 2 | 15 | 1 | 18 | 7                |
-| George Cummins        | 2 | 14 | 1 | 17 | 11.5             |
-| Saxon Chorny          | 1 | 14 | 2 | 17 | 16.5             |
-| Kieran Enright        | 1 | 13 | 2 | 16 | 25.5             |
-| Neil Gardner          | 1 | 13 | 2 | 16 | 3                |
-| Lucas Tobar           | 1 | 13 | 0 | 14 | 6                |
-| Victor de Faria       | 0 | 12 | 2 | 14 | 16               |
-| Casey Ferrier         | 0 | 12 | 2 | 14 | 38.5             |
-| Hiroki Kimijima       | 2 | 11 | 0 | 13 | 12.5             |
-| Arnold Clever         | 0 | 8  | 1 | 9  | 3.5              |
-| Steve Harvey          | 2 | 5  | 0 | 7  | 0.5              |
-| Sampath Mishra        | 1 | 4  | 1 | 6  | 0.5              |
-| Ben Knight            | 0 | 4  | 2 | 6  | 5                |
-| Mario Bergmann        | 2 | 4  | 1 | 7  | 1                |
-| Arturo Mouroa         | 0 | 3  | 0 | 3  | 0                |
-| Ben Baynard Smith     | 1 | 2  | 0 | 3  | 0                |
-| Joel Ludlow           | 0 | 1  | 0 | 1  | 0                |
-| Sam Jackson           | 0 | 1  | 0 | 1  | 1                |
-| James Eggelston       | 1 | 0  | 0 | 1  | 0                |
-| Nathan Ganeson        | 1 | 0  | 0 | 1  | 0                |
-| Nick Smirnios         | 1 | 0  | 0 | 1  | 0                |
-| Alex Jong             | 1 | 0  | 0 | 1  | 0                |
+| Miles Rodriquez       | 2   | 22 | 2 | 26 | 32.5             |
+| Todd Wallace          | 1   | 22 | 2 | 25 | 35               |
+| Nick Hendry           | 1   | 21 | 2 | 24 | 9.5              |
+| Souleymane Diamanka   | 1   | 20 | 1 | 22 | 7.5              |
+| Alex "Junior" Certoma | 2   | 19 | 2 | 23 | 40.5             |
+| Josh de Voogel        | 1   | 19 | 0 | 20 | **44.5 (winner)**  |
+| Sarrmad Nikahhter     | 0   | 18 | 2 | 20 | 14.5             |
+| Alex Eggleston        | 0   | 15 | 1 | 16 | 25               |
+| Saran Mongkolkosol    | 2   | 15 | 1 | 18 | 7                |
+| George Cummins        | 2   | 14 | 1 | 17 | 11.5             |
+| Saxon Chorny          | 1   | 14 | 2 | 17 | 16.5             |
+| Kieran Enright        | 1   | 13 | 2 | 16 | 25.5             |
+| Neil Gardner          | 1   | 13 | 2 | 16 | 3                |
+| Lucas Tobar           | 1   | 13 | 0 | 14 | 6                |
+| Victor de Faria       | 0   | 12 | 2 | 14 | 16               |
+| Casey Ferrier         | 0   | 12 | 2 | 14 | 38.5             |
+| Hiroki Kimijima       | 2   | 11 | 0 | 13 | 12.5             |
+| Arnold Clever         | 0   | 8  | 1 | 9  | 3.5              |
+| Steve Harvey          | 2   | 5  | 0 | 7  | 0.5              |
+| Sampath Mishra        | 1   | 4  | 1 | 6  | 0.5              |
+| Ben Knight            | 0   | 4  | 2 | 6  | 5                |
+| Mario Bergmann        | 2   | 4  | 1 | 7  | 1                |
+| Arturo Mouroa         | 0   | 3  | 0 | 3  | 0                |
+| Ben Baynard Smith     | 1   | 2  | 0 | 3  | 0                |
+| Joel Ludlow           | 0   | 1  | 0 | 1  | 0                |
+| Sam Jackson           | 0   | 1  | 0 | 1  | 1                |
+| James Eggelston       | 1   | 0  | 0 | 1  | 0                |
+| Nathan Ganeson        | 1   | 0  | 0 | 1  | 0                |
+| Nick Smirnios         | 1   | 0  | 0 | 1  | 0                |
+| Alex Jong             | 1   | 0  | 0 | 1  | 0                |
