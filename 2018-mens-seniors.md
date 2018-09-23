@@ -15,7 +15,7 @@ front: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certom
 
 #### Results
 
-| R | DATE | VENUE| OPP | RESULT | SCORERS | GK |
+| R | DATE | VENUE| OPP | RESULT | SCORERS | OTHER |
 | --- | --- | --- | --- | --- | --- | --- |
 | Cup1 | 24 Feb | A | Altona North      | 1-0 | OG                                       | Hendry (CS), Ganeson (CS)  |
 | Cup2 | 3 Mar  | N | Brandon Park      | 1-2 | de Voogel 65′                            |  |
@@ -30,7 +30,7 @@ front: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certom
 | 9  | 26 May | A| Harrisfield          | 1-2 | Kimijima 62′ (P)                         |  |
 | 10 | 2 Jun  | H| Keysborough          | 2-1 | Chorny 14′, Certoma 48′                  |  |
 | 11 | 16 Jun | A| Sandown Lions        | 0-0 |                                          | Hendry (CS) |
-| 12 | 23 Jun | H| Baxter               | 2-1 | Rodriquez 66′, Harvey 83′                |  |
+| 12 | 23 Jun | H| Baxter               | 2-1 | Rodriquez 66′, Harvey 83′                | Mishra (RC)  |
 | 13 | 30 Jun | H| Springvale City      | 1-0 | de Voogel 39′                            | Hendry (CS) |
 | 14 | 7 Jul  | H| Dandenong South      | 2-1 | Ferrier 15′, Diamanka 81′                |  |
 | 15 | 14 Jul | H| Dandenong Warriors   | 2-0 | Nikakhter 11′, Certoma 35′                | Hendry (CS) |
@@ -44,7 +44,11 @@ front: Joshua de Voogel, Nick Hendry, Neil Gardner, Miles Rodriquez, Alex Certom
 | Fin1 | 15 Sep | N| Ashburton (east)   | 2-1 | Certoma 31′ (P), Clever 90+2′   |  |
 | Fin2 | 22 Sep | N| Lalor (north)      | 4-1 | Ferrier 78′, Certoma 87′, Bergmann 90+1′, Chorny 90+2′  |  |
 
-CS Clean sheet, PS Penalty save, F Friendly, OG Own goal, H Home, A Away, N Neutral
+H Home, A Away, N Neutral
+
+CS Clean sheet, PS Penalty save, RC Red card
+
+F Friendly, OG Own goal, 
 
 † Correction of incorrect goal scorer listed on match record
 
