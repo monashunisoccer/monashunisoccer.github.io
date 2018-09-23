@@ -1,7 +1,8 @@
-**Men's Seniors Table**
+### 2001 Mens Seniors (Provisional 2 South-East)
 
-| #\
- | Team | P | W | D | L | GF | GA | Pts |
+#### Table
+
+| # | Team | P | W | D | L | GF | GA | Pts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Heatherton United | 22 | 17 | 3 | 2 | 56 | 13 | 54 |
 | 2 | South Yarra | 22 | 16 | 5 | 1 | 58 | 21 | 53 |
@@ -16,7 +17,7 @@
 | 11 | North Caulfield | 22 | 5 | 4 | 13 | 34 | 58 | 19 |
 | 12 | Dandenong Inter | 22 | 2 | 8 | 12 | 27 | 64 | 14 |
 
-**Men's Seniors Results**
+#### Results
 
 | **R** | **Date** | **Result** | **vs** | **Scorers** |
 | 1 |
@@ -117,7 +118,7 @@
  | 4 Aug\
  | 5-4\
  | Dandenong Inter\
- | Croes 3, Patterso, Davies |
+ | Croes 3, Patterson, Davies |
 | 19\
  | 11 Aug | 2-1\
  | Berwick Kings\
