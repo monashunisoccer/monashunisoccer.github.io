@@ -6,6 +6,32 @@ match:
   venue: Ashburton
   result: 1-0 (0-0)
 
+event:
+  - yellow_card:
+      who: Ben Baynard-Smith
+      when: "36"
+      reason: "Y2"
+  - substitution:
+      who: Daniel Raneri
+      replaced: Alexander Eggleston
+      when: "57"
+  - substitution:
+      who: Timileyin Adeosun
+      replaced: Liam Diamantopoulos
+      when: "62"
+  - substitution:
+      who: James Polmear
+      replaced: Ben Baynard-Smith
+      when: "73"
+  - yellow_card:
+      who: Todd Wallace
+      when: "76"
+      reason: "Y1"
+  - red_card:
+      who: Todd Wallace
+      when: "89"
+      reason: "R7"
+
 starter:
   - Alexander Grantham:
       shirt: "GK"
@@ -15,110 +41,79 @@ starter:
 
   - Todd Wallace:
       shirt: "6"
-      event:
-        - yellow_card:
-            when: "76"
-            reason: "Y1"
-        - red_card:
-            when: "89"
-            reason: "R7"
       3:
       2:
       1:
 
   - Kieran Enright:
       shirt: "2"
-      event:
       3:
       2:
       1:
 
   - Ben Knight:
       shirt: "4"
-      event:
       3:
       2:
       1:
 
   - Liam Diamantopoulos:
       shirt: "5"
-      event:
       3:
       2:
       1:
 
   - Miles Rodriquez:
       shirt: "8"
-      event:
       3:
       2:
       1:
 
   - Alexander Eggleston:
       shirt: "3"
-      event:
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "16"
-      event:
-        - yellow_card:
-            when: "36"
-            reason: "Y2"
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "13"
-      event:
       3:
       2:
       1:
 
   - Lucas Ford Weinberg:
       shirt: "11"
-      event:
       3:
       2:
       1:
 
   - Mike Van der Wouw:
       shirt: "9"
-      event:
       3:
       2:
       1:
 
-substitute:
+bench:
   - Daniel Raneri:
       shirt: "14"
-      event:
-          - subbed_on:
-                replaced: Alexander Eggleston
-                when: "57"
       3:
       2:
       1:
 
   - James Polmear:
       shirt: "12"
-      event:
-          - subbed_on:
-                replaced: Ben Baynard-Smith
-                when: "73"
       3:
       2:
       1:
 
   - Timileyin Adeosun:
       shirt: "17"
-      event:
-          - subbed_on:
-                replaced: Liam Diamantopoulos
-                when: "62"
       3:
       2:
       1:

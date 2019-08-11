@@ -6,108 +6,101 @@ match:
   venue: Monash University
   result: 3-1 (2-0)
 
+event:
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "5"
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "38"
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "83"
+  - substitution:
+      who: Sampath Mishra
+      replaced: Daniel Raneri
+      when: "86"
+  - substitution:
+      who: Timileyin Adeosun
+      replaced: Ace Mitrevski
+      when: "90+1"
 
 starter:
   - Alexander Grantham:
       shirt: "GK"
-      event:
       3:
       2:
       1:
 
   - Mike Van der Wouw:
       shirt: "9"
-      event:
-        - goal_scorer:
-            when: "5"
-        - goal_scorer:
-            when: "38"
-        - goal_scorer:
-            when: "83"
       3:
       2:
       1:
 
   - Kieran Enright:
       shirt: "13"
-      event:
       3:
       2:
       1:
 
   - Todd Wallace:
       shirt: "6"
-      event:
       3:
       2:
       1:
 
   - Ace Mitrevski:
       shirt: "3"
-      event:
       3:
       2:
       1:
 
   - Alexander Eggleston:
       shirt: "12"
-      event:
       3:
       2:
       1:
 
   - Miles Rodriquez:
       shirt: "8"
-      event:
       3:
       2:
       1:
 
   - Liam Diamantopoulos:
       shirt: "2"
-      event:
       3:
       2:
       1:
 
   - Daniel Raneri:
       shirt: "17"
-      event:
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "5"
-      event:
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      event:
       3:
       2:
       1:
 
-substitute:
+bench:
   - Timileyin Adeosun:
       shirt: "5"
-      event:
-        - subbed_on:
-            replaced: Ace Mitrevski
-            when: "90+1"
       3:
       2:
       1:
 
   - Sampath Mishra:
       shirt: "15"
-      event:
-        - subbed_on:
-            replaced: Daniel Raneri
-            when: "86"
       3:
       2:
       1:

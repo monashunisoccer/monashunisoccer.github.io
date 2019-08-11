@@ -9,106 +9,91 @@ match:
 starter:
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
       3:
       2:
       1:
 
-substitute:
+bench:
   - :
       shirt:
-      events:
-      3:
-      2:
-      1:
-
-  - :
-      shirt:
-      events:
       3:
       2:
       1:
 
   - :
       shirt:
-      events:
+      3:
+      2:
+      1:
+
+  - :
+      shirt:
       3:
       2:
       1:

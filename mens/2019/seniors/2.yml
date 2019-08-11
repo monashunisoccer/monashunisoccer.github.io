@@ -6,6 +6,54 @@ match:
   venue: Terrara Park
   result: 1-1 (0-0)
 
+event:
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "47"
+
+  - opponent_yellow_card:
+      who: Nikolai Skaler
+      when: "50"
+      reason: "Y1"
+
+  - substitution:
+      who: Roberto Serrano
+      replaced: Mike Van der Wouw
+      when: "51"
+
+  - opponent_yellow_card:
+      who: Nhan Than
+      when: "63"
+      reason: "Y1"
+
+  - opponent_goal_scored:
+      who: Christopher del Medico
+      when: "64"
+
+  - substitution:
+      who: Yahya Yaqobi
+      replaced: Ace Mitrevski
+      when: "78"
+
+  - substitution:
+      who: James Polmear
+      replaced: Arnold Clever
+      when: "80"
+
+  - opponent_yellow_card:
+      who: Archie Lindsay
+      when: "82"
+      reason: "Y1"
+
+  - opponent_red_card:
+      who: Christopher del Medico
+      when: "90+5"
+      reason: "R2"
+
+official:
+  coach: Brian Vasey
+  team_manager: Andrew Patterson
+
 starter:
   - Alexander Grantham:
       shirt: "GK"
@@ -57,9 +105,6 @@ starter:
 
   - Mike Van der Wouw:
       shirt: "9"
-      event:
-        - goal_scorer:
-            when: "47"
       3:
       2:
       1:
@@ -76,33 +121,21 @@ starter:
       2:
       1:
 
-substitute:
+bench:
   - Roberto Serrano:
       shirt: "12"
-      event:
-        - subbed_on:
-            replaced: Mike Van der Wouw
-            when: "51"
       3:
       2:
       1:
 
   - Yahya Yaqobi:
       shirt: "17"
-      event:
-        - subbed_on:
-            replaced: Ace Mitrevski
-            when: "78"
       3:
       2:
       1:
 
   - James Polmear:
       shirt: "4"
-      event:
-        - subbed_on:
-            replaced: Arnold Clever
-            when: "80"
       3:
       2:
       1:

@@ -6,114 +6,106 @@ match:
   venue: Fawkner Park
   result: 3-1 (1-0)
 
+event:
+  - substitution:
+      who: Yahya Yaqobi
+      replaced: Ace Mitrevski
+      when: "80"
+  - substitution:
+      who: James Polmear
+      replaced: Miles Rodriquez
+      when: "83"
+  - substitution:
+      who: Arnold Clever
+      replaced: Ben Baynard-Smith
+      when: "62"
+  - goal_scored:
+      who: Lucas Ford Weinberg
+      when: "88"
+
 
 starter:
   - Alexander Grantham:
       shirt: "GK"
-      event:
       3:
       2:
       1:
 
   - Timileyin Adeosun:
       shirt: "16"
-      event:
       3:
       2:
       1:
 
   - Kieran Enright:
       shirt: "3"
-      event:
       3:
       2:
       1:
 
   - Todd Wallace:
       shirt: "6"
-      event:
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "5"
-      event:
       3:
       2:
       1:
 
   - Liam Diamantopoulos:
       shirt: "2"
-      event:
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "11"
-      event:
       3:
       2:
       1:
 
   - Lucas Ford Weinberg:
       shirt: "9"
-      event:
-        - goal_scorer:
-            when: "88"
       3:
       2:
       1:
 
   - Miles Rodriquez:
       shirt: "8"
-      event:
       3:
       2:
       1:
 
   - Alexander Eggleston:
       shirt: "13"
-      event:
       3:
       2:
       1:
 
   - Ace Mitrevski:
       shirt: "4"
-      event:
       3:
       2:
       1:
 
-substitute:
+bench:
   - Yahya Yaqobi:
       shirt: "17"
-      event:
-        - subbed_on:
-            replaced: Ace Mitrevski
-            when: "80"
       3:
       2:
       1:
 
   - James Polmear:
       shirt: "12"
-      event:
-        - subbed_on:
-            replaced: Miles Rodriquez
-            when: "83"
       3:
       2:
       1:
 
   - Arnold Clever:
       shirt: "10"
-      event:
-        - subbed_on:
-            replaced: Ben Baynard-Smith
-            when: "62"
       3:
       2:
       1:

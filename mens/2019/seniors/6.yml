@@ -6,6 +6,37 @@ match:
   venue: Monash University
   result: 6-0 (4-0)
 
+event:
+  - substitution:
+      who: Ben Baynard-Smith
+  - substitution:
+      who: Scott Polmear
+  - substitution:
+      who: Peter Cowell
+  - yellow_card:
+      who: Alexander Eggleston
+      when: "17"
+      reason: "Y4"
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "28"
+  - goal_scored:
+      who: Alexander Eggleston
+      when: "34"
+  - goal_scored:
+      who: Ace Mitrevski
+      when: "39"
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "42"
+  - goal_scored:
+      who: Ben Baynard-Smith
+      when: "82"
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "89"
+
+
 starter:
   - Alexander Grantham:
       shirt: "GK"
@@ -27,18 +58,12 @@ starter:
 
   - Ace Mitrevski:
       shirt: "14"
-      event:
-        - goal_scorer:
-            when: "39"
       3:
       2:
       1:
 
   - Mike Van der Wouw:
       shirt: "9"
-      event:
-        - goal_scorer:
-            when: "89"
       3:
       2:
       1:
@@ -51,23 +76,12 @@ starter:
 
   - Alexander Eggleston:
       shirt: "17"
-      event:
-        - yellow_card:
-            when: "17"
-            reason: "Y4"
-        - goal_scorer:
-            when: "34"
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      event:
-        - goal_scorer:
-            when: "28"
-        - goal_scorer:
-            when: "42"
       3:
       2:
       1:
@@ -90,30 +104,21 @@ starter:
       2:
       1:
 
-substitute:
+bench:
   - Scott Polmear:
       shirt: "12"
-      event:
-        - subbed_on:
       3:
       2:
       1:
 
   - Peter Cowell:
       shirt: "5"
-      event:
-        - subbed_on:
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "13"
-      event:
-        - subbed_on:
-
-        - goal_scorer:
-            when: "82"
       3:
       2:
       1:

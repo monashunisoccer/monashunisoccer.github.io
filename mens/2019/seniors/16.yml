@@ -1,0 +1,112 @@
+---
+match:
+  round: R16
+  date: 2019-07-20
+  opponent: Elwood away
+  venue: Elwood
+  result: 2-1 (2-0)
+
+official:
+  coach: Brian Vasey
+  team_manager: Andrew Patterson
+
+event:
+  - substitution:
+      who: gab
+      replaced: liam
+      when: "49"
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "78"
+
+starter:
+  - Nicholas Hendry:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Saran Mongkolkosol:
+      shirt: "12"
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      shirt: "13"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "5"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "2"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "11"
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "14"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "10"
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+bench:
+  - Nathaniel Ganeson:
+      shirt: "9"
+      3:
+      2:
+      1:
+
+  - Sina Fasahat:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      shirt: "15"
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      shirt: "7"
+      3:
+      2:
+      1:

@@ -1,0 +1,137 @@
+---
+match:
+  round: R15
+  date: 2019-07-13
+  opponent: Ashburton home
+  venue: Monash University
+  result: 6-0 (2-0)
+
+official:
+  coach: Brian Vasey
+  team_manager: Andrew Patterson
+
+event:
+  - substitution:
+      who: nath
+
+  - substitution:
+      who: ben
+
+  - substitution:
+      who: gab
+
+  - goal_scored:
+      who: Simbarashe Maravanyika
+      when: "13"
+
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "18"
+
+  - goal_scored:
+      who: Alexander Eggleston
+      when: "52"
+
+  - goal_scored:
+      who: Arnold Clever
+      when: "57"
+
+  - goal_scored:
+      who: Arnold Clever
+      when: "83"
+
+  - goal_scored:
+      who: Arnold Clever
+      when: "90+2"
+
+starter:
+  - Nicholas Hendry:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "10"
+      3:
+      2:
+      1:
+
+  - Simbarashe Maravanyika:
+      shirt: "13"
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      shirt: "2"
+      3:
+      2:
+      1:
+
+  - Saran Mongkolkosol:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "15"
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      shirt: "14"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "5"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "9"
+      3:
+      2:
+      1:
+
+bench:
+  - Nathaniel Ganeson:
+      shirt: "7"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "8"
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      shirt: "12"
+      3:
+      2:
+      1:
+
+  - Sina Fasahat:
+      shirt: "GK"
+      3:
+      2:
+      1:

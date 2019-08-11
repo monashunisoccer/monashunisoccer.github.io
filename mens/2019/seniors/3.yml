@@ -6,6 +6,26 @@ match:
   venue: Dendy Park
   result: 3-0 (2-0)
 
+event:
+  - yellow_card:
+      who: Todd Wallace
+      when: "31"
+
+  - substitution:
+      who: Timileyin Adeosun
+      replaced: Miles Rodriquez
+      when: "46"
+
+  - substitution:
+      who: Daniel Raneri
+      replaced: Liam Diamantopoulos
+      when: "46"
+
+  - substitution:
+      who: Ben Baynard-Smith
+      replaced: Lucas Ford Weinberg
+      when: "70"
+
 starter:
   - Alexander Grantham:
       shirt: "GK"
@@ -15,9 +35,6 @@ starter:
 
   - Todd Wallace:
       shirt: "6"
-      event:
-        - yellow_card:
-            when: "31"
       3:
       2:
       1:
@@ -76,33 +93,21 @@ starter:
       2:
       1:
 
-substitute:
+bench:
   - Daniel Raneri:
       shirt: "7"
-      event:
-        - subbed_on:
-            replaced: Liam Diamantopoulos
-            when: "46"
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "13"
-      event:
-        - subbed_on:
-            replaced: Lucas Ford Weinberg
-            when: "70"
       3:
       2:
       1:
 
   - Timileyin Adeosun:
       shirt: "12"
-      event:
-        - subbed_on:
-            replaced: Miles Rodriquez
-            when: "46"
       3:
       2:
       1:

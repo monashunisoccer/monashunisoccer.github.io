@@ -6,101 +6,96 @@ match:
   venue: Monash University
   result: 3-1 (2-0)
 
+event:
+  - goal_scored:
+      who: Alexander Eggleston
+      when: "16"
+  - yellow_card:
+      who: Lucas Ford Weinberg
+      when: "28"
+      reason: "Y2"
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "30"
+  - substitution:
+      who: Mike Van der Wouw
+      replaced: Lucas Ford Weinberg
+      when: "59"
+  - goal_scored:
+      who: Ace Mitrevski
+      when: "87"
+
 
 starter:
   - Alexander Grantham:
       shirt: "GK"
-      event:
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "13"
-      event:
-        - goal_scorer:
-            when: "30"
       3:
       2:
       1:
 
   - Miles Rodriquez:
       shirt: "8"
-      event:
       3:
       2:
       1:
 
   - Lucas Ford Weinberg:
       shirt: "9"
-      event:
-        - yellow_card:
-            when: "28"
-            reason: "Y2"
       3:
       2:
       1:
 
   - Arnold Clever:
       shirt: "15"
-      event:
       3:
       2:
       1:
 
   - Todd Wallace:
       shirt: "6"
-      event:
       3:
       2:
       1:
 
   - Liam Diamantopoulos:
       shirt: "4"
-      event:
       3:
       2:
       1:
 
   - Ace Mitrevski:
       shirt: "3"
-      event:
-        - goal_scorer:
-            when: "87"
       3:
       2:
       1:
 
   - Alexander Eggleston:
       shirt: "14"
-      event:
-        - goal_scorer:
-            when: "16"
       3:
       2:
       1:
 
   - Daniel Raneri:
       shirt: "5"
-      event:
       3:
       2:
       1:
 
   - Kieran Enright:
       shirt: "2"
-      event:
       3:
       2:
       1:
 
-substitute:
+bench:
   - Mike Van der Wouw:
       shirt: "7"
-      event:
-        - subbed_on:
-            replaced: Lucas Ford Weinberg
-            when: "59"
       3:
       2:
       1:

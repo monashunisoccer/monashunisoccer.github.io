@@ -1,0 +1,135 @@
+---
+match:
+  round: R14
+  date: 2019-07-06
+  opponent: Brighton home
+  venue: Monash University
+  result: 2-1 (1-0)
+
+official:
+  coach: Brian Vasey
+  team_manager: Ned Rocke
+
+event:
+  - substitution:
+      who: souley
+      replaced: Sarmad Nikakhter
+      when: "84"
+  - substitution:
+      who: nathan
+      replaced: yahya
+      when: "72"
+  - substitution:
+      who: ben
+      replaced: arnie
+      when: "90+1"
+  - goal_scored:
+      who: Sarmad Nikakhter
+      when: "35"
+  - goal_scored:
+      who: Arnold Clever
+      when: "82"
+  - yellow_card:
+      who: saran
+      when: "49"
+      reason: "Y1"
+  - penalty_saved:
+      who: Nicholas Hendry
+
+starter:
+  - Nicholas Hendry:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "2"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "16"
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "5"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Simbarashe Maravanyika:
+      shirt: "13"
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      shirt: "14"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+  - Saran Mongkolkosol:
+      shirt: "8"
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "15"
+      3:
+      2:
+      1:
+
+bench:
+  - Sina Fasahat:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      shirt: "10"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "9"
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      shirt: "12"
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      shirt: "11"
+      3:
+      2:
+      1:

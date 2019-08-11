@@ -7,128 +7,128 @@ match:
   result: 2-1 (0-0)
 
 event:
-  - opponent_own_goal_scored:
+  - substitution:
+      who: Scott Polmear
+      replaced: Sarmad Nikakhter
+      when: "47"
+  - yellow_card:
+      who: Miles Rodriquez
+      when: "50"
+      reason: "Y1"
+  - goal_scored:
       when: "58"
+      own_goal: true
+  - substitution:
+      who: Mike Van der Wouw
+      replaced: Lucas Ford Weinberg
+      when: "67"
+  - substitution:
+      who: Ben Baynard-Smith
+      replaced: Ace Mitrevski
+      when: "70"
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "73"
+  - yellow_card:
+      who: Ben Baynard-Smith
+      when: "88"
+      reason: "Y1"
+  - yellow_card:
+      # was assigned on teamsheet to Lucas which is wrong as he was off field - think it was transcription row error
+      who: Kieran Enright
+      when: "90+1"
+      reason: "Y1"
   - opponent_goal_scored:
       when: "92"
+
+official:
+  coach: Brian Vasey
+  team_manager: Andrew Patterson
 
 starter:
   - Alexander Grantham:
       shirt: "GK"
-      event:
       3:
       2:
       1:
 
   - Todd Wallace:
       shirt: "6"
-      event:
       3:
       2:
       1:
 
   - Miles Rodriquez:
       shirt: "8"
-      event:
-        - yellow_card:
-            when: "50"
-            reason: "Y1"
       3:
       2:
       1:
 
   - Alexander Eggleston:
       shirt: "11"
-      event:
       3:
       2:
       1:
 
   - Ben Knight:
       shirt: "4"
-      event:
       3:
       2:
       1:
 
   - Kieran Enright:
       shirt: "2"
-      event:
-        # was assigned on teamsheet to lucas which is wrong as he was off field
-        - yellow_card:
-            when: "90+1"
-            reason: "Y1"
       3:
       2:
       1:
 
   - Lucas Ford Weinberg:
       shirt: "5"
-      event:
       3:
       2:
       1:
 
   - Daniel Raneri:
       shirt: "17"
-      event:
       3:
       2:
       1:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      event:
       3:
       2:
       1:
 
   - Liam Diamantopoulos:
       shirt: "13"
-      event:
       3:
       2:
       1:
 
   - Ace Mitrevski:
       shirt: "16"
-      event:
       3:
       2:
       1:
 
-substitute:
+bench:
   - Scott Polmear:
       shirt: "14"
-      event:
-        - subbed_on:
-            replaced: Sarmad Nikakhter
-            when: "47"
       3:
       2:
       1:
 
   - Mike Van der Wouw:
       shirt: "9"
-      event:
-        - goal_scorer:
-            when: "73"
-        - subbed_on:
-            replaced: Lucas Ford Weinberg
-            when: "67"
       3:
       2:
       1:
 
   - Ben Baynard-Smith:
       shirt: "3"
-      event:
-        - subbed_on:
-            replaced: Ace Mitrevski
-            when: "70"
-        - yellow_card:
-            when: "88"
-            reason: "Y1"
       3:
       2:
       1:
+
+

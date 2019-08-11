@@ -6,6 +6,21 @@ match:
   venue: Tatterson Park
   result: 0-2 (0-1)
 
+event:
+  - substitution:
+      who: James Polmear
+      replaced: Ben Baynard-Smith
+      when: "46"
+
+  - substitution:
+      who: Scott Polmear
+      replaced: Ace Mitrevski
+      when: "59"
+
+  - substitution:
+      who: Sampath Mishra
+      when: "71"
+
 starter:
   - Alexander Grantham:
       shirt: "GK"
@@ -73,32 +88,21 @@ starter:
       2:
       1:
 
-substitute:
+bench:
   - Sampath Mishra:
       shirt: "15"
-      event:
-        - subbed_on:
-            when: "71"
       3:
       2:
       1:
 
   - James Polmear:
       shirt: "7"
-      event:
-        - subbed_on:
-            replaced: Ben Baynard-Smith
-            when: "46"
       3:
       2:
       1:
 
   - Scott Polmear:
       shirt: "13"
-      event:
-        - subbed_on:
-            replaced: Ace Mitrevski
-            when: "59"
       3:
       2:
       1:
