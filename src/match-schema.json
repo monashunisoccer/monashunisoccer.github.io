@@ -1,0 +1,299 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://monashunisoccer.org/match.json",
+  "description": "A representation of a match record from a soccer/football game",
+  "type": "object",
+  "required": [
+    "match"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "match": {
+      "$id": "#/properties/match",
+      "type": "object",
+      "title": "The Match Schema",
+      "required": [
+        "round",
+        "date",
+        "opponent",
+        "venue",
+        "result"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "round": {
+          "$id": "#/properties/match/properties/round",
+          "type": "string",
+          "title": "The Round Schema",
+          "default": "",
+          "examples": [
+            "R6", "CUP2", "FINAL1"
+          ],
+          "pattern": "^R\\d*|CUP\\d*|FINAL\\d*$"
+        },
+        "date": {
+          "$id": "#/properties/match/properties/date",
+          "type": "string",
+          "title": "The Date Schema",
+          "default": "",
+          "examples": [
+            "2019-05-04"
+          ],
+          "pattern": "^(.*)$"
+        },
+        "opponent": {
+          "$id": "#/properties/match/properties/opponent",
+          "type": "string",
+          "title": "The Opponent Schema",
+          "default": "",
+          "examples": [
+            "Middle Park home"
+          ],
+          "pattern": "^(.*) (away|home)$"
+        },
+        "venue": {
+          "$id": "#/properties/match/properties/venue",
+          "type": "string",
+          "title": "The venue of the match, noting that not all home games are necessarily ",
+          "default": "",
+          "examples": [
+            "Monash University"
+          ],
+          "pattern": "^(.*)$"
+        },
+        "result": {
+          "$id": "#/properties/match/properties/result",
+          "type": "string",
+          "description": "The result of the match including optional half time score",
+          "examples": [
+            "6-0 (4-0)"
+          ],
+          "pattern": "^\\d*-\\d*( \\(\\d*-\\d*\\))?$"
+        }
+      }
+    },
+    "event": {
+      "$id": "#/properties/starter",
+      "type": "array",
+      "title": "The Starter Schema",
+      "items": { "$ref": "#/definitions/starter_player" }
+    },
+    "starter": {
+      "$id": "#/properties/starter",
+      "type": "array",
+      "title": "The Starter Schema",
+      "items": { "$ref": "#/definitions/starter_player" }
+    },
+    "substitute": {
+      "$id": "#/properties/substitute",
+      "type": "array",
+      "title": "The Starter Schema",
+      "items": { "$ref": "#/definitions/substitute_player" }
+    }
+  },
+  "definitions": {
+    "when": {
+      "type": "string",
+      "description": "A time during a match at which an event has occurred with 45+X and 90+X being valid notations",
+      "examples": [
+        "43", "56", "90+4", "45+2"
+      ],
+      "pattern": "^\\d*(\\+\\d*)?$"
+    },
+    "shirt": {
+      "description": "A shirt number or GK",
+      "examples": [
+        "11", "4", "GK"
+      ],
+      "pattern": "^\\d*|GK$"
+    },
+    "name": {
+      "description": "A name of a participant of this match or null if no name has been recorded for this data",
+      "examples": [
+        "Alex Ferguson", "Robbie Fowler"
+      ],
+      "anyOf": [
+        {
+          "type": "string",
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "yellow_card_reason": {
+      "type": "string",
+      "description": "A code indicating the reason for a yellow card",
+      "enum": [
+        "Y1", "Y2", "Y3", "Y4", "Y5", "Y6", "Y7", "Y8"
+      ]
+    },
+    "red_card_reason": {
+      "type": "string",
+      "description": "A code indicating the reason for a red card",
+      "enum": [
+        "R1", "R2", "R3", "R4", "R5", "R6", "R7", "R8"
+      ]
+    },
+    "starter_player": {
+      "type": "object",
+      "additionalProperties":  { "$ref": "#/definitions/starter_detail" }
+    },
+    "starter_detail": {
+      "type": "object",
+      "description": "A player who has started a match",
+      "additionalProperties": false,
+      "properties": {
+        "shirt":{ "$ref": "#/definitions/shirt" },
+        "event": {
+          "oneOf": [
+            {
+              "type": "array",
+              "title": "The Event Schema",
+              "items": { "$ref": "#/definitions/starter_event" }
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "3": { "$ref": "#/definitions/name", "description": "Player who earned 3 players player votes" },
+        "2": { "$ref": "#/definitions/name" },
+        "1": { "$ref": "#/definitions/name" }
+      }
+    },
+    "substitute_player": {
+      "type": "object",
+      "additionalProperties":  { "$ref": "#/definitions/substitute_detail" }
+    },
+    "substitute_detail": {
+      "type": "object",
+      "description": "A player who has substituted on in a match",
+      "additionalProperties": false,
+      "properties": {
+        "shirt":{ "$ref": "#/definitions/shirt" },
+        "event": {
+          "type": "array",
+          "title": "The Event Schema",
+          "items": { "$ref": "#/definitions/substitute_event" }
+        },
+        "3": { "$ref": "#/definitions/name", "description": "Player who earned 3 players player votes" },
+        "2": { "$ref": "#/definitions/name" },
+        "1": { "$ref": "#/definitions/name" }
+      }
+    },
+    "match_event": {
+      "type": "object",
+      "description": "An event that occurs in the overall match context and not specifically to a player",
+      "additionalProperties": false,
+      "properties": {
+        "own_goal_scorer": { "$ref": "#/definitions/goal_scorer_event" },
+        "yellow_card": { "$ref": "#/definitions/yellow_card_event" },
+        "red_card": { "$ref": "#/definitions/red_card_event" }
+      }
+    },
+    "starter_event": {
+      "oneOf": [{
+        "type": "object",
+        "description": "An event that occurs for a starter at a match",
+        "additionalProperties": false,
+        "properties": {
+          "goal_scorer": {"$ref": "#/definitions/goal_scorer_event"},
+          "yellow_card": {"$ref": "#/definitions/yellow_card_event"},
+          "red_card": {"$ref": "#/definitions/red_card_event"}
+        }
+      },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "substitute_event": {
+      "type": "object",
+      "description": "An event that occurs for a substitute at a match",
+      "additionalProperties": false,
+      "properties": {
+        "goal_scorer": { "$ref": "#/definitions/goal_scorer_event" },
+        "yellow_card": { "$ref": "#/definitions/yellow_card_event" },
+        "red_card": { "$ref": "#/definitions/red_card_event" },
+        "subbed_on": { "$ref": "#/definitions/subbed_on_event" }
+      }
+    },
+    "appearance_event": {
+      "type": "object",
+      "description": "An event that occurs for someone making an appearance at a match",
+      "additionalProperties": false,
+      "properties": {
+        "goal_scorer": { "$ref": "#/definitions/goal_scorer_event" },
+        "yellow_card": { "$ref": "#/definitions/yellow_card_event" },
+        "red_card": { "$ref": "#/definitions/red_card_event" }
+      }
+    },
+    "goal_scorer_event": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "An event of a goal scored",
+          "additionalProperties": false,
+          "properties": {
+            "when": {"$ref": "#/definitions/when"}
+          }
+        },
+        {
+          "type": "null",
+          "description": "An event indicating a goal was scored, but with no actual details of the event",
+        }
+      ]
+    },
+    "yellow_card_event": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "An event of a goal scored",
+          "additionalProperties": false,
+          "properties": {
+            "when": {"$ref": "#/definitions/when"},
+            "reason": {"$ref": "#/definitions/yellow_card_reason"},
+          }
+        },
+        {
+          "type": "null",
+          "description": "An event indicating a player received a yellow card, but with no actual details of the event",
+        }
+      ]
+    },
+    "red_card_event": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "An event of a goal scored",
+          "additionalProperties": false,
+          "properties": {
+            "when": {"$ref": "#/definitions/when"}
+          }
+        },
+        {
+          "type": "null",
+          "description": "An event indicating a player received a red card, but with no actual details of the event",
+        }
+      ]
+    },
+    "subbed_on_event": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "An event indicating a player was subbed on",
+          "additionalProperties": false,
+          "properties": {
+            "when": { "$ref": "#/definitions/when" },
+            "replaced": { "$ref": "#/definitions/name" }
+          }
+        },
+        {
+          "type": "null",
+          "description": "An event indicating a player was subbed on, but with no actual details of the event",
+        }
+      ]
+    }
+  }
+}
