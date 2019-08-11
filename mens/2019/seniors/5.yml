@@ -1,0 +1,134 @@
+---
+match:
+  round: R5
+  date: 2019-04-27
+  opponent: Elwood City home
+  venue: Monash University
+  result: 2-1 (0-0)
+
+event:
+  - opponent_own_goal_scored:
+      when: "58"
+  - opponent_goal_scored:
+      when: "92"
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      event:
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      event:
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "8"
+      event:
+        - yellow_card:
+            when: "50"
+            reason: "Y1"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "11"
+      event:
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "4"
+      event:
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "2"
+      event:
+        # was assigned on teamsheet to lucas which is wrong as he was off field
+        - yellow_card:
+            when: "90+1"
+            reason: "Y1"
+      3:
+      2:
+      1:
+
+  - Lucas Ford Weinberg:
+      shirt: "5"
+      event:
+      3:
+      2:
+      1:
+
+  - Daniel Raneri:
+      shirt: "17"
+      event:
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "10"
+      event:
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "13"
+      event:
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      shirt: "16"
+      event:
+      3:
+      2:
+      1:
+
+substitute:
+  - Scott Polmear:
+      shirt: "14"
+      event:
+        - subbed_on:
+            replaced: Sarmad Nikakhter
+            when: "47"
+      3:
+      2:
+      1:
+
+  - Mike Van der Wouw:
+      shirt: "9"
+      event:
+        - goal_scorer:
+            when: "73"
+        - subbed_on:
+            replaced: Lucas Ford Weinberg
+            when: "67"
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "3"
+      event:
+        - subbed_on:
+            replaced: Ace Mitrevski
+            when: "70"
+        - yellow_card:
+            when: "88"
+            reason: "Y1"
+      3:
+      2:
+      1:

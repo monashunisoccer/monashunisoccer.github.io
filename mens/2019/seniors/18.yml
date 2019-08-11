@@ -1,0 +1,106 @@
+---
+match:
+  round: R18
+  date: 2019-08-03
+  opponent: Bayside away
+  venue: Shipston Reserve
+  result: 4-0
+
+starter:
+  - Nicholas Hendry:
+      shirt: "GK"
+      event:
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "15"
+      event:
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "2"
+      event:
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      event:
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "10"
+      event:
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "8"
+      event:
+      3:
+      2:
+      1:
+
+  - Saran Mongkolkosol:
+      shirt: "17"
+      event:
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      shirt: "11"
+      event:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      shirt: "4"
+      event:
+      3:
+      2:
+      1:
+
+  - Simbarashe Maravanyika:
+      shirt: "13"
+      event:
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "3"
+      event:
+      3:
+      2:
+      1:
+
+substitute:
+  - Yahya Yaqobi:
+      shirt: "14"
+      event:
+        - subbed_on:
+            replaced: Sarmad Nikakhter
+            when: "82"
+      3:
+      2:
+      1:
+
+  - Ned Rocke:
+      shirt: "GK"
+      event:
+        - subbed_on:
+            replaced: Nicholas Hendry
+            when: "42"
+      3:
+      2:
+      1:

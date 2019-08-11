@@ -1,0 +1,104 @@
+---
+match:
+  round: R1
+  date: 2019-04-20
+  opponent: Frankston Pines home
+  venue: Tatterson Park
+  result: 0-2 (0-1)
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "2"
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "11"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      shirt: "10"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "8"
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "12"
+      3:
+      2:
+      1:
+
+  - Daniel Raneri:
+      shirt: "9"
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      shirt: "5"
+      3:
+      2:
+      1:
+
+  - Lucas Ford Weinberg:
+      shirt: "16"
+      3:
+      2:
+      1:
+
+substitute:
+  - Sampath Mishra:
+      shirt: "15"
+      event:
+        - subbed_on:
+            when: "71"
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      shirt: "7"
+      event:
+        - subbed_on:
+            replaced: Ben Baynard-Smith
+            when: "46"
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      shirt: "13"
+      event:
+        - subbed_on:
+            replaced: Ace Mitrevski
+            when: "59"
+      3:
+      2:
+      1:

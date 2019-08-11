@@ -1,0 +1,119 @@
+---
+match:
+  round: R6
+  date: 2019-05-04
+  opponent: Middle Park home
+  venue: Monash University
+  result: 6-0 (4-0)
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      3: Test
+      2: Person
+      1: Ok
+
+  - Todd Wallace:
+      shirt: "6"
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "8"
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      shirt: "14"
+      event:
+        - goal_scorer:
+            when: "39"
+      3:
+      2:
+      1:
+
+  - Mike Van der Wouw:
+      shirt: "9"
+      event:
+        - goal_scorer:
+            when: "89"
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "17"
+      event:
+        - yellow_card:
+            when: "17"
+            reason: "Y4"
+        - goal_scorer:
+            when: "34"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "10"
+      event:
+        - goal_scorer:
+            when: "28"
+        - goal_scorer:
+            when: "42"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "16"
+      3:
+      2:
+      1:
+
+  - Daniel Raneri:
+      shirt: "7"
+      3:
+      2:
+      1:
+
+substitute:
+  - Scott Polmear:
+      shirt: "12"
+      event:
+        - subbed_on:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      shirt: "5"
+      event:
+        - subbed_on:
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "13"
+      event:
+        - subbed_on:
+
+        - goal_scorer:
+            when: "82"
+      3:
+      2:
+      1:

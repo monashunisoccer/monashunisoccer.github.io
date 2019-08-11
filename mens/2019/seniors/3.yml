@@ -1,0 +1,108 @@
+---
+match:
+  round: R3
+  date: 2019-04-06
+  opponent: Brighton away
+  venue: Dendy Park
+  result: 3-0 (2-0)
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      event:
+        - yellow_card:
+            when: "31"
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "3"
+      3:
+      2:
+      1:
+
+  - Ben Knight:
+      shirt: "4"
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "2"
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "5"
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "14"
+      3:
+      2:
+      1:
+
+  - Lucas Ford Weinberg:
+      shirt: "11"
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "8"
+      3:
+      2:
+      1:
+
+  - Saxon Chorny:
+      shirt: "10"
+      3:
+      2:
+      1:
+
+  - Mike Van der Wouw:
+      shirt: "9"
+      3:
+      2:
+      1:
+
+substitute:
+  - Daniel Raneri:
+      shirt: "7"
+      event:
+        - subbed_on:
+            replaced: Liam Diamantopoulos
+            when: "46"
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "13"
+      event:
+        - subbed_on:
+            replaced: Lucas Ford Weinberg
+            when: "70"
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      shirt: "12"
+      event:
+        - subbed_on:
+            replaced: Miles Rodriquez
+            when: "46"
+      3:
+      2:
+      1:

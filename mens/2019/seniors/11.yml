@@ -1,0 +1,135 @@
+---
+match:
+  round: R11
+  date: 2019-06-15
+  opponent: Skye United home
+  venue: Monash University
+  result: 3-3 (1-2)
+
+event:
+  - own_goal_scored:
+      when: "71"
+
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      event:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      shirt: "17"
+      event:
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      shirt: "12"
+      event:
+        - goal_scorer:
+            when: "71"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      event:
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "2"
+      event:
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "8"
+      event:
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "4"
+      event:
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      shirt: "15"
+      event:
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "13"
+      event:
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "14"
+      event:
+      3:
+      2:
+      1:
+
+  - Mike Van der Wouw:
+      shirt: "9"
+      event:
+        - goal_scorer:
+            when: "73"
+      3:
+      2:
+      1:
+
+substitute:
+  - Peter Cowell:
+      shirt: "11"
+      event:
+        - subbed_on:
+            replaced:
+            when: ""
+      3:
+      2:
+      1:
+
+  - Simbarashe Maravanyika:
+      shirt: "7"
+      event:
+        - subbed_on:
+            replaced:
+            when: ""
+      3:
+      2:
+      1:
+
+  - Roberto Serrano:
+      shirt: "5"
+      event:
+        - subbed_on:
+            replaced:
+            when: ""
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      shirt: "3"
+      event:
+        - subbed_on:
+            replaced:
+            when: ""
+      3:
+      2:
+      1:

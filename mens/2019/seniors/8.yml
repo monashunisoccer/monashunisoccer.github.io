@@ -1,0 +1,124 @@
+---
+match:
+  round: R8
+  date: 2019-05-17
+  opponent: Collingwood away
+  venue: Kevin Bartlet
+  result: 4-2 (2-1)
+
+
+starter:
+  - Alexander Grantham:
+      shirt: "GK"
+      event:
+      3:
+      2:
+      1:
+
+  - Kieran Enright:
+      shirt: "11"
+      event:
+        - yellow_card:
+            when: "73"
+            reason: "Y1"
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      shirt: "14"
+      event:
+      3:
+      2:
+      1:
+
+  - Daniel Raneri:
+      shirt: "5"
+      event:
+      3:
+      2:
+      1:
+
+  - Liam Diamantopoulos:
+      shirt: "4"
+      event:
+      3:
+      2:
+      1:
+
+  - Mike Van der Wouw:
+      shirt: "9"
+      event:
+        - goal_scorer:
+            when: "25"
+        - goal_scorer:
+            when: "59"
+      3:
+      2:
+      1:
+
+  - Todd Wallace:
+      shirt: "6"
+      event:
+      3:
+      2:
+      1:
+
+  - Miles Rodriquez:
+      shirt: "10"
+      event:
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: "2"
+      event:
+      3:
+      2:
+      1:
+
+  - Ben Baynard-Smith:
+      shirt: "16"
+      event:
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: "12"
+      event:
+      3:
+      2:
+      1:
+
+substitute:
+  - Ben Rogan:
+      shirt: "3"
+      event:
+          - subbed_on:
+              replaced: Ace Mitrevski
+              when: "69"
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      shirt: "13"
+      event:
+          - subbed_on:
+              replaced: Alexander Eggleston
+              when: "47"
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      shirt: "15"
+      event:
+          - subbed_on:
+              replaced: Daniel Raneri
+              when: "82"
+      3:
+      2:
+      1:
