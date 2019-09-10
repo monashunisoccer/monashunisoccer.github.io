@@ -25,7 +25,7 @@ _front_: Rory Bush-Belton, Souleymane Diamanka, Keshav Seshadri, Oliver Cooke, C
 | 2   | 8 Jun  | A| W |Whitehorse United (0) | **Monash University (1)** | Ludlow | Laguna-Alberdi (CS)  |
 | 11  | 15 Jun | H| W | **Monash University (3)**  | Skye United (1)  | Ganeson (2), J.Polmear |  |
 | 12  | 21 Jun | A| L |Frankston Pines (5) | **Monash University (0)**  |  |  |
-| 13  | 28 Jun | H| D |**Monash University (4)**  | Whitehorse United (4) |  ?? |  |
+| 13  | 28 Jun | H| D |**Monash University (4)**  | Whitehorse United (4) |  scorer, scorer, scorer, scorer |  |
 | 14  | 6 Jul  | H| D |**Monash University (3)**  | Brighton (3)  | Diamanka, Ludlow, Adeosun |  |
 | 15  | 13 Jul | H| W |**Monash University (4)**  | Ashburton (0)  |  Adeosun (2), Diamanka (2) | Fasahat (CS) |
 | 16  | 20 Jul | A| D |Elwood City (1)       | **Monash University (1)**   | Diamanka (P) |  |
@@ -36,11 +36,7 @@ _front_: Rory Bush-Belton, Souleymane Diamanka, Keshav Seshadri, Oliver Cooke, C
 | 21  | 31 Aug | A| D |Diamond Valley (1)       |  **Monash University (1)** | Lee |  |
 | 22  | 7 Sep  | A| L |Skye United (2)          |  **Monash University (0)** | |  |
 
-H Home, A Away, N Neutral
-
-P Penalty, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
-
-† Correction of incorrect goal scorer listed on match record
+H Home, A Away, N Neutral, W Win, L Loss, D Draw, P Penalty, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
 ------------------------
 
@@ -72,20 +68,20 @@ P Penalty, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal
 
 #### Table
 
-| #   | TEAM                          | P   | W   | D   | L   | F   | A   | GD  | PTS |
-| --- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Monash Uni Mens Seniors** | 22 | 14 | 7 | 1 | 53 | 20 | 33 | **49** |
-| 2  | Springvale City SC             | 22 | 13 | 6 | 3 | 53 | 21 | 32 | 45 |
-| 3  | Sandown Lions FC               | 22 | 11 | 5 | 6 | 52 | 37 | 15 | 38 |
-| 4  | Endeavour United SC            | 22 | 10 | 7 | 5 | 35 | 26 | 9 | 37 |
-| 5  | Dandenong South SC             | 22 | 11 | 3 | 8 | 41 | 37 | 4 | 36 |
-| 6  | Dandenong Warriors FC          | 22 | 8 | 6 | 8 | 41 | 41 | 0 | 30 |
-| 7  | Keysborough SC                 | 22 | 7 | 7 | 8 | 31 | 34 | -3 | 28 |
-| 8  | Harrisfield Hurricanes SC      | 22 | 6 | 4 | 12 | 40 | 48 | -8 | 22 |
-| 9  | Sandringham SC                 | 22 | 5 | 7 | 10 | 27 | 48 | -21 | 22 |
-| 10 | Baxter SC                      | 22 | 5 | 5 | 12 | 39 | 50 | -11 | 20 |
-| 11 | Noble Park SC                  | 22 | 5 | 4 | 13 | 37 | 65 | -28 | 19 |
-| 12 | Hampton Park United Sparrows FC | 22 | 5 | 3 | 14 | 30 | 52 | -22 | 18 |
+| # | TEAM                     | P  | W  | D | L  | F  | A  | GD  | PTS |
+|:---:|--------------------------|:---:|:---:|:---:|:---:|:----:|:----:|:-----:|:-----:|
+| 1   | South Yarra SC           | 22 | 17 | 3 | 2  | 89 | 25 | 64  | 54  |
+| 2   | Collingwood City FC      | 22 | 15 | 2 | 5  | 80 | 42 | 38  | 47  |
+| 3   | Whitehorse United SC     | 22 | 13 | 5 | 4  | 62 | 40 | 22  | 44  |
+| 4   | Elwood City SC           | 22 | 10 | 3 | 9  | 44 | 34 | 10  | 33  |
+| **5**   | **Monash Uni Mens Reserves** | 22 | 8  | 7 | 7  | 39 | 40 | -1  | **31**  |
+| 6   | Brighton SC Reserves     | 22 | 8  | 5 | 9  | 39 | 38 | 1   | 29  |
+| 7   | Skye United FC Reserves  | 22 | 8  | 5 | 9  | 40 | 45 | -5  | 29  |
+| 8   | Middle Park FC           | 22 | 8  | 3 | 11 | 56 | 55 | 1   | 27  |
+| 9   | Frankston Pines FC       | 22 | 8  | 2 | 12 | 35 | 58 | -23 | 26  |
+| 10  | Ashburton United SC      | 22 | 6  | 5 | 11 | 41 | 53 | -12 | 23  |
+| 11  | Bayside Argonauts FC     | 22 | 4  | 4 | 14 | 29 | 89 | -60 | 16  |
+| 12  | Diamond Valley United SC | 22 | 3  | 4 | 15 | 23 | 58 | -35 | 13  |
 
 ------------------------
 
