@@ -33,17 +33,11 @@ _front_: Saran Mongkolkosol, Yahya Yaqobi,  Patryck Lloyd-Donald, Ace Mitrevski,
 | 17 | 27 Jul  | A| W  |Middle Park (0)               |  **Monash University (3)** | Nikakhter (3) | Rocke (CS)  |
 | 18 | 3 Aug  | A|  L |Bayside Argonauts (4)        | **Monash University (0)**  |  |  |
 | 19 | 17 Aug  | H| L  |**Monash University (1)**                 | Collingwood City (5)  | Mongkolkosol |  |
-| 20 | 24 Aug  | H| L  |**Monash University (1)**                | South Yarra (4) | ? |  |
+| 20 | 24 Aug  | H| L  |**Monash University (1)**                | South Yarra (4) | Wallace |  |
 | 21 | 31 Aug  | A| W  |Diamond Valley (0)                |  **Monash University (3)** | Nikakhter, Wessendorf, Clever | Fasahat (CS)  |
 | 22 | 7 Sep  | A| L | Skye United (1)                |  **Monash University (0)** | |  |
 
-H Home, A Away, N Neutral
-
-CS Clean sheet, PS Penalty save, RC Red card
-
-F Friendly, OG Own goal 
-
-† Correction of incorrect goal scorer listed on match record
+H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
 ------------------------
 
@@ -61,6 +55,7 @@ F Friendly, OG Own goal
 | Ben Baynard-Smith        | 1 |
 | Simbarashe Maravanyika   | 1  |
 | Nicolas Wessendorf       | 1  |
+| Todd Wallace             | 1 |
 | OG                       | 2 |
 |                          | = 45 |
 
@@ -68,20 +63,20 @@ F Friendly, OG Own goal
 
 #### Table
 
-| #   | TEAM                          | P   | W   | D   | L   | F   | A   | GD  | PTS |
-| --- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Monash Uni Mens Seniors** | 22 | 14 | 7 | 1 | 53 | 20 | 33 | **49** |
-| 2  | Springvale City SC             | 22 | 13 | 6 | 3 | 53 | 21 | 32 | 45 |
-| 3  | Sandown Lions FC               | 22 | 11 | 5 | 6 | 52 | 37 | 15 | 38 |
-| 4  | Endeavour United SC            | 22 | 10 | 7 | 5 | 35 | 26 | 9 | 37 |
-| 5  | Dandenong South SC             | 22 | 11 | 3 | 8 | 41 | 37 | 4 | 36 |
-| 6  | Dandenong Warriors FC          | 22 | 8 | 6 | 8 | 41 | 41 | 0 | 30 |
-| 7  | Keysborough SC                 | 22 | 7 | 7 | 8 | 31 | 34 | -3 | 28 |
-| 8  | Harrisfield Hurricanes SC      | 22 | 6 | 4 | 12 | 40 | 48 | -8 | 22 |
-| 9  | Sandringham SC                 | 22 | 5 | 7 | 10 | 27 | 48 | -21 | 22 |
-| 10 | Baxter SC                      | 22 | 5 | 5 | 12 | 39 | 50 | -11 | 20 |
-| 11 | Noble Park SC                  | 22 | 5 | 4 | 13 | 37 | 65 | -28 | 19 |
-| 12 | Hampton Park United Sparrows FC | 22 | 5 | 3 | 14 | 30 | 52 | -22 | 18 |
+| #   | TEAM                     | P  | W  | D | L  | F  | A  | GD  | PTS |
+|:---:|--------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
+| 1   | Collingwood City FC      | 22 | 17 | 2 | 3  | 60 | 16 | 44  | 53  |
+| 2   | Skye United FC Seniors   | 22 | 15 | 2 | 5  | 57 | 28 | 29  | 47  |
+| 3   | Whitehorse United SC     | 22 | 15 | 2 | 5  | 55 | 36 | 19  | 47  |
+| 4   | South Yarra SC           | 22 | 10 | 4 | 8  | 41 | 34 | 7   | 34  |
+| 5   | Elwood City SC           | 22 | 10 | 4 | 8  | 38 | 39 | -1  | 34  |
+| 6   | Brighton SC Firsts       | 22 | 9  | 4 | 9  | 38 | 37 | 1   | 31  |
+| 7   | Bayside Argonauts FC     | 22 | 9  | 4 | 9  | 33 | 34 | -1  | 31  |
+| **8**   | **Monash Uni Mens Seniors**  | 22 | 9  | 2 | 11 | 45 | 43 | 2   | **29**  |
+| 9   | Ashburton United SC      | 22 | 8  | 4 | 10 | 35 | 47 | -12 | 28  |
+| 10  | Frankston Pines FC       | 22 | 7  | 5 | 10 | 34 | 38 | -4  | 26  |
+| 11  | Middle Park FC           | 22 | 3  | 1 | 18 | 24 | 62 | -38 | 10  |
+| 12  | Diamond Valley United SC | 22 | 1  | 4 | 17 | 15 | 61 | -46 | 7   |
 
 ------------------------
 
