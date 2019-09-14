@@ -37,7 +37,17 @@ H Home, A Away, N Neutral, CS Clean sheet, PS Penalty save, RC Red card, OG Own 
 
 | PLAYER                   | GOALS |
 | ------------------------ |:-----:|
+| Luke Vlatko              |   6   |
+| Laurent Bonnaud         |   3   |
+| Nuo Chen                |   3   |
+| Pascal Marie            |   2   |
+| Keshav Seshadri        |   2   |
+| Latifur Chowdery       |   2   |
 | Andrew Patterson        |   1   |
+| Kenneth Kanagalinggam   |   1   |
+| Fabricio Milone         |   1   |
+| Shaun Navaretna         |   1   |
+| OG                      |   1   |
 |                          | = 24 |
 
 ------------------------
@@ -53,7 +63,7 @@ H Home, A Away, N Neutral, CS Clean sheet, PS Penalty save, RC Red card, OG Own 
 | 5   | Glen Eira (Raptors)           | 18 | 9  | 1 | 8  | 44 | 26 | 18  | 28  |
 | 6   | Sandringham SC                | 18 | 9  | 1 | 8  | 38 | 34 | 4   | 28  |
 | 7   | Chelsea FC                    | 18 | 7  | 1 | 10 | 38 | 48 | -10 | 22  |
-| **8**| **Monash Uni Mens 3rds**     | **18** | **5**  | **5** | **8**  | **24** | **24** | **0**   | **20**  |
+| **8**| **Monash Uni Mens 3rds**     | 18 | 5  | 5 | 8  | 24 | 24 | 0   | **20**  |
 | 9   | Mazenod Victory Football Club | 18 | 2  | 0 | 16 | 15 | 89 | -74 | 6   |
 | 10  | Brighton Sunday Reserves      | 18 | 0  | 2 | 16 | 15 | 62 | -47 | 2   |
 
