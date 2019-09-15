@@ -1,0 +1,91 @@
+---
+match:
+  round: R2
+  date: 2019-06-08
+  home_team: Whitehorse United
+  away_team: Monash University
+  venue: Terrara Park
+  result: 0-1 (0-0)
+
+away_team_event:
+  - goal_scored:
+      who: Joel Ludlow
+      when: "60"
+  - substitution:
+      who: Tomi Akinfire
+  - substitution:
+      who: Oliver Cooke
+  - substitution:
+      who: Llewelyn Ross
+
+away_team_starter:
+  - Andoni Laguna-Alberdi:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Timileyin Adeosun
+      2: Joel Ludlow
+      1: Alex Jong
+
+  - Gabriel Goncalves:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Scott Polmear
+      2: Gabriel Goncalves
+      1: Joel Ludlow
+
+away_team_bench:
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Llewelyn Ross:
+      3: Timileyin Adeosun
+      2: Gabriel Goncalves
+      1: Andoni Laguna-Alberdi

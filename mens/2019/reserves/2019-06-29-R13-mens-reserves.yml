@@ -1,0 +1,90 @@
+---
+match:
+  round: R13
+  date: 2019-06-29
+  home_team: Monash University
+  away_team: Whitehorse United
+  venue: Monash University
+  result: 4-4 (3-1)
+
+home_team_event:
+  - goal_scored:
+      who: Scott Polmear
+  - substitution:
+      who: Joel Ludlow
+  - substitution:
+      who: Ben Rogan
+  - substitution:
+      who: Souleymane Diamanka
+
+home_team_starter:
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:

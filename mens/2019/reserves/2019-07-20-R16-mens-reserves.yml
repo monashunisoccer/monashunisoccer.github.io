@@ -1,0 +1,88 @@
+---
+match:
+  round: R16
+  date: 2019-07-20
+  home_team: Elwood
+  away_team: Monash University
+  venue: Elwood
+  result: 1-1 (0-0)
+
+away_team_event:
+  - goal_scored:
+      who: Souleymane Diamanka
+      when: "69"
+  - substitution:
+      who: Ryan Baena
+      when: "59"
+  - substitution:
+      who: Andrew Patterson
+      when: "75"
+
+# team sheet has Oliver Cooke starting but he didn't show so Calvin started - indicated with an arrow on sheet
+
+away_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Alex Jong
+      2: Sina Fasahat
+      1: Patryck Lloyd-Donald
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Alex Jong
+      2: Joel Fernandez
+      1: Sina Fasahat
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Peter Mastorakis:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Ryan Baena:
+      3:
+      2:
+      1:
+
+  - Andrew Patterson:
+      3:
+      2:
+      1:

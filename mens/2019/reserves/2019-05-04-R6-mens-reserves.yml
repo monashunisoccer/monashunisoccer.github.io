@@ -1,0 +1,102 @@
+---
+match:
+  round: R6
+  date: 2019-05-04
+  home_team: Monash University
+  away_team: Middle Park
+  venue: Monash University
+  result: 1-3 (1-3)
+
+home_team_event:
+  - goal_scored:
+      who: George Cummins
+      when: "31"
+  - substitution:
+      who: Joel Ludlow
+      when: "85"
+  - substitution:
+      who: Tomi Akinfire
+      when: "52"
+  - substitution:
+      who: Ben Rogan
+      when: "88"
+  - substitution:
+      who: George Cummins
+      when: "30"
+
+home_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Sina Fasahat
+      2: George Cummins
+      1: Yahya Yaqobi
+
+  - Benjamin Mcanulty:
+      3: Yahya Yaqobi
+      2: Sampath Mishra
+      1: George Cummins
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      3:
+      2:
+      1:
+
+  - Saxon Chorny:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - George Cummins:
+      3:
+      2:
+      1:

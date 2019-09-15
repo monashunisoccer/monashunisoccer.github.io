@@ -1,0 +1,85 @@
+---
+match:
+  round: R20
+  date: 2019-08-24
+  home_team: Monash University
+  away_team: South Yarra
+  venue: Monash University
+  result: 0-4 (0-3)
+
+home_team_event:
+  - substitution:
+      who: Andrew Patterson
+      when: "80"
+
+home_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Joel Fernandez
+      2: Sina Fasahat
+      1: Patryck Lloyd-Donald
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Joel Fernandez
+      2: Keshav Seshadri
+      1: Calvin Lee
+
+  - Keshav Seshadri:
+      3:
+      2:
+      1:
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Andrew Patterson:
+      3: Keshav Seshadri
+      2: Joel Fernandez
+      1: Rory Bush-Belton
+
+  - :
+      3:
+      2:
+      1:
+
+  - :
+      3:
+      2:
+      1:

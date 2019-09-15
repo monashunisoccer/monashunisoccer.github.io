@@ -1,0 +1,93 @@
+---
+match:
+  round: R9
+  date: 2019-05-25
+  home_team: South Yarra
+  away_team: Monash University
+  venue: Fawkner Park
+  result: 3-3 (0-2)
+
+away_team_event:
+  - goal_scored:
+      who: Nathaniel Ganeson
+      when: "20"
+  - goal_scored:
+      who: Sina Ghiasi
+      when: "28"
+  - goal_scored:
+      who: Tomi Akinfire
+      when: "58"
+  - substitution:
+      who: Patryck Lloyd-Donald
+      when: "81"
+  - substitution:
+      who: Andoni Laguna-Alberdi
+      when: "88"
+      note: "Corrected from team sheet - was there and Andoni came on almost in extra time"
+
+away_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Sampath Mishra
+      2: Tomi Akinfire
+      1: Joel Ludlow
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Andoni Laguna-Alberdi:
+      3:
+      2:
+      1:

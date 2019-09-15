@@ -1,0 +1,111 @@
+---
+match:
+  round: R14
+  date: 2019-07-06
+  home_team: Monash University
+  away_team: Brighton
+  venue: Monash University
+  result: 3-3 (2-1)
+
+home_team_event:
+  - goal_scored:
+      who: Souleymane Diamanka
+      when: "10"
+  - goal_scored:
+      who: Joel Ludlow
+      when: "18"
+  - goal_scored:
+      who: Timileyin Adeosun
+      when: "70"
+  - substitution:
+      who: Llewelyn Ross
+  - substitution:
+      who: Ben Knight
+  - substitution:
+      who: Patryck Lloyd-Donald
+  - substitution:
+      who: Calvin Lee
+  - substitution:
+      who: Timileyin Adeosun
+
+home_team_starter:
+  - Nathaniel Ganeson:
+      3: Souleymane Diamanka
+      2: Tomi Akinfire
+      1: Oliver Cooke
+
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Ben Knight:
+      3: Alex Jong
+      2: Nathaniel Ganeson
+      1: Joel Fernandez
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      3:
+      2:
+      1:
+
+  - Llewelyn Ross:
+      3:
+      2:
+      1:

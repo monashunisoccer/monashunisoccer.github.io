@@ -1,0 +1,78 @@
+---
+match:
+  round: R21
+  date: 2019-08-31
+  home_team: Diamond Valley
+  away_team: Monash University
+  venue: Diamond Valley
+  result: 1-1 (0-0)
+
+away_team_event:
+  - goal_scored:
+      who: Calvin Lee
+      when: "66"
+  - substitution:
+      who: Souleymane Diamanka
+      when: "69"
+
+away_team_starter:
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3:
+      2:
+      1:
+
+  - Ned Rocke:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Keshav Seshadri:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Timileyin Adeosun
+      2: Miles Rodriquez
+      1: Patryck Lloyd-Donald
+
+  - Miles Rodriquez:
+      3: Patryck Lloyd-Donald
+      2: Keshav Seshadri
+      1: Yahya Yaqobi
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Benjamin Mcanulty:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:

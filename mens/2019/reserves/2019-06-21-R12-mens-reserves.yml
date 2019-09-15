@@ -1,0 +1,91 @@
+---
+match:
+  round: R12
+  date: 2019-06-21
+  home_team: Frankston Pines
+  away_team: Monash University
+  venue: Monterey Reserve
+  result: 5-0 (3-0)
+
+away_team_event:
+  - substitution:
+      who: Joel Fernandez
+      when: "45"
+  - substitution:
+      who: Ben Rogan
+      when: "54"
+  - substitution:
+      who: Oliver Cooke
+      when: "68"
+
+away_team_starter:
+  - Nicholas Hendry:
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Sampath Mishra
+      2: Joel Fernandez
+      1: Ben Rogan
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:

@@ -1,0 +1,108 @@
+---
+match:
+  round: R3
+  date: 2019-04-06
+  home_team: Brighton
+  away_team: Monash University
+  venue: Dendy Park
+  result: 3-2 (1-2)
+
+away_team_event:
+  - goal_scored:
+      who: Sampath Mishra
+      when: "44"
+  - goal_scored:
+      who: Sampath Mishra
+      when: "45"
+  - substitution:
+      who: Benjamin Mcanulty
+  - substitution:
+      who: Calvin Lee
+  - substitution:
+      who: Sina Ghiasi
+  - substitution:
+      who: Oliver Cooke
+  - substitution:
+      who: Ben Rogan
+
+away_team_starter:
+  - Andoni Laguna-Alberdi:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Scott Polmear
+      2: Sampath Mishra
+      1: Peter Cowell
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      3:
+      2:
+      1:
+
+  - Reuben Gill:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Benjamin Mcanulty:
+      3:
+      2:
+      1:
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:

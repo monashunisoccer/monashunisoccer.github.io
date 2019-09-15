@@ -1,0 +1,75 @@
+---
+match:
+  round: R19
+  date: 2019-08-17
+  home_team: Monash University
+  away_team: Collingwood City
+  venue: Monash University
+  result: 0-2 (0-1)
+
+home_team_event:
+  - substitution:
+      who: Keshav Seshadri
+      when: "67"
+
+home_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Alex Jong
+      2: Sampath Mishra
+      1: Tomi Akinfire
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Alex Jong
+      2: Patryck Lloyd-Donald
+      1: Sampath Mishra
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Reuben Gill:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Keshav Seshadri:
+      3:
+      2:
+      1:

@@ -1,0 +1,86 @@
+---
+match:
+  round: R17
+  date: 2019-07-27
+  home_team: Middle Park
+  away_team: Monash University
+  venue: Albert Park
+  result: 0-1 (0-0)
+
+away_team_event:
+  - goal_scored:
+      who: Ben Rogan
+      when: "52"
+  - substitution:
+      who: Tomi Akinfire
+      when: "65"
+  - substitution:
+      who: Reuben Gill
+      when: "67"
+
+away_team_starter:
+  - Andoni Laguna-Alberdi:
+      3: N/V
+      2: N/V
+      1: N/V
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Andoni Laguna-Alberdi
+      2: Nathaniel Ganeson
+      1: Patryck Lloyd-Donald
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Andoni Laguna-Alberdi
+      2: Rory Bush-Belton
+      1: Ben Rogan
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Reuben Gill:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:

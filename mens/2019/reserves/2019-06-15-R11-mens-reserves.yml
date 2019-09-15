@@ -1,0 +1,100 @@
+---
+match:
+  round: R11
+  date: 2019-06-15
+  home_team: Monash University
+  away_team: Skye United
+  venue: Monash University
+  result: 3-1 (2-1)
+
+home_team_event:
+  - goal_scored:
+      who: Nathaniel Ganeson
+      when: "32"
+  - goal_scored:
+      who: Nathaniel Ganeson
+      when: "74"
+  - goal_scored:
+      who: James Polmear
+      when: "45"
+  - substitution:
+      who: Oliver Cooke
+      when: "67"
+  - substitution:
+      who: Ben Rogan
+      when: "80"
+  - substitution:
+      who: Tomi Akinfire
+      when: "60"
+
+home_team_starter:
+  - Andoni Laguna-Alberdi:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Joel Fernandez
+      2: Rory Bush-Belton
+      1: Souleymane Diamanka
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Gabriel Goncalves:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Joel Ludlow
+      2: Souleymane Diamanka
+      1: Nathaniel Ganeson
+
+home_team_bench:
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:

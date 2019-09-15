@@ -1,0 +1,114 @@
+---
+match:
+  round: R4
+  date: 2019-04-13
+  home_team: Ashburton
+  away_team: Monash University
+  venue: Ashburton
+  result: 2-4 (0-0)
+
+away_team_event:
+  - goal_scored:
+      who: Sina Ghiasi
+      when: "47"
+  - goal_scored:
+      who: Sina Ghiasi
+      when: "66"
+  - goal_scored:
+      who: Arnold Clever
+      when: "83"
+  - goal_scored:
+      who: Saxon Chorny
+      when: "85"
+  - substitution:
+      who: Arnold Clever
+  - substitution:
+      who: Benjamin Mcanulty
+  - substitution:
+      who: Yahya Yaqobi
+  - substitution:
+      who: Oliver Cooke
+  - substitution:
+      who: Nicolas Wessendorf
+
+away_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Saxon Chorny:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - Ace Mitrevski:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Sina Ghiasi
+      2: Saxon Chorny
+      1: Scott Polmear
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Arnold Clever:
+      3:
+      2:
+      1:
+
+  - Benjamin Mcanulty:
+      3: Scott Polmear
+      2: Saxon Chorny
+      1: Alex Jong
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:

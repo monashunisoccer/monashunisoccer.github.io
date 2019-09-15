@@ -1,0 +1,85 @@
+---
+match:
+  round: R18
+  date: 2019-08-03
+  home_team: Bayside Argonauts
+  away_team: Monash University
+  venue: Shipston Reserve
+  result: 1-2 (1-0)
+
+away_team_event:
+  - goal_scored:
+      who: Souleymane Diamanka
+  - goal_scored:
+      who: Nicolas Wessendorf
+  - substitution:
+      who: Calvin Lee
+  - substitution:
+      who: Nicolas Wessendorf
+
+away_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Reuben Gill:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Tomi Akinfire
+      2: Alex Jong
+      1: Patryck Lloyd-Donald
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3: Nathaniel Ganeson
+      2: Tomi Akinfire
+      1: Nicolas Wessendorf
+
+  - Ace Mitrevski:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:

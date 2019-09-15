@@ -1,0 +1,107 @@
+---
+match:
+  round: R10
+  date: 2019-06-01
+  home_team: Monash University
+  away_team: Diamond Valley
+  venue: Monash University
+  result: 0-0 (0-0)
+
+home_team_event:
+  - substitution:
+      who: Rory Bush-Belton
+      when: "81"
+  - substitution:
+      who: Calvin Lee
+      when: "54"
+  - substitution:
+      who: Patryck Lloyd-Donald
+      when: "68"
+  - substitution:
+      who: Joel Ludlow
+      when: "66"
+  - substitution:
+      who: Sina Ghiasi
+      when: "77"
+
+home_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Nicolas Wessendorf
+      2: Joel Fernandez
+      1: Alex Jong
+
+  - Sampath Mishra:
+      3:
+      2:
+      1:
+
+  - Alex Jong:
+      3:
+      2:
+      1:
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Timileyin Adeosun:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Rory Bush-Belton:
+      3: Alex Jong
+      2: Oliver Cooke
+      1: Sampath Mishra
+
+  - Calvin Lee:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:

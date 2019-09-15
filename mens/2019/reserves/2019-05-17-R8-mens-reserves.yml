@@ -1,0 +1,105 @@
+---
+match:
+  round: R8
+  date: 2019-05-17
+  home_team: Collingwood City
+  away_team: Monash University
+  venue: Kevin Bartlett
+  result: 4-2 (3-0)
+
+away_team_event:
+  - goal_scored:
+      who: Roberto Serrano
+      when: "62"
+  - goal_scored:
+      who: Arnold Clever
+      when: "82"
+  - substitution:
+      who: Souleymane Diamanka
+      when: "60"
+  - substitution:
+      who: Arnold Clever
+      when: "74"
+  - substitution:
+      who: Tomi Akinfire
+      when: "57"
+  - substitution:
+      who: Rory Bush-Belton
+      when: "71"
+
+away_team_starter:
+  - Nicholas Hendry:
+      3:
+      2:
+      1:
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Nicolas Wessendorf
+      2: Roberto Serrano
+      1: Yahya Yaqobi
+
+  - Nicolas Wessendorf:
+      3:
+      2:
+      1:
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Scott Polmear:
+      3:
+      2:
+      1:
+
+  - James Polmear:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      3:
+      2:
+      1:
+
+  - Roberto Serrano:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+away_team_bench:
+  - Souleymane Diamanka:
+      3:
+      2:
+      1:
+
+  - Arnold Clever:
+      3:
+      2:
+      1:
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Rory Bush-Belton:
+      3:
+      2:
+      1:

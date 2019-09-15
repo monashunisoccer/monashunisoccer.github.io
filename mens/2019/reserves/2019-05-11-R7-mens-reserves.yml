@@ -1,0 +1,98 @@
+---
+match:
+  round: R7
+  date: 2019-05-11
+  home_team: Monash University
+  away_team: Bayside Argonauts
+  venue: Monash University
+  result: 1-1 (0-1)
+
+home_team_event:
+  - goal_scored:
+      who: Benjamin Mcanulty
+      when: "89"
+  - substitution:
+      who: Roberto Serrano
+  - substitution:
+      who: Ben Rogan
+  - substitution:
+      who: Benjamin Mcanulty
+  - substitution:
+      who: Sina Ghiasi
+
+home_team_starter:
+  - Sina Fasahat:
+      3:
+      2:
+      1:
+
+  - Nathaniel Ganeson:
+      3: Reuben Gill
+      2: Yahya Yaqobi
+      1: Ben Rogan
+
+  - Tomi Akinfire:
+      3:
+      2:
+      1:
+
+  - Yahya Yaqobi:
+      3:
+      2:
+      1:
+
+  - Reuben Gill:
+      3:
+      2:
+      1:
+
+  - Llewelyn Ross:
+      3: Joel Fernandez
+      2: Ben Rogan
+      1: Sina Fasahat
+
+  - Joel Ludlow:
+      3:
+      2:
+      1:
+
+  - Joel Fernandez:
+      3:
+      2:
+      1:
+
+  - Peter Cowell:
+      3:
+      2:
+      1:
+
+  - Oliver Cooke:
+      3:
+      2:
+      1:
+
+  - Patryck Lloyd-Donald:
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - Roberto Serrano:
+      3:
+      2:
+      1:
+
+  - Ben Rogan:
+      3:
+      2:
+      1:
+
+  - Benjamin Mcanulty:
+      3:
+      2:
+      1:
+
+  - Sina Ghiasi:
+      3:
+      2:
+      1:
