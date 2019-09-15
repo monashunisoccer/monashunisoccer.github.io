@@ -25,7 +25,7 @@ _front_: Rory Bush-Belton, Souleymane Diamanka, Keshav Seshadri, Oliver Cooke, C
 | 2   | 8 Jun  | A| W |Whitehorse United (0) | **Monash University (1)** | Ludlow | Laguna-Alberdi (CS)  |
 | 11  | 15 Jun | H| W | **Monash University (3)**  | Skye United (1)  | Ganeson (2), J.Polmear |  |
 | 12  | 21 Jun | A| L |Frankston Pines (5) | **Monash University (0)**  |  |  |
-| 13  | 28 Jun | H| D |**Monash University (4)**  | Whitehorse United (4) |  scorer, scorer, scorer, scorer |  |
+| 13  | 28 Jun | H| D |**Monash University (4)**  | Whitehorse United (4) |  Diamanka, Ludlow, Rogan, S.Polmear |  |
 | 14  | 6 Jul  | H| D |**Monash University (3)**  | Brighton (3)  | Diamanka, Ludlow, Adeosun |  |
 | 15  | 13 Jul | H| W |**Monash University (4)**  | Ashburton (0)  |  Adeosun (2), Diamanka (2) | Fasahat (CS) |
 | 16  | 20 Jul | A| D |Elwood City (1)       | **Monash University (1)**   | Diamanka (P) |  |
@@ -44,18 +44,19 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, P Penalty, CS Clean sheet, PS 
 
 | PLAYER                   | GOALS |
 | ------------------------ | ---   |
-| Souleymane Diamanka        |  5   |
+| Souleymane Diamanka        |  6   |
 | Nathaniel Ganeson        | 3    |
 |  Sina Ghiasi       | 3    |
 | Timileyin Adeosun        | 3    |
+| Ben Rogan        | 3    |
+| Joel Ludlow        |  3   |
 | Sampath Mishra        | 2    |
 | Saxon Chorny        | 2    |
 | Peter Cowell        | 2    |
 | Benjamin Mcanulty        | 2    |
-| Ben Rogan        | 2    |
 | Arnold Clever        | 2    |
-| Joel Ludlow        |  2   |
 | Yahya Yaqobi        | 1    |
+| Scott Polmear        | 1    |
 | Calvin Lee        | 1    |
 | James Polmear        | 1    |
 | Tomi Akinfire        | 1    |
