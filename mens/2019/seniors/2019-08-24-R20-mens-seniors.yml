@@ -1,32 +1,46 @@
 ---
 match:
-  round: R13
-  date: 2019-06-29
-  opponent: Whitehorse home
-  venue: Monash University
-  result: 7-3 (3-1)
+  round: R20
+  date:
+  home_team: Monash University
+  away_team: South Yarra
+  venue:
+  result:
 
-official:
-  coach: Brian Vasey
-  team_manager: Ned Rocke
+home_team_official:
+  coach:
+  team_manager:
 
-event:
+home_team_event:
   - goal_scored:
+      who: Todd Wallace
 
-  - goal_scored:
+home_team_starter:
+  - Ned Rocke:
+      shirt: "GK"
+      3:
+      2:
+      1:
 
-  - goal_scored:
+  - Saran Mongkolkosol:
+      shirt: ""
+      3: Todd Wallace
+      2: Ben Knight
+      1: Alexander Eggleston
 
-  - goal_scored:
+  - Todd Wallace:
+      shirt: ""
+      3:
+      2:
+      1:
 
-  - goal_scored:
+  - Ben Knight:
+      shirt: ""
+      3: Todd Wallace
+      2: Alexander Eggleston
+      1: Nicolas Wessendorf
 
-  - goal_scored:
-
-  - goal_scored:
-
-starter:
-  - :
+  - Alexander Eggleston:
       shirt: ""
       3:
       2:
@@ -68,31 +82,7 @@ starter:
       2:
       1:
 
-  - :
-      shirt: ""
-      3:
-      2:
-      1:
-
-  - :
-      shirt: ""
-      3:
-      2:
-      1:
-
-  - :
-      shirt: ""
-      3:
-      2:
-      1:
-
-  - :
-      shirt: ""
-      3:
-      2:
-      1:
-
-bench:
+home_team_bench:
   - :
       shirt: ""
       3:

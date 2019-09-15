@@ -2,15 +2,16 @@
 match:
   round: R17
   date: 2019-07-27
-  opponent: Middle Park away
+  home_team: Middle Park
+  away_team: Monash University
   venue: Albert Park
   result: 0-3 (0-1)
 
-official:
+away_team_official:
   coach: Brian Vasey
   team_manager: Andrew Patterson
 
-event:
+away_team_event:
   - substitution:
       who: timi
       replaced: yahya
@@ -33,7 +34,7 @@ event:
       who: Sarmad Nikakhter
       when: "78"
 
-starter:
+away_team_starter:
   - Ned Rocke:
       shirt: "GK"
       3:
@@ -48,9 +49,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      3:
-      2:
-      1:
+      3: Ned Rocke
+      2: Todd Wallace
+      1: Simbarashe Maravanyika
 
   - Yahya Yaqobi:
       shirt: "14"
@@ -84,15 +85,15 @@ starter:
 
   - Saran Mongkolkosol:
       shirt: "7"
-      3:
-      2:
-      1:
+      3: Sarmad Nikakhter
+      2: Arnold Clever
+      1: Alexander Eggleston
 
   - Ben Knight:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Sarmad Nikakhter
+      2: Kieran Enright
+      1: Simbarashe Maravanyika
 
   - Arnold Clever:
       shirt: "15"
@@ -100,7 +101,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Timileyin Adeosun:
       shirt: "3"
       3:
@@ -115,6 +116,6 @@ bench:
 
   - Nathaniel Ganeson:
       shirt: "9"
-      3:
-      2:
-      1:
+      3: Sarmad Nikakhter
+      2: Arnold Clever
+      1: Alexander Eggleston

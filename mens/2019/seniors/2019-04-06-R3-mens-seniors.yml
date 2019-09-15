@@ -2,11 +2,12 @@
 match:
   round: R3
   date: 2019-04-06
-  opponent: Brighton away
+  home_team: Brighton
+  away_team: Monash University
   venue: Dendy Park
   result: 3-0 (2-0)
 
-event:
+away_team_event:
   - yellow_card:
       who: Todd Wallace
       when: "31"
@@ -26,7 +27,7 @@ event:
       replaced: Lucas Ford Weinberg
       when: "70"
 
-starter:
+away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -47,9 +48,9 @@ starter:
 
   - Ben Knight:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Kieran Enright
+      2: Saxon Chorny
+      1: Alexander Eggleston
 
   - Liam Diamantopoulos:
       shirt: "2"
@@ -65,9 +66,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "14"
-      3:
-      2:
-      1:
+      3: Ben Knight
+      2: Kieran Enright
+      1: Todd Wallace
 
   - Lucas Ford Weinberg:
       shirt: "11"
@@ -77,9 +78,9 @@ starter:
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Ben Knight
+      2: Kieran Enright
+      1: Todd Wallace
 
   - Saxon Chorny:
       shirt: "10"
@@ -93,7 +94,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Daniel Raneri:
       shirt: "7"
       3:

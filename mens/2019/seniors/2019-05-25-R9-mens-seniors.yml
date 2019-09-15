@@ -2,11 +2,12 @@
 match:
   round: R9
   date: 2019-05-25
-  opponent: South Yarra away
+  home_team: South Yarra
+  away_team: Monash University
   venue: Fawkner Park
   result: 3-1 (1-0)
 
-event:
+away_team_event:
   - substitution:
       who: Yahya Yaqobi
       replaced: Ace Mitrevski
@@ -24,7 +25,7 @@ event:
       when: "88"
 
 
-starter:
+away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -63,9 +64,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "11"
-      3:
-      2:
-      1:
+      3: Lucas Ford Weinberg
+      2: Ace Mitrevski
+      1: Arnold Clever
 
   - Lucas Ford Weinberg:
       shirt: "9"
@@ -75,9 +76,9 @@ starter:
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Alexander Grantham
+      2: Ace Mitrevski
+      1: Kieran Enright
 
   - Alexander Eggleston:
       shirt: "13"
@@ -91,7 +92,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Yahya Yaqobi:
       shirt: "17"
       3:

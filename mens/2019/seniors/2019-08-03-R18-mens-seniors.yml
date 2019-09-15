@@ -2,11 +2,12 @@
 match:
   round: R18
   date: 2019-08-03
-  opponent: Bayside away
+  home_team: Bayside Argonauts
+  away_team: Monash University
   venue: Shipston Reserve
   result: 4-0
 
-event:
+home_team_event:
   - substitution:
       who: Ned Rocke
       replaced: Nicholas Hendry
@@ -16,7 +17,7 @@ event:
       replaced: Sarmad Nikakhter
       when: "82"
 
-starter:
+home_team_starter:
   - Nicholas Hendry:
       shirt: "GK"
       3:
@@ -43,9 +44,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      3:
-      2:
-      1:
+      3: Todd Wallace
+      2: Simbarashe Maravanyika
+      1: Alexander Eggleston
 
   - Alexander Eggleston:
       shirt: "8"
@@ -55,9 +56,9 @@ starter:
 
   - Saran Mongkolkosol:
       shirt: "17"
-      3:
-      2:
-      1:
+      3: N/V
+      2: Todd Wallace
+      1: Sarmad Nikakhter
 
   - Gabriel Goncalves:
       shirt: "11"
@@ -79,11 +80,11 @@ starter:
 
   - Ben Knight:
       shirt: "3"
-      3:
-      2:
-      1:
+      3: Kieran Enright
+      2: Alexander Eggleston
+      1: Todd Wallace
 
-bench:
+home_team_bench:
   - Yahya Yaqobi:
       shirt: "14"
       3:

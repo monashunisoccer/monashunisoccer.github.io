@@ -2,26 +2,27 @@
 match:
   round: R14
   date: 2019-07-06
-  opponent: Brighton home
+  home_team: Monash University
+  away_team: Brighton
   venue: Monash University
   result: 2-1 (1-0)
 
-official:
+home_team_official:
   coach: Brian Vasey
   team_manager: Ned Rocke
 
-event:
+home_team_event:
   - substitution:
-      who: souley
+      who: Souleymane Diamanka
       replaced: Sarmad Nikakhter
       when: "84"
   - substitution:
-      who: nathan
-      replaced: yahya
+      who: Liam Diamantopoulos
+      replaced: Yahya Yaqobi
       when: "72"
   - substitution:
-      who: ben
-      replaced: arnie
+      who: Ben Knight
+      replaced: Arnold Clever
       when: "90+1"
   - goal_scored:
       who: Sarmad Nikakhter
@@ -30,13 +31,13 @@ event:
       who: Arnold Clever
       when: "82"
   - yellow_card:
-      who: saran
+      who: Saran Mongkolkosol
       when: "49"
       reason: "Y1"
   - penalty_saved:
       who: Nicholas Hendry
 
-starter:
+home_team_starter:
   - Nicholas Hendry:
       shirt: "GK"
       3:
@@ -69,9 +70,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Nicholas Hendry
+      2: Kieran Enright
+      1: Arnold Clever
 
   - Simbarashe Maravanyika:
       shirt: "13"
@@ -103,7 +104,7 @@ starter:
       2:
       1:
 
-bench:
+home_team_bench:
   - Sina Fasahat:
       shirt: "GK"
       3:
@@ -118,9 +119,9 @@ bench:
 
   - Ben Knight:
       shirt: "9"
-      3:
-      2:
-      1:
+      3: Nicholas Hendry
+      2: Kieran Enright
+      1: Todd Wallace
 
   - Nicolas Wessendorf:
       shirt: "12"
@@ -130,6 +131,6 @@ bench:
 
   - Nathaniel Ganeson:
       shirt: "11"
-      3:
-      2:
-      1:
+      3: Nicholas Hendry
+      2: Kieran Enright
+      1: Arnold Clever

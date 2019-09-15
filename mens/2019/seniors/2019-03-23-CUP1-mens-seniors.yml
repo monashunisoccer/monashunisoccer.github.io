@@ -2,11 +2,12 @@
 match:
   round: CUP1
   date: 2019-03-23
-  opponent: Bundoora home
+  home_team: Monash University
+  away_team: Bundoora United
   venue: Bundoora
   result: 0-3
 
-starter:
+home_team_starter:
   - :
       shirt:
       3:
@@ -79,7 +80,7 @@ starter:
       2:
       1:
 
-bench:
+home_team_bench:
   - :
       shirt:
       3:

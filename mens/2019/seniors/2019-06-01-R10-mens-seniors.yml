@@ -2,11 +2,12 @@
 match:
   round: R10
   date: 2019-06-01
-  opponent: Diamond Valley home
+  home_team: Monash University
+  away_team: Diamond Valley
   venue: Monash University
   result: 3-1 (2-0)
 
-event:
+home_team_event:
   - goal_scored:
       who: Alexander Eggleston
       when: "16"
@@ -26,7 +27,7 @@ event:
       when: "87"
 
 
-starter:
+home_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -35,15 +36,15 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "13"
-      3:
-      2:
-      1:
+      3: Ace Mitrevski
+      2: Alexander Grantham
+      1: Alexander Eggleston
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Alexander Eggleston
+      2: Ace Mitrevski
+      1: Sarmad Nikakhter
 
   - Lucas Ford Weinberg:
       shirt: "9"
@@ -93,7 +94,7 @@ starter:
       2:
       1:
 
-bench:
+home_team_bench:
   - Mike Van der Wouw:
       shirt: "7"
       3:

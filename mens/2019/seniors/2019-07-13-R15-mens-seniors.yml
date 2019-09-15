@@ -2,23 +2,24 @@
 match:
   round: R15
   date: 2019-07-13
-  opponent: Ashburton home
+  home_team: Monash University
+  away_team: Ashburton
   venue: Monash University
   result: 6-0 (2-0)
 
-official:
+home_team_official:
   coach: Brian Vasey
   team_manager: Andrew Patterson
 
-event:
+home_team_event:
   - substitution:
-      who: nath
+      who: Nathaniel Ganeson
 
   - substitution:
-      who: ben
+      who: Ben Knight
 
   - substitution:
-      who: gab
+      who: Gabriel Goncalves
 
   - goal_scored:
       who: Simbarashe Maravanyika
@@ -44,7 +45,7 @@ event:
       who: Arnold Clever
       when: "90+2"
 
-starter:
+home_team_starter:
   - Nicholas Hendry:
       shirt: "GK"
       3:
@@ -59,9 +60,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "10"
-      3:
-      2:
-      1:
+      3: Arnold Clever
+      2: Nicholas Hendry
+      1: Simbarashe Maravanyika
 
   - Simbarashe Maravanyika:
       shirt: "13"
@@ -77,9 +78,9 @@ starter:
 
   - Saran Mongkolkosol:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Arnold Clever
+      2: Kieran Enright
+      1: Yahya Yaqobi
 
   - Kieran Enright:
       shirt: "3"
@@ -111,18 +112,18 @@ starter:
       2:
       1:
 
-bench:
+home_team_bench:
   - Nathaniel Ganeson:
       shirt: "7"
-      3:
-      2:
-      1:
+      3: Arnold Clever
+      2: Alexander Eggleston
+      1: Nicolas Wessendorf
 
   - Ben Knight:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Arnold Clever
+      2: Alexander Eggleston
+      1: Kieran Enright
 
   - Gabriel Goncalves:
       shirt: "12"

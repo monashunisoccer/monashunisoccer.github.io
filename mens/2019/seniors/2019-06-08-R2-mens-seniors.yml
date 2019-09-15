@@ -2,33 +2,45 @@
 match:
   round: R2
   date: 2019-06-08
-  opponent: Whitehorse away
+  home_team: Whitehorse
+  away_team: Monash University
   venue: Terrara Park
   result: 1-1 (0-0)
 
-event:
-  - goal_scored:
-      who: Mike Van der Wouw
-      when: "47"
-
-  - opponent_yellow_card:
+home_team_event:
+  - yellow_card:
       who: Nikolai Skaler
       when: "50"
       reason: "Y1"
+
+  - yellow_card:
+      who: Nhan Than
+      when: "63"
+      reason: "Y1"
+
+  - goal_scored:
+      who: Christopher del Medico
+      when: "64"
+
+  - yellow_card:
+      who: Archie Lindsay
+      when: "82"
+      reason: "Y1"
+
+  - red_card:
+      who: Christopher del Medico
+      when: "90+5"
+      reason: "R2"
+
+away_team_event:
+  - goal_scored:
+      who: Mike Van der Wouw
+      when: "47"
 
   - substitution:
       who: Roberto Serrano
       replaced: Mike Van der Wouw
       when: "51"
-
-  - opponent_yellow_card:
-      who: Nhan Than
-      when: "63"
-      reason: "Y1"
-
-  - opponent_goal_scored:
-      who: Christopher del Medico
-      when: "64"
 
   - substitution:
       who: Yahya Yaqobi
@@ -40,21 +52,12 @@ event:
       replaced: Arnold Clever
       when: "80"
 
-  - opponent_yellow_card:
-      who: Archie Lindsay
-      when: "82"
-      reason: "Y1"
 
-  - opponent_red_card:
-      who: Christopher del Medico
-      when: "90+5"
-      reason: "R2"
-
-official:
+away_team_official:
   coach: Brian Vasey
   team_manager: Andrew Patterson
 
-starter:
+away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -87,9 +90,9 @@ starter:
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Daniel Raneri
+      2: Ace Mitrevski
+      1: Kieran Enright
 
   - Daniel Raneri:
       shirt: "7"
@@ -121,7 +124,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Roberto Serrano:
       shirt: "12"
       3:

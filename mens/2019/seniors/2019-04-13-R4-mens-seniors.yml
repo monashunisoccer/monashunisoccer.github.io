@@ -2,11 +2,12 @@
 match:
   round: R4
   date: 2019-04-13
-  opponent: Ashburton away
+  home_team: Ashburton
+  away_team: Monash University
   venue: Ashburton
   result: 1-0 (0-0)
 
-event:
+away_team_event:
   - yellow_card:
       who: Ben Baynard-Smith
       when: "36"
@@ -32,7 +33,7 @@ event:
       when: "89"
       reason: "R7"
 
-starter:
+away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -53,9 +54,9 @@ starter:
 
   - Ben Knight:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Kieran Enright
+      2: Miles Rodriquez
+      1: Alexander Grantham
 
   - Liam Diamantopoulos:
       shirt: "5"
@@ -65,9 +66,9 @@ starter:
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Sarmad Nikakhter
+      2: Alexander Eggleston
+      1: Ben Baynard-Smith
 
   - Alexander Eggleston:
       shirt: "3"
@@ -83,9 +84,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "13"
-      3:
-      2:
-      1:
+      3: Ben Knight
+      2: Alexander Grantham
+      1: Miles Rodriquez
 
   - Lucas Ford Weinberg:
       shirt: "11"
@@ -99,7 +100,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Daniel Raneri:
       shirt: "14"
       3:

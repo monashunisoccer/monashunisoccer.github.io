@@ -1,0 +1,116 @@
+---
+match:
+  round: R13
+  date: 2019-06-29
+  home_team: Monash University
+  away_team: Whitehorse
+  venue: Monash University
+  result: 7-3 (5-1)
+
+home_team_official:
+  coach: Brian Vasey
+  team_manager: Ned Rocke
+
+home_team_event:
+  - goal_scored:
+      who: Mike Van der Wouw
+
+  - goal_scored:
+      who: Mike Van der Wouw
+
+  - goal_scored:
+      who: Mike Van der Wouw
+
+  - goal_scored:
+
+  - goal_scored:
+
+  - goal_scored:
+
+  - goal_scored:
+
+home_team_starter:
+  - Miles Rodriquez:
+      shirt: ""
+      3: Mike Van der Wouw
+      2: Alexander Eggleston
+      1: Sarmad Nikakhter
+
+  - Mike Van der Wouw:
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - Alexander Eggleston:
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - Sarmad Nikakhter:
+      shirt: ""
+      3: Mike Van der Wouw
+      2: Nicholas Hendry
+      1: Alexander Eggleston
+
+  - Nicholas Hendry:
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+home_team_bench:
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:
+
+  - :
+      shirt: ""
+      3:
+      2:
+      1:

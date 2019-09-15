@@ -2,11 +2,12 @@
 match:
   round: R1
   date: 2019-04-20
-  opponent: Frankston Pines home
+  home_team: Monash University
+  away_team: Frankston Pines
   venue: Tatterson Park
   result: 0-2 (0-1)
 
-event:
+home_team_event:
   - substitution:
       who: James Polmear
       replaced: Ben Baynard-Smith
@@ -21,7 +22,7 @@ event:
       who: Sampath Mishra
       when: "71"
 
-starter:
+home_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -30,9 +31,9 @@ starter:
 
   - Sarmad Nikakhter:
       shirt: "2"
-      3:
-      2:
-      1:
+      3: Liam Diamantopoulos
+      2: Alexander Grantham
+      1: Ben Knight
 
   - Ben Baynard-Smith:
       shirt: "11"
@@ -42,9 +43,9 @@ starter:
 
   - Ben Knight:
       shirt: "4"
-      3:
-      2:
-      1:
+      3: Alexander Grantham
+      2: Sarmad Nikakhter
+      1: Liam Diamantopoulos
 
   - Ace Mitrevski:
       shirt: "10"
@@ -60,15 +61,15 @@ starter:
 
   - Miles Rodriquez:
       shirt: "8"
-      3:
-      2:
-      1:
+      3: Sarmad Nikakhter
+      2: Ben Knight
+      1: Alexander Grantham
 
   - Arnold Clever:
       shirt: "12"
-      3:
-      2:
-      1:
+      3: Ben Knight
+      2: Miles Rodriquez
+      1: Sarmad Nikakhter
 
   - Daniel Raneri:
       shirt: "9"
@@ -88,7 +89,7 @@ starter:
       2:
       1:
 
-bench:
+home_team_bench:
   - Sampath Mishra:
       shirt: "15"
       3:

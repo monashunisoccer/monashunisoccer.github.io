@@ -2,11 +2,12 @@
 match:
   round: R8
   date: 2019-05-17
-  opponent: Collingwood away
+  home_team: Collingwood
+  away_team: Monash University
   venue: Kevin Bartlet
   result: 4-2 (2-1)
 
-event:
+away_team_event:
   - goal_scored:
       who: Mike Van der Wouw
       when: "25"
@@ -30,7 +31,7 @@ event:
       replaced: Daniel Raneri
       when: "82"
 
-starter:
+away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
       3:
@@ -75,15 +76,15 @@ starter:
 
   - Miles Rodriquez:
       shirt: "10"
-      3:
-      2:
-      1:
+      3: Mike Van der Wouw
+      2: Ben Baynard-Smith
+      1: Liam Diamantopoulos
 
   - Sarmad Nikakhter:
       shirt: "2"
-      3:
-      2:
-      1:
+      3: Alexander Grantham
+      2: Kieran Enright
+      1: Mike Van der Wouw
 
   - Ben Baynard-Smith:
       shirt: "16"
@@ -97,7 +98,7 @@ starter:
       2:
       1:
 
-bench:
+away_team_bench:
   - Ben Rogan:
       shirt: "3"
       3:
