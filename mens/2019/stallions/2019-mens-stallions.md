@@ -8,6 +8,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | F |  Mar    | N| Kings Domain          | 2-1 | Chen, Kumar                              |  |
 | F |  Mar    | A| Beaumaris            | 4-0 | Flanagan 3, Reay                         | C.Kougi (CS) |
+|  | - | - | - | - | - | - |
 | 1 | 7 Apr   | A| Monash University (Caulfield)| 2-0 | P.Kougi (pen), Flanagan          | C.Kougi (CS) |
 | 2 | 14 Apr  | A| Old Mentonians       | 7-0 | Assirvaden 2, Gebara 2, Bernard, Flanagan, Dowling       | C.Kougi (CS) |
 | 3 | 28 Apr  | H| East Bentleigh | 2-0 | P.Kougi (pen), Flanagan                 | C.Kougi (CS) |
@@ -22,7 +23,7 @@
 | 13 | 21 Jul  | A| Parkmore            | 3-0 | Bernard 2, P.Kougi                       | C.Kougi (CS) |
 | 14 | 28 Jul | H| Old Scotch           | 3-0†|                                          |  |
 | 15 | 4 Aug  | H| Monash University (Caulfield)| 4-2 | Trnajstic, Flanagan, Dowling, Reay|  |
-| 16 | 18 Aug  | A| Old Mentonians      | 3-2 | Trnajstic 3, P. Kougi 2, Flanagan 2, Reay|  |
+| 16 | 18 Aug  | A| Old Mentonians      | 8-2 | Trnajstic 3, P. Kougi 2, Flanagan 2, Reay|  |
 | 17 | 25 Aug | H| East Bentleigh | 3-0 | P.Kougi 2, Flanagan                     | C.Kougi (CS) |
 | 18 | 1 Sep | A| Beaumaris             | 3-1 | P.Kougi 2, Flanagan                      |  |
 | 19 | 4 Sep  | A| Baxter               | 1-1 | P.Kougi                                  |  |
