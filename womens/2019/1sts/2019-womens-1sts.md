@@ -1,9 +1,4 @@
-### 2019 Mens Reserves (State League 3 South-East)
-
-![](https://photos.smugmug.com/photos/i-6cqsNht/0/d703da0b/L/)
-
-_back_: Eddie Bago (asst coach), Sarmad Nikakhter, Kieran Enright, Todd Wallace,
- Alex Eggleston, Ben Knight, Mario Bergmann, Brian Vasey (coach)
+### 2019 Womens 1sts (State League 2 South-East)
 
 ------------------------
 
