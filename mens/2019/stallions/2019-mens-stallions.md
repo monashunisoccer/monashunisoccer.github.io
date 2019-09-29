@@ -1,6 +1,10 @@
 ## 2019 Mens Fourths (Stallions) (Metropolitan League 6 South-East)
 
-![stallions](https://i.ibb.co/NWkMp5c/Team-Photo-2019.jpg)
+![stallions](https://photos.smugmug.com/photos/i-SBJTk5z/1/670e0c01/M/i-SBJTk5z-M.jpg)
+
+_back_: Brendan Hislop, Kann Mirault, James Bernard, Tom Flanagan, Peter Kougi, Nikolai Trinajstic, Daniel Reay
+
+_front_: Reuben Gill, Jonathan Jhoomun. Jack Dowling, Michael Pogrebnoy (player/coach), Faz Rahman, Stefan Arambasic, Hiro Ito
 
 ### Results
 
