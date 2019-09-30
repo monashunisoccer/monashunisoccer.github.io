@@ -2,9 +2,9 @@
 
 ![stallions](https://photos.smugmug.com/photos/i-SBJTk5z/1/670e0c01/M/i-SBJTk5z-M.jpg)
 
-_back_: Brendan Hislop, Kann Mirault, James Bernard, Tom Flanagan, Peter Kougi, Nikolai Trinajstic, Daniel Reay
+_back_: Brendan Hislop, Kann Mirault, James Bernard, Tom Flanagan, Peter Kougi (co-captain), Nikolai Trinajstic (co-captain), Daniel Reay
 
-_front_: Reuben Gill, Jonathan Jhoomun. Jack Dowling, Michael Pogrebnoy (player/coach), Faz Rahman, Stefan Arambasic, Hiro Ito
+_front_: Reuben Gill, Jonathan Jhoomun. Jack Dowling, Michael Pogrebnoy (player/coach), Faouzi Gebara (co-captain), Stefan Arambasic, Hiro Ito
 
 ### Results
 
