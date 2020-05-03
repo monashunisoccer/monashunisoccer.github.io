@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mens Reserves (2019)
-parent: Mens (2019)
+title: Reserves
+parent: 2019
 grand_parent: Mens (Playing)
 ---
 

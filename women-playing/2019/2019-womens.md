@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mens (2019)
-parent: Mens (Playing)
+title: 2019
+parent: Womens (Playing)
 has_children: true
 ---

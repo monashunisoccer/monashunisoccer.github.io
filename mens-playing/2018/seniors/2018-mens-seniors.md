@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mens Seniors (2018)
-parent: Mens (2018)
+title: Seniors
+parent: 2018
 grand_parent: Mens (Playing)
 ---
 

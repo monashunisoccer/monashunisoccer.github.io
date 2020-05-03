@@ -1,3 +1,10 @@
+---
+layout: default
+title: Seniors
+parent: 2017
+grand_parent: Mens (Playing)
+---
+
 ### 2017 Mens Seniors (State League 4 South)
 
 ![seniors](https://photos.smugmug.com/photos/i-jjnDQqV/2/0d7cfe40/L/i-jjnDQqV-L.jpg)

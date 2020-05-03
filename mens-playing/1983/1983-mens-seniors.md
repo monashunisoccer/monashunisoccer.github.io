@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Seniors Ressies
+parent: 1983
+grand_parent: Mens (Playing)
+---
 
 ## Seniors
 
