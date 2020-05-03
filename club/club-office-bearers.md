@@ -12,15 +12,15 @@ parent: Club
 | 2017   | Ned Rocke                      |                                                  | Joshua Graham                             | Ken Kanagalinggam                  |
 | 2016   | Ed Tasker                      |                                                  |                                           | Ken Kanagalinggam                  |
 | 2015   | Ed Tasker                      |                                                  |                                           | Ken Kanagalinggam                  |
-| 2014   | Melinda Dolan                  | Edward Tasker \(men\) Jill Pettigrew \(women\)   | Richard Bain                              | Ken Kanagalinggam                  |
-| 2013   | Jessica Gibson                 | George Kazantzidis \(men\) Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
-| 2012   | Jessica Gibson                 | George Kazantzidis \(men\) Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
-| 2011   | Jessica Gibson                 | Sam Woff \(men\) Melinda Dolan \(women\)         | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
-| 2010   | Richard Huysmans               | Sam Woff \(men\) Jessica Gibson \(women\)        | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
-| 2009   | Richard Huysmans               | Chris Vinecombe \(men\) Jessica Gibson \(women\) | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2014   | Melinda Dolan                  | Edward Tasker \(men\)<br> Jill Pettigrew \(women\)   | Richard Bain                              | Ken Kanagalinggam                  |
+| 2013   | Jessica Gibson                 | George Kazantzidis \(men\)<br> Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
+| 2012   | Jessica Gibson                 | George Kazantzidis \(men\)<br> Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
+| 2011   | Jessica Gibson                 | Sam Woff \(men\)<br>Melinda Dolan \(women\)         | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2010   | Richard Huysmans               | Sam Woff \(men\)<br> Jessica Gibson \(women\)        | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2009   | Richard Huysmans               | Chris Vinecombe \(men\)<br> Jessica Gibson \(women\) | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
 | 2008   | Andrew Mariadason              | Galit Aflalo                                     | Simon Serebryanikov                       | Peter Panagiotopoulos              |
 | 2007   | Andrew Mariadason              | Armando Pianese                                  | Simon Serebryanikov                       | Peter Panagiotopoulos              |
-| 2006   | Andrew MariadasonJames Bernard | Kon Kotzapavlidis                                | Simon Serebryanikov Peter Panagiotopoulos | Peter PanagiotopoulosAngel Aleksov |
+| 2006   | Andrew Mariadason<br>James Bernard | Kon Kotzapavlidis                                | Simon Serebryanikov Peter Panagiotopoulos | Peter PanagiotopoulosAngel Aleksov |
 | 2005   | Angel Aleksov                  | Lisa McKiernan                                   | Peter Panagiotopoulos                     | Andrew Patterson                   |
 | 2004   | Richard Bruch                  |                                                  | Greg Charnock                             | Andrew Patterson                   |
 | 2003   | Richard Bruch                  |                                                  |                                           | Peter Panagiotopoulos              |

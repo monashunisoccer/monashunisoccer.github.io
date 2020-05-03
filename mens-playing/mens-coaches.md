@@ -13,25 +13,25 @@ parent: Mens (Playing)
 | 2015 | Fred Campos (a.c. Greg Costaras)                   | Alex De La Torre                                                        | Ken Kanagalinggam, Richard Bain, Richard Huysmans | Ned Rocke                                 | Michael Pogrebnoy                        |
 | 2014 | Ben Haller (a.c. Jim Snedden)                      | Janusz Wolnik                                                           | Ken Kanagalinggam, Richard Bain, Richard Huysmans | Ned Rocke                                 | Michael Pogrebnoy                        |
 | 2013 | Brian Vasey (a.c. Ian Traynor)                     | Ben Haller                                                              | Ken Kanagalinggam                                 | Yogendra Kumar                          | Jonathan Jhoomun, Michael Pogrebnoy     |
-| 2012 | Brian Vasey (a.c. Ian Traynor)                     | Aris Seremetis                                                          | Andrew Patterson                                  | Ben Haller -------- George Papadopoulos | Jonathan Jhoomun, Michael Pogrebnoy     |
-| 2011 | Brian Vasey -------- Mario Hili                   | Aris Seremetis                                                          | Andrew Patterson                                  | Ned Rocke                                 | Jonathan Jhoomun, Peter Panagiotopoulos |
-| 2010 | Andy Humble                                        | Greg Costaras -------- James Bernard (caretaker) -------- Jeff Hepworth | Alastair Burns, Serhat Ozenir                       | Konrad Steinmuller                        | Michael Jhoomun, Paul Salmon            |
+| 2012 | Brian Vasey (a.c. Ian Traynor)                     | Aris Seremetis                                                          | Andrew Patterson                                  | Ben Haller <br> George Papadopoulos | Jonathan Jhoomun, Michael Pogrebnoy     |
+| 2011 | Brian Vasey <br> Mario Hili                   | Aris Seremetis                                                          | Andrew Patterson                                  | Ned Rocke                                 | Jonathan Jhoomun, Peter Panagiotopoulos |
+| 2010 | Andy Humble                                        | Greg Costaras <br> James Bernard (caretaker) <br> Jeff Hepworth | Alastair Burns, Serhat Ozenir                       | Konrad Steinmuller                        | Michael Jhoomun, Paul Salmon            |
 | 2009 | Andy Humble (a.c. Brett Lavale)                  | Alex de la Torre                                                        | Peter Kandyliotis                                 | Ned Rocke                                 | Konrad Steinmuller                       |
 
 
 | Season  | Seniors                                            | Reserves                                                              | Men's Thirds      |  Men's Fourths                                             |  Fifths                      |
 |-------|----------------------------------------------------------|-----------------------------------------------------------------------------|-------------------|------------------------------------------------------------|------------------------------------|
-| 2008  | Simon Oliver -------- Harry Djumas (a.c. Rick Dal Ben)   | Alex de la Torre (a.c. Peter Kandyliotis)                                 | Michael Pogrebnoy | Yogendra Kumar                                             | Chris Morgan (a.c. Darren Tan)     |
+| 2008  | Simon Oliver <br> Harry Djumas (a.c. Rick Dal Ben)   | Alex de la Torre (a.c. Peter Kandyliotis)                                 | Michael Pogrebnoy | Yogendra Kumar                                             | Chris Morgan (a.c. Darren Tan)     |
 | 2007  | Brian Vasey (a.c. Darren Tan)                          | Alex de la Torre                                                            | Michael Pogrebnoy | Chris Morgan -------- John Jhoomun, Peter Panagiotopoulos | Steve Corney -------- Chris Morgan |
 | 2006  | Brian Vasey (a.c. Kevin Ladd)                            | Kon Kotzapavlidis                                                           | Jonathan Jhoomun  | Clifton Dragon                                             | Simon Serebryanikov                |
-| 2005  | Alex de la Torre (a.c. David Thompson)                 | Rudi Wickert -------- David Thompson (caretaker) -------- Danilo Espinoza | Jonathan Jhoomun  | Ed Wallis                                                  | James Bernard                      |
+| 2005  | Alex de la Torre (a.c. David Thompson)                 | Rudi Wickert <br> David Thompson (caretaker) <br> Danilo Espinoza | Jonathan Jhoomun  | Ed Wallis                                                  | James Bernard                      |
 | 2004  | Kevin Ladd (a.c. Alex de la Torre)                     | Yogendra Kumar                                                              | Kaveh Zegrati     | Bob West                                                   | --                                 |
 
 
 | Season | Seniors                            | Reserves             | Thirds           | Fourths                        | U-21      | Halls             |
 |--------|------------------------------------|----------------------|------------------|--------------------------------|-----------|-------------------|
 | 2003   | Kevin Ladd (a.c. Alex de la Torre) | Yogendra Kumar       | Jonathan Jhoomun | Kaveh Zegrati                  | Bob West  | --                |
-| 2002   | Kevin Ladd                         | Alex de la Torre     | Michael Jhoomun  | Henry Scheyvens -------- Steve | Bob West  | Ken Kanagalinggam |
+| 2002   | Kevin Ladd                         | Alex de la Torre     | Michael Jhoomun  | Henry Scheyvens <br> Steve | Bob West  | Ken Kanagalinggam |
 | 2001   | Clive Barker                       | Alex de la Torre     | Michael Jhoomun  | --                             | Bob West  | Steve Holl        |
 | 2000   | Clive Barker                       | Bob West             | Jonathan Jhoomun | --                             | --        | Steve Holl        |
 | 1999   | Julian Pettegree                   | Bill Giannias        |                  | --                             | --        | Steve Holl        |
