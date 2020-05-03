@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3rds
-parent: 2019
+parent: 2019w
 grand_parent: Womens (Playing)
 ---
 

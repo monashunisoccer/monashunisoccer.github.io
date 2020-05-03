@@ -1,13 +1,11 @@
 ---
 layout: default
 title: 1sts
-parent: 2019
+parent: 2019w
 grand_parent: Womens (Playing)
 ---
 
 ### 2019 Womens 1sts (State League 2 South-East)
-
-------------------------
 
 #### Results 
 

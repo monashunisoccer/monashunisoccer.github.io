@@ -1,4 +1,11 @@
-### Women's Seniors - State League Div 2 South-East
+---
+layout: default
+title: 1sts
+parent: 2007w
+grand_parent: Womens (Playing)
+---
+
+### Womens 1sts - State League Div 2 South-East
 
 #### Results
 
