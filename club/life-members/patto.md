@@ -22,14 +22,14 @@ Sydney, 1974
 
 #### Club Awards
 
-* Club Person of the Year (2004, 2013, 2016) 
+* Club Person of the Year (2004, 2013, 2016, 2017) 
 
 #### Team Roles
 
 * Mens U-23 Coach (2016) 
 * Mens Thirds Coach (2011, 2012) 
 
-#### Team Achievements
+#### Team Playing Achievements
 
 * Mens Seniors - Runners Up (2003)
 * Mens Reserves - Champions (2016, 2017, 2018)
@@ -43,7 +43,7 @@ Sydney, 1974
 
 #### Other Soccer
 
-* 2000 Unigames Silver Medal
-* 2015 Unigames Silver Medal (Womens Coach)
+* Unigames - Silver Medal (2000)
+* Unigames Womens Coach - Silver Medal (2014)
 
 ![](patto.png)

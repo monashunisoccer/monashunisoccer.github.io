@@ -4,23 +4,25 @@ title: Office Bearers
 parent: Club
 ---
 
+Below is a reverse chronological listing of club's office holders.
+
 | Season | President                      | Vice-President(s)                             | Secretary                                 | Treasurer                          |
 |--------|--------------------------------|--------------------------------------------------|-------------------------------------------|------------------------------------|
 | 2020   | Ned Rocke                      |  (W) Nathan Ganeson (M)       | Arnie Clever / Jill Pettigrew                         | Ken Kanagalinggam                  |
-| 2019   | Ned Rocke                      |  (W)  \(men\)       | Arnie Clever                          | Ken Kanagalinggam                  |
-| 2018   | Ned Rocke                      | Amelia Peason \(women\) Luke Hall \(men\)       | Andrew Patterson                          | Ken Kanagalinggam                  |
+| 2019   | Ned Rocke                      |  (W)  (M)                                       | Arnie Clever                          | Ken Kanagalinggam                  |
+| 2018   | Ned Rocke                      | Amelia Peason (W) Luke Hall (M)                 | Andrew Patterson                          | Ken Kanagalinggam                  |
 | 2017   | Ned Rocke                      |                                                  | Joshua Graham                             | Ken Kanagalinggam                  |
 | 2016   | Ed Tasker                      |                                                  |                                           | Ken Kanagalinggam                  |
 | 2015   | Ed Tasker                      |                                                  |                                           | Ken Kanagalinggam                  |
-| 2014   | Melinda Dolan                  | Edward Tasker \(men\)<br> Jill Pettigrew \(women\)   | Richard Bain                              | Ken Kanagalinggam                  |
-| 2013   | Jessica Gibson                 | George Kazantzidis \(men\)<br> Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
-| 2012   | Jessica Gibson                 | George Kazantzidis \(men\)<br> Melody Ooi \(women\)  | Melinda Dolan                             | Ken Kanagalinggam                  |
-| 2011   | Jessica Gibson                 | Sam Woff \(men\)<br>Melinda Dolan \(women\)         | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
-| 2010   | Richard Huysmans               | Sam Woff \(men\)<br> Jessica Gibson \(women\)        | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
-| 2009   | Richard Huysmans               | Chris Vinecombe \(men\)<br> Jessica Gibson \(women\) | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2014   | Melinda Dolan                  | Edward Tasker (M)<br> Jill Pettigrew (W)         | Richard Bain                              | Ken Kanagalinggam                  |
+| 2013   | Jessica Gibson                 | George Kazantzidis (M)<br> Melody Ooi (W)       | Melinda Dolan                             | Ken Kanagalinggam                  |
+| 2012   | Jessica Gibson                 | George Kazantzidis (M)<br> Melody Ooi (W)       | Melinda Dolan                             | Ken Kanagalinggam                  |
+| 2011   | Jessica Gibson                 | Sam Woff (M)<br>Melinda Dolan (W)               | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2010   | Richard Huysmans               | Sam Woff (M)<br> Jessica Gibson (W)             | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
+| 2009   | Richard Huysmans               | Chris Vinecombe (M)<br>Jessica Gibson (W)        | Michael Pogrebnoy                         | Ken Kanagalinggam                  |
 | 2008   | Andrew Mariadason              | Galit Aflalo                                     | Simon Serebryanikov                       | Peter Panagiotopoulos              |
 | 2007   | Andrew Mariadason              | Armando Pianese                                  | Simon Serebryanikov                       | Peter Panagiotopoulos              |
-| 2006   | Andrew Mariadason<br>James Bernard | Kon Kotzapavlidis                                | Simon Serebryanikov Peter Panagiotopoulos | Peter PanagiotopoulosAngel Aleksov |
+| 2006   | Andrew Mariadason <br>--------<br> James Bernard | Kon Kotzapavlidis                            | Simon Serebryanikov <br>--------<br> Peter Panagiotopoulos | Peter PanagiotopoulosAngel Aleksov |
 | 2005   | Angel Aleksov                  | Lisa McKiernan                                   | Peter Panagiotopoulos                     | Andrew Patterson                   |
 | 2004   | Richard Bruch                  |                                                  | Greg Charnock                             | Andrew Patterson                   |
 | 2003   | Richard Bruch                  |                                                  |                                           | Peter Panagiotopoulos              |
