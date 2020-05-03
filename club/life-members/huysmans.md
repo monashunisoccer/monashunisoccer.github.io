@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Nick Mallios (2015)
+title: Richard Huysmans (2019)
 parent: Life Members
 grand_parent: Club
-nav_order: "2015a"
+nav_order: "2019"
 ---
 
 #### Born

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Greg Costaras (2009)
+title: Phil Hawkins
 parent: Life Members
 grand_parent: Club
-nav_order: "2009a"
+nav_order: "19xxd"
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Nick Mallios (2015)
+title: Jess Gibson (2018)
 parent: Life Members
 grand_parent: Club
-nav_order: "2015a"
+nav_order: "2018a"
 ---
 
 #### Born

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Andrew Patterson
+title: Andrew Patterson (2015)
 parent: Life Members
 grand_parent: Club
+nav_order: "2015b"
 ---
 
 #### Born
@@ -20,4 +21,7 @@ Sydney, 1974
 
 #### Club Awards
 
-* Club person of the Year
+* 2004 Club Person of the Year
+* 2013 Club Person of the Year
+
+![](patto.png)
