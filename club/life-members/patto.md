@@ -22,19 +22,17 @@ Sydney, 1974
 
 #### Team Roles
 
-* 2016 U-23 Coach
-* 2011, 2012 Thirds Coach
+* Mens U-23 Coach (2016) 
+* Mens Thirds Coach (2011, 2012) 
 
 #### Individual Playing Achievements
 
-* 2000 Mens Seniors B&F
-* 2013 Mens Old Boys B&F
+* Mens Seniors B&F (2000) 
+* Mens Old Boys B&F (2013) 
 
 #### Club Awards
 
-* 2004 Club Person of the Year
-* 2013 Club Person of the Year
-* 2016 Club Person of the Year
+* Club Person of the Year (2004, 2013, 2016) 
 
 #### Other Soccer
 
