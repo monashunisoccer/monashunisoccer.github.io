@@ -1,4 +1,6 @@
-Seniors
+
+
+## Seniors
 
 #### Results
 
@@ -34,7 +36,7 @@ Seniors
 #### Table
 
 | Team | P | W | D | L | F | A | Pts |
-| ---- | - | - | - | - | - | - | --- |
+| ---- | --- | --- | --- | --- | --- | --- | --- |
 | Yarraville | 26 | 19 | 7 | 0 | 65 | 16 | 45 |
 | Clifton Hill | 26 | 17 | 5 | 4 | 60 | 34 | 39 |
 | East Brunswick | 26 | 16 | 5 | 5 | 54 | 29 | 37 |
@@ -53,9 +55,10 @@ Seniors
 
 
 
-Reserves
+#### Reserves
 
 | Team | P | W | D | L | F | A | Pts |
+| ---- | --- | --- | --- | --- | --- | --- | --- |
 | Yarraville | 26 | 19 | 3 | 4 | 76 | 27 | 41 |
 | Bulleen | 26 | 17 | 4 | 5 | 62 | 18 | 38 |
 | East Brunswick | 26 | 16 | 6 | 4 | 48 | 20 | 38 |

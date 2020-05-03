@@ -14,7 +14,7 @@ const validate = ajv.compile(match_schema);
 
 let matches: MatchWrapper[] = [];
 
-glob.sync("./mens/2019/seniors/*.yml").forEach(filename => {
+glob.sync("./mens-playing/2019/seniors/*.yml").forEach(filename => {
     try {
         let content = fs.readFileSync(filename, 'utf8');
 

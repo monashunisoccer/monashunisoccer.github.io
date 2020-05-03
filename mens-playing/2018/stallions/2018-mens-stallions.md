@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mens Stallions (2018)
+parent: Mens (2018)
+grand_parent: Mens (Playing)
+---
+
 ## 2018 Mens Fourths (Stallions) (Metropolitan League 6 South-East)
 
 ![stallions](https://live.staticflickr.com/65535/40674768553_ff69ca20b7_b.jpg)

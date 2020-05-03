@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mens Reserves (2019)
+parent: Mens (2019)
+grand_parent: Mens (Playing)
+---
+
 ### 2019 Mens Reserves (State League 3 South-East)
 
 ![](https://photos.smugmug.com/photos/i-9tc8SgK/2/afadb699/L/i-9tc8SgK-L.jpg)

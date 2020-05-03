@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mens Thirds (2019)
+parent: Mens (2019)
+grand_parent: Mens (Playing)
+---
+
 ### 2019 Mens Thirds (Metro League 4 South-East)
 
 ![]()

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mens Seniors (2018)
+parent: Mens (2018)
+grand_parent: Mens (Playing)
+---
+
 ### 2018 Mens Seniors (State League 4 South)
 
 ![](https://photos.smugmug.com/photos/i-6cqsNht/0/d703da0b/L/i-6cqsNht-L.jpg)

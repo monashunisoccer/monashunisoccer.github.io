@@ -19,10 +19,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://monashunisoccer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+exclude: ["src/", "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 # Enable or disable the site search
-search_enabled: nil
+search_enabled: false
 
 # Aux links for the upper right navigation
 #aux_links:
@@ -30,7 +30,7 @@ search_enabled: nil
 #    - "//github.com/pmarsceill/just-the-docs"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mens Seniors (2019)
+parent: Mens (2019)
+grand_parent: Mens (Playing)
+---
+
 ### 2019 Mens Seniors (State League 3 South-East)
 
 ![](https://photos.smugmug.com/photos/i-Pjh3NBX/2/1aec7f54/L/i-Pjh3NBX-L.jpg)
