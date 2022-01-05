@@ -36,85 +36,43 @@ away_team_event:
 away_team_starter:
   - Alexander Grantham:
       shirt: "GK"
-      3:
-      2:
-      1:
 
   - Todd Wallace:
       shirt: "6"
-      3:
-      2:
-      1:
 
   - Kieran Enright:
       shirt: "2"
-      3:
-      2:
-      1:
 
   - Ben Knight:
       shirt: "4"
-      3: Kieran Enright
-      2: Miles Rodriquez
-      1: Alexander Grantham
 
   - Liam Diamantopoulos:
       shirt: "5"
-      3:
-      2:
-      1:
 
   - Miles Rodriquez:
       shirt: "8"
-      3: Sarmad Nikakhter
-      2: Alexander Eggleston
-      1: Ben Baynard-Smith
 
   - Alexander Eggleston:
       shirt: "3"
-      3:
-      2:
-      1:
 
   - Ben Baynard-Smith:
       shirt: "16"
-      3:
-      2:
-      1:
 
   - Sarmad Nikakhter:
       shirt: "13"
-      3: Ben Knight
-      2: Alexander Grantham
-      1: Miles Rodriquez
 
   - Lucas Ford Weinberg:
       shirt: "11"
-      3:
-      2:
-      1:
 
   - Mike Van der Wouw:
       shirt: "9"
-      3:
-      2:
-      1:
 
 away_team_bench:
   - Daniel Raneri:
       shirt: "14"
-      3:
-      2:
-      1:
 
   - James Polmear:
       shirt: "12"
-      3:
-      2:
-      1:
 
   - Timileyin Adeosun:
       shirt: "17"
-      3:
-      2:
-      1:

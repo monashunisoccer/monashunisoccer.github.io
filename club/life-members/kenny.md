@@ -1,6 +1,6 @@
 ---
 layout: default
-title: kenny Kanagalingham (2018)
+title: Kenny Kanagalingham (2018)
 parent: Life Members
 grand_parent: Club
 nav_order: "2018b"

@@ -7,108 +7,67 @@ match:
   venue: Dendy Park
   result: 3-0 (2-0)
 
-away_team_event:
-  - yellow_card:
-      who: Todd Wallace
-      when: "31"
+away_team:
+  events:
+    - yellow_card:
+        who: Todd Wallace
+        when: "31"
 
-  - substitution:
-      who: Timileyin Adeosun
-      replaced: Miles Rodriquez
-      when: "46"
+    - substitution:
+        who: Timileyin Adeosun
+        replaced: Miles Rodriquez
+        when: "46"
 
-  - substitution:
-      who: Daniel Raneri
-      replaced: Liam Diamantopoulos
-      when: "46"
+    - substitution:
+        who: Daniel Raneri
+        replaced: Liam Diamantopoulos
+        when: "46"
 
-  - substitution:
-      who: Ben Baynard-Smith
-      replaced: Lucas Ford Weinberg
-      when: "70"
+    - substitution:
+        who: Ben Baynard-Smith
+        replaced: Lucas Ford Weinberg
+        when: "70"
 
-away_team_starter:
-  - Alexander Grantham:
-      shirt: "GK"
-      3:
-      2:
-      1:
+  starters:
+    - Alexander Grantham:
+        shirt: "GK"
 
-  - Todd Wallace:
-      shirt: "6"
-      3:
-      2:
-      1:
+    - Todd Wallace:
+        shirt: "6"
 
-  - Kieran Enright:
-      shirt: "3"
-      3:
-      2:
-      1:
+    - Kieran Enright:
+        shirt: "3"
 
-  - Ben Knight:
-      shirt: "4"
-      3: Kieran Enright
-      2: Saxon Chorny
-      1: Alexander Eggleston
+    - Ben Knight:
+        shirt: "4"
 
-  - Liam Diamantopoulos:
-      shirt: "2"
-      3:
-      2:
-      1:
+    - Liam Diamantopoulos:
+        shirt: "2"
 
-  - Alexander Eggleston:
-      shirt: "5"
-      3:
-      2:
-      1:
+    - Alexander Eggleston:
+        shirt: "5"
 
-  - Sarmad Nikakhter:
-      shirt: "14"
-      3: Ben Knight
-      2: Kieran Enright
-      1: Todd Wallace
+    - Sarmad Nikakhter:
+        shirt: "14"
 
-  - Lucas Ford Weinberg:
-      shirt: "11"
-      3:
-      2:
-      1:
+    - Lucas Ford Weinberg:
+        shirt: "11"
 
-  - Miles Rodriquez:
-      shirt: "8"
-      3: Ben Knight
-      2: Kieran Enright
-      1: Todd Wallace
+    - Miles Rodriquez:
+        shirt: "8"
 
-  - Saxon Chorny:
-      shirt: "10"
-      3:
-      2:
-      1:
+    - Saxon Chorny:
+        shirt: "10"
 
-  - Mike Van der Wouw:
-      shirt: "9"
-      3:
-      2:
-      1:
+    - Mike Van der Wouw:
+        shirt: "9"
 
-away_team_bench:
-  - Daniel Raneri:
-      shirt: "7"
-      3:
-      2:
-      1:
+  bench:
+    - Daniel Raneri:
+        shirt: "7"
 
-  - Ben Baynard-Smith:
-      shirt: "13"
-      3:
-      2:
-      1:
+    - Ben Baynard-Smith:
+        shirt: "13"
 
-  - Timileyin Adeosun:
-      shirt: "12"
-      3:
-      2:
-      1:
+    - Timileyin Adeosun:
+        shirt: "12"
