@@ -1,4 +1,7 @@
-/*th,
+
+/* min width in standard template is too wide for our many Win, Played etc table columns */
+
+th,
 td {
   @include fs-3;
   min-width: 40px;
@@ -14,4 +17,4 @@ td {
     border-left: 0;
   }
 }
-*/
+
