@@ -4,6 +4,11 @@ title: Coaching Staff
 parent: Mens (Playing)
 ---
 
+| Season | Seniors     | Reserves        | Thirds          | Colts (U-21/U-23) | Brumbies                       | Stallions         | Old Boys     |
+|--------|-------------|-----------------|-----------------|-------------------|--------------------------------|-------------------|--------------|
+| 2022   | Brian Vasey | Rhett Nothdurft | Sebastian Furer | Peter Mastorakis  | Daniel Fornarino, Richard Bain | Michael Pogrebnoy | Nick Mallios |
+
+
 | Season | Seniors                                              | Reserves                                                                  | Thirds                                            | Colts (U-21/U-23)                   | Stallions                               |
 |--------|------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------|-------------------------------------|-----------------------------------------|
 | 2021   | Brian Vasey                                          | Joel Fernandez<br>—<br>Andrew Koutsaplis                                  | Sebastian Furer                                   | Peter Mastorakis                    | Michael Pogrebnoy                       |
@@ -21,23 +26,23 @@ parent: Mens (Playing)
 | 2009   | Andy Humble<br> (a.c. Brett Lavale)                  | Alex de la Torre                                                          | Peter Kandyliotis                                 | Ned Rocke                           | Konrad Steinmuller                      |
 
 
-| Season | Seniors                                                 | Reserves                                                                    | Men's Thirds      |  Men's Fourths                                            |  Fifths                            |
+| Season | Seniors                                                 | Reserves                                                                    | Men's Thirds      | Men's Fourths                                             | Fifths                             |
 |--------|---------------------------------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------------------------------------------|------------------------------------|
 | 2008   | Simon Oliver <br>—<br> Harry Djumas (a.c. Rick Dal Ben) | Alex de la Torre (a.c. Peter Kandyliotis)                                   | Michael Pogrebnoy | Yogendra Kumar                                            | Chris Morgan (a.c. Darren Tan)     |
 | 2007   | Brian Vasey<br> (a.c. Darren Tan)                       | Alex de la Torre                                                            | Michael Pogrebnoy | Chris Morgan -------- John Jhoomun, Peter Panagiotopoulos | Steve Corney -------- Chris Morgan |
-| 2006   | Brian Vasey<br> (a.c. Kevin Ladd)                       | Kon Kotzapavlidis                                                           | Jonathan Jhoomun  | Clifton Dragon                                            | Simon Serebryanikov                |
-| 2005   | Alex de la Torre<br> (a.c. David Thompson)              | Rudi Wickert <br>—<br> David Thompson (caretaker) <br>—<br> Danilo Espinoza | Jonathan Jhoomun  | Ed Wallis                                                 | James Bernard                      |
-| 2004   | Kevin Ladd<br> (a.c. Alex de la Torre)                  | Yogendra Kumar                                                              | Kaveh Zegrati     | Bob West                                                  | --                                 |
+| 2006   | Brian Vasey<br> (a.c. Kevin Ladd)                       | Kon Kotzapavlidis                                                           | Jonathan Jhoomun  | Clifton Dragon                                            | Simon Serebryanikov                |
+| 2005   | Alex de la Torre<br> (a.c. David Thompson)              | Rudi Wickert <br>—<br> David Thompson (caretaker) <br>—<br> Danilo Espinoza | Jonathan Jhoomun  | Ed Wallis                                                 | James Bernard                      |
+| 2004   | Kevin Ladd<br> (a.c. Alex de la Torre)                  | Yogendra Kumar                                                              | Kaveh Zegrati     | Bob West                                                  | --                                 |
 
 
-| Season | Seniors                            | Reserves             | Thirds           | Fourths                        | U-21      | Halls             |
-|--------|------------------------------------|----------------------|------------------|--------------------------------|-----------|-------------------|
-| 2003   | Kevin Ladd<br>(a.c. Alex de la Torre) | Yogendra Kumar       | Jonathan Jhoomun | Kaveh Zegrati                  | Bob West  | --                |
-| 2002   | Kevin Ladd                         | Alex de la Torre     | Michael Jhoomun  | Henry Scheyvens <br> Steve | Bob West  | Ken Kanagalinggam |
-| 2001   | Clive Barker                       | Alex de la Torre     | Michael Jhoomun  | --                             | Bob West  | Steve Holl        |
-| 2000   | Clive Barker                       | Bob West             | Jonathan Jhoomun | --                             | --        | Steve Holl        |
-| 1999   | Julian Pettegree                   | Bill Giannias        |                  | --                             | --        | Steve Holl        |
-| 1998   | Julian Pettegree                   | Bill Kostadakopoulos |                  | --                             | --        | Steve Holl        |
+| Season | Seniors                               | Reserves             | Thirds           | Fourths                    | U-21     | Halls             |
+|--------|---------------------------------------|----------------------|------------------|----------------------------|----------|-------------------|
+| 2003   | Kevin Ladd<br>(a.c. Alex de la Torre) | Yogendra Kumar       | Jonathan Jhoomun | Kaveh Zegrati              | Bob West | --                |
+| 2002   | Kevin Ladd                            | Alex de la Torre     | Michael Jhoomun  | Henry Scheyvens <br> Steve | Bob West | Ken Kanagalinggam |
+| 2001   | Clive Barker                          | Alex de la Torre     | Michael Jhoomun  | --                         | Bob West | Steve Holl        |
+| 2000   | Clive Barker                          | Bob West             | Jonathan Jhoomun | --                         | --       | Steve Holl        |
+| 1999   | Julian Pettegree                      | Bill Giannias        |                  | --                         | --       | Steve Holl        |
+| 1998   | Julian Pettegree                      | Bill Kostadakopoulos |                  | --                         | --       | Steve Holl        |
 
 
 
