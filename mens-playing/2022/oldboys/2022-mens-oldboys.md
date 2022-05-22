@@ -20,7 +20,7 @@ _front_:
 | R   | DATE   |     |     | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                | OTHER        |
 |-----|--------|:---:|:---:|---------------------------|---------------------------|------------------------|--------------|
 | 1   | 24 Apr |  A  |  D  | Central Park (2)          | **Monash University (2)** | Serrano R, OG          |              |
-| 2   | 29 Apr |  H  |  D  | **Monash University (2)** | Cleeland United (3)       | Serrano R, Becerra, OG |              |
+| 2   | 29 Apr |  H  |  D  | **Monash University (3)** | Cleeland United (3)       | Serrano R, Becerra, OG |              |
 | 3   | 8 May  |  A  |  D  | East Bentleigh (1)        | **Monash University (1)** | Serrano R              |              |
 | 4   | 13 May |  H  |  L  | **Monash University (0)** | Eastern Lions (2)         |                        | Mallios (RC) |
 | 5   | 22 May |  A  |  W  | Old Xaverians (0)         | **Monash University (1)** | Costaras               |              |
@@ -56,9 +56,6 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Table
 
-|   #   | TEAM                        |  P  |  W  |  D  |  L  |  F  |  A  | GD  |  PTS   |
-|:-----:|-----------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:------:|
-
 To be inserted at end of season
 
 ------------------------
@@ -67,9 +64,29 @@ To be inserted at end of season
 
 * Appearances includes all games where player participated, but not if they only listed on the teamsheet and didn't play
 
-| PLAYER           | APPEARANCES |
-|------------------|-------------|
-| Greg Costaras    |             |
-| Andrew Patterson |             |
-| Nick Mallios     |             |
-| Andrew Mariadarson |     |
+| PLAYER                | APPEARANCES |
+|-----------------------|-------------|
+| Greg Costaras         | 1 2 3 4 5   |
+| Andrew Patterson      | 1 2   4     |
+| Nick Mallios          | 1 2 3 4     |
+| Andrew Mariadason     | 1 2 3 4     |
+| Eddie Tasker          | 1           |
+| Sean Barret           |             |
+| Luke Davis            |             |
+| Harry Dickinson       |             |
+| Liam Johnson          |             |
+| Moses Kenyi           |             |
+| Kon Kotzapavlidis     |             |
+| Trevor Lim            |             |
+| Ned Rocke             |             |
+| Miles Rodriquez       |             |
+| Ariel Salmon          |             |
+| Robbie Serrano        |             |
+| Julio Serrano         |             |
+| David Thompson        |             |
+| Jay Chew              | 5           |
+| Nathan Bortolin       | 5           |
+| Rodrigo Becerra       |             |
+| Peter Panagiotopoulos |             |
+|                       |             |
+|                       |             |
