@@ -29,11 +29,10 @@ search_enabled: false
 #  "Just the Docs on GitHub":
 #    - "//github.com/pmarsceill/just-the-docs"
 
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+color_scheme: monash
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 # ga_tracking: UA-2709176-10
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
