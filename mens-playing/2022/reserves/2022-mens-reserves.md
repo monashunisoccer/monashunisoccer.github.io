@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Seniors
+title: Reserves
 parent: 2022
 grand_parent: Mens (Playing)
 ---
