@@ -31,7 +31,7 @@ _front_:
 | 8    | 7 May  |  A  |  L  | Elwood City (4)                 | **Monash University (2)**    | Nikakhter, Oana                | Oloruntoba (RC)             |
 | 9    | 14 May |  H  |  W  | **Monash University (1)**       | Hampton East Brighton (0)    | Nikakhter                      | Verrios (CS), Mizusawa (RC) |
 | 10   | 21 May |  A  |  W  | Middle Park (1)                 | **Monash University (4)**    | Dost, Trac, Oloruntoba, Oana   |                             |
-| 11   | 28 May |  H  |     | **Monash University ()**        | Rowville Eagles ()           |                                |                             |
+| 11   | 28 May |  H  |  W  | **Monash University (1)**       | Rowville Eagles (0)          | Oloruntoba                     | Verrios (CS)                |
 | 12   | 4 Jun  |  A  |     | Ashburton ()                    | **Monash University ()**     |                                |                             |
 | 13   | 11 Jun |  A  |     | Brighton ()                     | **Monash University ()**     |                                |                             |
 | 14   | 18 Jun |  H  |     | **Monash University ()**        | Frankston Pines ()           |                                |                             |
@@ -57,7 +57,7 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | Kenneth Trac           | 3     |
 | Dougal Konstantopoulos | 3     |
 | James Oana             | 3     |
-| Oloruntoba             | 2     |
+| Ibukun Oloruntoba      | 3     |
 | Gabriel Goncalves      | 1     |
 |                        |       |
 |                        |       |

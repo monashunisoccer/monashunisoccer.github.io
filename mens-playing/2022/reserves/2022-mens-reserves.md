@@ -28,7 +28,7 @@ _front_:
 | 8   | 7 May  |  A  |  W  | Elwood City (1)           | **Monash University (2)** | Lee, Bush-Belton                          |                |
 | 9   | 14 May |  H  |  L  | **Monash University (0)** | Hampton East Brighton (2) |                                           |                |
 | 10  | 21 May |  A  |  L  | Middle Park (3)           | **Monash University (0)** |                                           |                |
-| 11  | 28 May |  H  |     | **Monash University ()**  | Rowville Eagles ()        |                                           |                |
+| 11  | 28 May |  H  |  W  | **Monash University (3)** | Rowville Eagles (2)       | Rogan, Lee, Chuol                         |                |
 | 12  | 4 Jun  |  A  |     | Ashburton ()              | **Monash University ()**  |                                           |                |
 | 13  | 11 Jun |  A  |     | Brighton ()               | **Monash University ()**  |                                           |                |
 | 14  | 18 Jun |  H  |     | **Monash University ()**  | Frankston Pines ()        |                                           |                |
@@ -50,13 +50,13 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | PLAYER           | GOALS |
 |------------------|-------|
 | Rory Bush-Belton | 4     |
-| Ben Rogan        | 3     |
+| Ben Rogan        | 4     |
 | Joel Ludlow      | 3     |
 | Tan Yi           | 2     |
+| Calvin Lee       | 2     |
 | Smith            | 1     |
-| Calvin Lee       | 1     |
 | Gowdanakunte     | 1     |
-|                  |       |
+| Lual Chuol       | 1     |
 |                  |       |
 |                  |       |
 |                  |       |
