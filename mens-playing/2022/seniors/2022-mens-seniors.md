@@ -9,9 +9,11 @@ grand_parent: Mens (Playing)
 
 ![2022 Mens Seniors](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-9S84gKn/1/5c00d1f8/XL/DSCF1227-XL.jpg)
 
-_back_: Brian Vasey (coach), Niko Verrios, Ace Mitrevski, Jonathan Fernandes, Henry Macdonald, Ibukun Oloruntoba, Gabriel Goncalves, Ben Knight, Folu Komolafe, James Narayanan, Adoni Konstantopoulos 
+_back_: Brian Vasey (coach), Niko Verrios, Ace Mitrevski, Jonathan Fernandes, 
+        Henry Macdonald, Ibukun Oloruntoba, Gabriel Goncalves, Ben Knight, Folu Komolafe, James Narayanan, Adoni Konstantopoulos 
 
-_front_: Jay Dost, Kenneth Trac, James Oana, Sarmad Nikakhter, Genki Mizusawa, Victor Cruz de Faria, Dougal Konstantopoulos
+_front_: Jay Dost, Kenneth Trac, James Oana, Sarmad Nikakhter,
+          Genki Mizusawa, Victor Cruz de Faria, Dougal Konstantopoulos
 
 ------------------------
 
@@ -93,31 +95,31 @@ Appearances include both starting and substitute appearances, but not if player 
 
 | PLAYER                 | APPEARANCE TOTAL | PP VOTES | CUP2 | CUP3 | CUP4 | R1  | R2  | R3  | R4  | R5  | R6  | R7  | R8  | R9  | R10 | R11 | R12 | R13 | R14 | R15 | R16 | R17 | R18 | R19 | R20 | R21 | R22 |
 |------------------------|:----------------:|:--------:|:----:|:----:|:----:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Victor Cruz de Faria   |                  |          |      |      |      |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |  S  |  S  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
-| Sarmad Nikakhter       |                  |          |  *   |  *   |  S   |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  S  |  *  |  *  |  *  |  *  |  *  |  *  |  S  |  *  |     |     |  *  |
-| Kenneth Trac           |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |  S  |  S  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
-| Niko Verrios           |                  |          |  *   |  *   |      |     |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |  S  |  *  |  *  |  *  |
+| Victor Cruz de Faria   |                  |          |      |      |      |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     | Sub | Sub |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
+| Sarmad Nikakhter       |                  |          |  *   |  *   | Sub  |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  | Sub |  *  |  *  |  *  |  *  |  *  |  *  | Sub |  *  |     |     |  *  |
+| Kenneth Trac           |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     | Sub | Sub |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
+| Niko Verrios           |                  |          |  *   |  *   |      |     |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     | Sub |  *  |  *  |  *  |
 | Jonathan Fernandes     |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |  *  |  *  |  *  |  *  |  *  |
 | Jay Dost               |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |     |     |     |
-| Dougal Konstantopoulos |                  |          |  *   |      |  *   |  *  |  *  |  *  |     |     |     |     |     |  *  |  *  |  *  |  *  |     |     |  S  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
+| Dougal Konstantopoulos |                  |          |  *   |      |  *   |  *  |  *  |  *  |     |     |     |     |     |  *  |  *  |  *  |  *  |     |     | Sub |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
 | Genki Mizusawa         |                  |          |      |  *   |  *   |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |     |     |     |     |  *  |  *  |  *  |
-| Henry Macdonald        |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  S  |  *  |  *  |  *  |  *  |
+| Henry Macdonald        |                  |          |  *   |  *   |  *   |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  | Sub |  *  |  *  |  *  |  *  |
 | Ben Knight             |                  |          |      |  *   |  *   |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
-| James Oana             |                  |          |  *   |      |  *   |  S  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |
-| Gab Goncalves          |                  |          |  *   |  *   |  *   |  S  |  S  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |
-| Ace Mitrevski          |                  |          |      |      |  *   |  S  |     |     |     |     |     |     |  *  |  *  |  *  |     |  S  |     |  S  |     |  S  |  *  |  *  |  *  |  *  |     |  *  |
-| Folu Komolafe          |                  |          |      |      |      |     |     |  *  |  *  |  *  |  *  |  *  |  *  |     |  *  |  S  |  S  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
-| Ibukun Oloruntoba      |                  |          |      |      |      |     |     |     |  S  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
-| Adoni Konstantopoulos  |                  |          |      |      |      |  *  |  *  |  *  |  *  |  *  |     |     |     |     |     |     |     |     |     |     |     |     |  *  |     |  *  |  S  |     |
-| Mario Bergmann         |                  |          |      |  *   |      |     |     |  *  |  S  |     |     |  *  |     |  *  |     |     |  S  |     |     |     |     |  *  |     |  *  |     |     |     |
-| Alex Jong              |                  |          |  *   |  *   |      |     |     |     |     |  *  |  *  |  *  |  *  |  *  |  *  |     |     |     |     |     |  S  |     |     |     |     |  S  |  *  |
+| James Oana             |                  |          |  *   |      |  *   | Sub |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |
+| Gab Goncalves          |                  |          |  *   |  *   |  *   | Sub | Sub |  *  |  *  |  *  |  *  |  *  |  *  |     |     |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |     |     |
+| Ace Mitrevski          |                  |          |      |      |  *   | Sub |     |     |     |     |     |     |  *  |  *  |  *  |     | Sub |     | Sub |     | Sub |  *  |  *  |  *  |  *  |     |  *  |
+| Folu Komolafe          |                  |          |      |      |      |     |     |  *  |  *  |  *  |  *  |  *  |  *  |     |  *  | Sub | Sub |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
+| Ibukun Oloruntoba      |                  |          |      |      |      |     |     |     | Sub |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |     |  *  |  *  |  *  |  *  |  *  |  *  |  *  |
+| Adoni Konstantopoulos  |                  |          |      |      |      |  *  |  *  |  *  |  *  |  *  |     |     |     |     |     |     |     |     |     |     |     |     |  *  |     |  *  | Sub |     |
+| Mario Bergmann         |                  |          |      |  *   |      |     |     |  *  | Sub |     |     |  *  |     |  *  |     |     | Sub |     |     |     |     |  *  |     |  *  |     |     |     |
+| Alex Jong              |                  |          |  *   |  *   |      |     |     |     |     |  *  |  *  |  *  |  *  |  *  |  *  |     |     |     |     |     | Sub |     |     |     |     | Sub |  *  |
 | Hugo Paulsen           |                  |          |      |      |  *   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  *  |  *  |     |     |     |
-| James Narayanan        |                  |          |      |  *   |  *   |  *  |  *  |  *  |     |     |     |     |     |     |     |     |     |     |     |     |  S  |     |     |     |     |     |     |
-| Milind Gowdanakunte    |                  |          |      |  *   |  *   |     |  S  |  *  |     |  *  |  *  |     |     |     |     |  S  |     |     |     |     |     |     |     |     |     |     |     |
-| Tomi Oladele           |                  |          |  *   |  *   |  *   |  S  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  S  |     |
+| James Narayanan        |                  |          |      |  *   |  *   |  *  |  *  |  *  |     |     |     |     |     |     |     |     |     |     |     |     | Sub |     |     |     |     |     |     |
+| Milind Gowdanakunte    |                  |          |      |  *   |  *   |     | Sub |  *  |     |  *  |  *  |     |     |     |     | Sub |     |     |     |     |     |     |     |     |     |     |     |
+| Tomi Oladele           |                  |          |  *   |  *   |  *   | Sub |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     | Sub |     |
 | Rory Bush-Belton       |                  |          |      |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  *  |
-| Hasib Rahimi           |                  |          |  S   |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Joel Ludlow            |                  |          |  S   |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Hasib Rahimi           |                  |          | Sub  |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Joel Ludlow            |                  |          | Sub  |      |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | Ben Rogan              |                  |          |      |  *   |      |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | Victor Harris          |                  |          |      |  *   |  *   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 |                        |                  |          |  G   |      |      |  G  |  G  |     |     |     |     |     |     |     |     |  G  |  G  |  G  |  G  |  G  |     |     |  G  |     |     |     |     |

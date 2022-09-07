@@ -7,12 +7,6 @@ grand_parent: Mens (Playing)
 
 ### 2019 Mens Thirds (Metro League 4 South-East)
 
-![]()
-
-_back_: Player X
-
-------------------------
-
 #### Results 
 
 |  R  |  DATE  |     |     | HOME                      | AWAY                      | SCORERS                                     | OTHER        |

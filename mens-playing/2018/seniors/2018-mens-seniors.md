@@ -63,44 +63,44 @@ F Friendly, OG Own goal
 
 #### Scorers (including cup and finals but not friendlies)
 
-| PLAYER                   | GOALS |
-| ------------------------ | ---   |
-| Alex Certoma (Junior)    | 10    |
-| George Cummins           | 8 |
-| Josh de Voogel           | 8 |
-| Souleymane Diamanka      | 7 |
-| Sarmad Nikakhter         | 7 |
-| Casey Ferrier            | 7 |
-| Hiroki Kimijima          | 2 |
-| Arnold Clever            | 2 |
-| Saxon Chorny             | 2 |
-| Victor de Faria          | 1 |
-| Miles Rodriquez          | 1 |
-| Steve Harvey             | 1 |
-| Alex Eggleston           | 1 |
-| Kieran Enright           | 1 |
-| Mario Bergmann           | 1 |
-| OG                       | 2 |
-|                          | = 53 league, 2 cup, 6 finals |
+| PLAYER                | GOALS                        |
+|-----------------------|------------------------------|
+| Alex Certoma (Junior) | 10                           |
+| George Cummins        | 8                            |
+| Josh de Voogel        | 8                            |
+| Souleymane Diamanka   | 7                            |
+| Sarmad Nikakhter      | 7                            |
+| Casey Ferrier         | 7                            |
+| Hiroki Kimijima       | 2                            |
+| Arnold Clever         | 2                            |
+| Saxon Chorny          | 2                            |
+| Victor de Faria       | 1                            |
+| Miles Rodriquez       | 1                            |
+| Steve Harvey          | 1                            |
+| Alex Eggleston        | 1                            |
+| Kieran Enright        | 1                            |
+| Mario Bergmann        | 1                            |
+| OG                    | 2                            |
+|                       | = 53 league, 2 cup, 6 finals |
 
 ------------------------
 
 #### Table
 
-| #   | TEAM                          | P   | W   | D   | L   | F   | A   | GD  | PTS |
-| --- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Monash Uni Mens Seniors** | 22 | 14 | 7 | 1 | 53 | 20 | 33 | **49** |
-| 2  | Springvale City SC             | 22 | 13 | 6 | 3 | 53 | 21 | 32 | 45 |
-| 3  | Sandown Lions FC               | 22 | 11 | 5 | 6 | 52 | 37 | 15 | 38 |
-| 4  | Endeavour United SC            | 22 | 10 | 7 | 5 | 35 | 26 | 9 | 37 |
-| 5  | Dandenong South SC             | 22 | 11 | 3 | 8 | 41 | 37 | 4 | 36 |
-| 6  | Dandenong Warriors FC          | 22 | 8 | 6 | 8 | 41 | 41 | 0 | 30 |
-| 7  | Keysborough SC                 | 22 | 7 | 7 | 8 | 31 | 34 | -3 | 28 |
-| 8  | Harrisfield Hurricanes SC      | 22 | 6 | 4 | 12 | 40 | 48 | -8 | 22 |
-| 9  | Sandringham SC                 | 22 | 5 | 7 | 10 | 27 | 48 | -21 | 22 |
-| 10 | Baxter SC                      | 22 | 5 | 5 | 12 | 39 | 50 | -11 | 20 |
-| 11 | Noble Park SC                  | 22 | 5 | 4 | 13 | 37 | 65 | -28 | 19 |
-| 12 | Hampton Park United Sparrows FC | 22 | 5 | 3 | 14 | 30 | 52 | -22 | 18 |
+| #     | TEAM                            | P   | W   | D   | L   | F   | A   | GD  | PTS    |
+|-------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|--------|
+| **1** | **Monash Uni Mens Seniors**     | 22  | 14  | 7   | 1   | 53  | 20  | 33  | **49** |
+| 2     | Springvale City SC              | 22  | 13  | 6   | 3   | 53  | 21  | 32  | 45     |
+| 3     | Sandown Lions FC                | 22  | 11  | 5   | 6   | 52  | 37  | 15  | 38     |
+| 4     | Endeavour United SC             | 22  | 10  | 7   | 5   | 35  | 26  | 9   | 37     |
+| 5     | Dandenong South SC              | 22  | 11  | 3   | 8   | 41  | 37  | 4   | 36     |
+| 6     | Dandenong Warriors FC           | 22  | 8   | 6   | 8   | 41  | 41  | 0   | 30     |
+| 7     | Keysborough SC                  | 22  | 7   | 7   | 8   | 31  | 34  | -3  | 28     |
+| 8     | Harrisfield Hurricanes SC       | 22  | 6   | 4   | 12  | 40  | 48  | -8  | 22     |
+| 9     | Sandringham SC                  | 22  | 5   | 7   | 10  | 27  | 48  | -21 | 22     |
+| 10    | Baxter SC                       | 22  | 5   | 5   | 12  | 39  | 50  | -11 | 20     |
+| 11    | Noble Park SC                   | 22  | 5   | 4   | 13  | 37  | 65  | -28 | 19     |
+| 12    | Hampton Park United Sparrows FC | 22  | 5   | 3   | 14  | 30  | 52  | -22 | 18     |
 
 ------------------------
 

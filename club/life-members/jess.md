@@ -7,10 +7,13 @@ nav_order: "2018a"
 ---
 
 #### Born
- 
+
+Melbourne, 1987
+
 
 #### Years Involved
 
+2005 - 2022
 
 #### Individual Playing Achievements
 
