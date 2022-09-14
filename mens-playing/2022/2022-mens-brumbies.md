@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brumbies
+title: 5 Brumbies
 parent: 2022
 grand_parent: Mens (Playing)
 ---

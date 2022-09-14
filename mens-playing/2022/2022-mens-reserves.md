@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reserves
+title: 2 Reserves
 parent: 2022
 grand_parent: Mens (Playing)
 ---

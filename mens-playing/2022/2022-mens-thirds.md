@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thirds
+title: 6 Thirds
 parent: 2022
 grand_parent: Mens (Playing)
 ---
