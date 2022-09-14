@@ -7,11 +7,11 @@ grand_parent: Mens (Playing)
 
 ### 2022 Mens Brumbies (Metro 3 South East)
 
-![]()
+![2022 Brumbies](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-vMh2hZS/0/751057e5/XL/DSCF1290-XL.jpg)
 
-_back_: team photos
- 
-_front_: 
+_back_: Daniel Fornarino (player/coach), Vincent Wong, Ajay, Halil, Nathan Bortolin, Sasha Stijacic, Genious Zishiri, Kyle Chan, Richard Bain (player/coach)
+
+_front_: Hayden Chan, Daniel Hua, Joel Rotar, Jared Ng, Andoni, JD Chiang, Bryce Hall, Aryan Singh
 
 ------------------------
 
