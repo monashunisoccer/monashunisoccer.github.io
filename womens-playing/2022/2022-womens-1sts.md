@@ -17,26 +17,28 @@ _front_:
 
 #### Results
 
-| R   | DATE  |     |     | HOME TEAM (SCORE) | AWAY TEAM (SCORE)        | SCORERS | OTHER |
-|-----|-------|:---:|:---:|-------------------|--------------------------|---------|-------|
-| 1   | 5 Apr |  H  |  D  | Someone ()        | **Monash University ()** |         |       |
-| 2   |       |     |     |                   |                          |         |       |
-| 3   |       |     |     |                   |                          |         |       |
-| 4   |       |     |     |                   |                          |         |       |
-| 5   |       |     |     |                   |                          |         |       |
-| 6   |       |     |     |                   |                          |         |       |
-| 7   |       |     |     |                   |                          |         |       |
-| 8   |       |     |     |                   |                          |         |       |
-| 9   |       |     |     |                   |                          |         |       |
-| 10  |       |     |     |                   |                          |         |       |
-| 11  |       |     |     |                   |                          |         |       |
-| 12  |       |     |     |                   |                          |         |       |
-| 13  |       |     |     |                   |                          |         |       |
-| 14  |       |     |     |                   |                          |         |       |
-| 15  |       |     |     |                   |                          |         |       |
-| 16  |       |     |     |                   |                          |         |       |
-| 17  |       |     |     |                   |                          |         |       |
-| 18  |       |     |     |                   |                          |         |       |
+| R    | DATE   |     |     | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                       | OTHER     |
+|------|--------|:---:|:---:|---------------------------|---------------------------|-------------------------------|-----------|
+| Cup3 | 20 Mar |  H  |  W  | **Monash University (4)** | Altona SC (0)             | Costaras 2, Wood 2            |           |
+| Cup4 | 26 Mar |  A  |  L  | Caroline Springs FC (3)   | **Monash University (0)** |                               |           |
+| 1    | 24 Apr |  H  |  L  | **Monash University (0)** | Skye United (2)           |                               |           |
+| 2    | 1 May  |  H  |  W  | **Monash University (3)** | Noble Hurricanes (2)      | Nothrop, Dissanayaka, Farrell |           |
+| 3    | 6 May  |  A  |  D  | Monbulk Rangers (1)       | **Monash University (1)** | Mason                         |           |
+| 4    | 15 May |  H  |  L  | **Monash University (0)** | Ringwood City (4)         |                               |           |
+| 5    | 20 May |  A  |  D  | Knox City     (2)         | **Monash University (2)** | Ong, Farrell                  |           |
+| 6    | 29 May |  H  |  W  | **Monash University (3)** | Mazenod FC (1)            | Lone, Costaras, Berson        |           |
+| 7    | 20 Jul |  A  |  W  | Croydon City (0)          | **Monash University (3)** | Mason, Wood (2)               | Pick (CS) |
+| 8    | 12 Jun |  H  |  L  | **Monash University (0)** | Maccabi FC (3)            |                               |           |
+| 9    | 19 Jun |  A  |  W  | Glen Waverley SC (8)      | **Monash University (2)** | Wood (2)                      |           |
+| 10   | 26 Jun |  A  |  D  | Skye United (1)           | **Monash University (1)** | Wood                          |           |
+| 11   | 3 Jul  |  A  |  W  | Noble Hurricanes (1)      | **Monash University (2)** | Costaras, Mason               |           |
+| 12   | 10 Jul |  H  |  L  | **Monash University (1)** | Monbulk Rangers (4)       | Campbell                      |           |
+| 13   | 15 Jul |  A  |  L  | Ringwood City (2)         | **Monash University (0)** |                               |           |
+| 14   | 24 Jul |  H  |  W  | **Monash University (2)** | Knox City (0)             | Mason, Seeger                 | Pick (CS) |
+| 15   | 31 Jul |  A  |  D  | Mazenod FC (1)            | **Monash University (1)** | Wood                          |           |
+| 16   | 14 Aug |  H  |  W  | **Monash University (4)** | Croydon City (1)          | Mason (2), Ferguson, Wood     |           |
+| 17   | 21 Aug |  A  |  D  | Maccabi FC            (2) | **Monash University (2)** | Ferguson, Wood                |           |
+| 18   | 28 Aug |  H  |  L  | **Monash University (2)** | Glen Waverley SC (4)      | Farrell, Wood                 |           |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -44,12 +46,22 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Scorers
 
-| PLAYER | GOALS |
-|--------|-------|
-|        |       |
-|        |       |
-| OG     |       |
-|        | = X   |
+| PLAYER       | GOALS                        |
+|--------------|------------------------------|
+| Steph Wood   | 11                           |
+| Rachel Mason | 6                            |
+| Costaras     | 4                            |
+| Farrell      | 3                            |
+| Ferguson     | 2                            |
+| Seeger       | 1                            |
+| Ong          | 1                            |
+| Lone         | 1                            |
+| Berson       | 1                            |
+| Northrop     | 1                            |
+| Dissanayaka  | 1                            |
+| Campbell     | 1                            |
+| OG           |                              |
+|              | = 29 league, 4 cup, 33 total |
 
 ------------------------
 

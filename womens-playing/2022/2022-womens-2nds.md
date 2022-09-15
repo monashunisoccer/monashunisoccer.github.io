@@ -17,26 +17,26 @@ _front_:
 
 #### Results
 
-| R   | DATE  |     |     | HOME TEAM (SCORE) | AWAY TEAM (SCORE)        | SCORERS | OTHER |
-|-----|-------|:---:|:---:|-------------------|--------------------------|---------|-------|
-| 1   | 5 Apr |  H  |  D  | Someone ()        | **Monash University ()** |         |       |
-| 2   |       |     |     |                   |                          |         |       |
-| 3   |       |     |     |                   |                          |         |       |
-| 4   |       |     |     |                   |                          |         |       |
-| 5   |       |     |     |                   |                          |         |       |
-| 6   |       |     |     |                   |                          |         |       |
-| 7   |       |     |     |                   |                          |         |       |
-| 8   |       |     |     |                   |                          |         |       |
-| 9   |       |     |     |                   |                          |         |       |
-| 10  |       |     |     |                   |                          |         |       |
-| 11  |       |     |     |                   |                          |         |       |
-| 12  |       |     |     |                   |                          |         |       |
-| 13  |       |     |     |                   |                          |         |       |
-| 14  |       |     |     |                   |                          |         |       |
-| 15  |       |     |     |                   |                          |         |       |
-| 16  |       |     |     |                   |                          |         |       |
-| 17  |       |     |     |                   |                          |         |       |
-| 18  |       |     |     |                   |                          |         |       |
+| R   | DATE   |     |     | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                      | OTHER        |
+|-----|--------|:---:|:---:|---------------------------|---------------------------|------------------------------|--------------|
+| 1   | 24 Apr |  H  |  L  | **Monash University (0)** | Skye United (6)           |                              |              |
+| 2   | 1 May  |  H  |  L  | **Monash University (0)** | Noble Hurricanes (1)      |                              |              |
+| 3   | 6 May  |  A  |  L  | Monbulk Rangers (2)       | **Monash University (0)** |                              |              |
+| 4   | 15 May |  H  |  W  | **Monash University (3)** | Ringwood City (2)         | Kotzur, Brooks (P), Campbell |              |
+| 5   | 20 May |  A  |  W  | Knox City     (0)         | **Monash University (1)** | Boardman                     | Rackham (CS) |
+| 6   | 29 May |  H  |  L  | **Monash University (2)** | Mazenod FC (3)            | Boardman, Campbell           |              |
+| 7   | 20 Jul |  A  |  W  | Croydon City (1)          | **Monash University (2)** | Roberts, Warren              |              |
+| 8   | 12 Jun |  H  |  L  | **Monash University (3)** | Maccabi FC (5)            | Ferguson, Roberts, Brooks    |              |
+| 9   | 19 Jun |  A  |  W  | Glen Waverley SC (1)      | **Monash University (2)** | Campbell (2)                 |              |
+| 10  | 26 Jun |  A  |  W  | Skye United (0)           | **Monash University (2)** | Halford Molinaro, Gibson     | Pick (CS)    |
+| 11  | 3 Jul  |  A  |  W  | Noble Hurricanes (0)      | **Monash University (1)** | Roberts                      | Pick (CS)    |
+| 12  | 2 Aug  |  H  |  D  | **Monash University (1)** | Monbulk Rangers (1)       | Downey                       |              |
+| 13  | 15 Jul |  A  |  L  | Ringwood City (6)         | **Monash University (0)** |                              |              |
+| 14  | 24 Jul |  H  |  L  | **Monash University (0)** | Knox City (4)             |                              |              |
+| 15  | 31 Jul |  A  |  D  | Mazenod FC (1)            | **Monash University (1)** | Downey                       |              |
+| 16  | 14 Aug |  H  |  W  | **Monash University (3)** | Croydon City (0)          | Doyle, Netherway, Kotzur     | Rackham (CS) |
+| 17  | 21 Aug |  A  |  W  | Maccabi FC            (2) | **Monash University (4)** | Warren, Gibson, Varon, Doyle |              |
+| 18  | 28 Aug |  H  |  L  | **Monash University (0)** | Glen Waverley SC (1)      |                              |              |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -44,12 +44,22 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Scorers
 
-| PLAYER | GOALS |
-|--------|-------|
-|        |       |
-|        |       |
-| OG     |       |
-|        | = X   |
+| PLAYER           | GOALS |
+|------------------|-------|
+| Campbell         | 4     |
+| Roberts          | 3     |
+| Kotzur           | 2     |
+| Brooks           | 2     |
+| Boardman         | 2     |
+| Warren           | 2     |
+| Gibson           | 2     |
+| Downey           | 2     |
+| Doyle            | 2     |
+| Ferguson         | 1     |
+| Halford Molinaro | 1     |
+| Netherway        | 1     |
+| Varon            | 1     |
+|                  | = 25  |
 
 ------------------------
 
