@@ -9,7 +9,7 @@ grand_parent: Mens (Playing)
 
 ![2022 Brumbies](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-vMh2hZS/0/751057e5/XL/DSCF1290-XL.jpg)
 
-_back_: Daniel Fornarino (player/coach), Vincent Wong, Ajay, Halil, Nathan Bortolin, Sasha Stijacic, Genious Zishiri, Kyle Chan, Richard Bain (player/coach)
+_back_: Daniel Fornarino (player/coach), Vincent Wong, Ajay, Halil Isguder, Nathan Bortolin, Sasha Stijacic, Genious Zishiri, Kyle Chan, Richard Bain (player/coach)
 
 _front_: Hayden Chan, Daniel Hua, Joel Rotar, Jared Ng, Andoni, JD Chiang, Bryce Hall, Aryan Singh
 
@@ -76,8 +76,8 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Appearances
 
-* Appearances includes all games where player participated,
-   but not if they were only listed on the teamsheet and did not play
+* Appearances include all games where player participated,
+   but not if they were only listed on the team sheet and did not play
 
 | PLAYER                      | TOTAL |
 |-----------------------------|-------|

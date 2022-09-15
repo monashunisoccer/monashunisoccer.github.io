@@ -9,7 +9,7 @@ grand_parent: Mens (Playing)
 
 ![2022 Stallions](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-RMd3vrb/0/be8abfc3/XL/20220821_124251-XL.jpg)
 
-_back_: Tom Flanagan, Aldo, John Jhoomun, 
+_back_:  
 
 _front_: 
 
@@ -57,8 +57,8 @@ CS Clean sheet, PS Penalty save, F Friendly, OG Own goal, H Home, A Away, N Neut
 | George Marcello   | 2     |
 | Chris Blake       | 1     |
 | Mohammed Taha     | 1     |
-|                   |       |
-| FORFEIT           | 3     |
+| ---               |       |
+| FORFEIT GOALS     | 3     |
 |                   | = 43  |
 
 

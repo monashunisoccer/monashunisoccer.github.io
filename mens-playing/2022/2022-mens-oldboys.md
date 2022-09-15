@@ -78,32 +78,32 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Appearances
 
-* Appearances includes all games where player participated,
+* Appearances include all games where player participated,
    but not if they were only listed on the team sheet and did not play
 
-| PLAYER                | APPEARANCES | TOTAL |
-|-----------------------|-------------|-------|
-| Greg Costaras         |             |       |
-| Andrew Patterson      |             |       |
-| Nick Mallios          |             |       |
-| Andrew Mariadason     |             |       |
-| Eddie Tasker          |             |       |
-| Sean Barret           |             |       |
-| Luke Davis            |             |       |
-| Harry Dickinson       |             |       |
-| Liam Johnson          |             |       |
-| Moses Kenyi           |             |       |
-| Kon Kotzapavlidis     |             |       |
-| Trevor Lim            |             |       |
-| Ned Rocke             |             |       |
-| Miles Rodriquez       |             |       |
-| Ariel Salmon          |             |       |
-| Robbie Serrano        |             |       |
-| Julio Serrano         |             |       |
-| David Thompson        |             |       |
-| Jay Chew              |             |       |
-| Nathan Bortolin       |             |       |
-| Rodrigo Becerra       |             |       |
-| Peter Panagiotopoulos |             |       |
-| Hector Nunez          |             |       |
-|                       |             |       |
+| PLAYER                | APPEARANCES | 
+|-----------------------|-------------|
+| Greg Costaras         |             |       
+| Andrew Patterson      |             |       
+| Nick Mallios          |             |       
+| Andrew Mariadason     |             |       
+| Eddie Tasker          |             |       
+| Sean Barret           |             |       
+| Luke Davis            |             |       
+| Harry Dickinson       |             |       
+| Liam Johnson          |             |       
+| Moses Kenyi           |             |       
+| Kon Kotzapavlidis     |             |       
+| Trevor Lim            |             |       
+| Ned Rocke             |             |       
+| Miles Rodriquez       |             |       
+| Ariel Salmon          |             |       
+| Robbie Serrano        |             |       
+| Julio Serrano         |             |       
+| David Thompson        |             |       
+| Jay Chew              |             |       
+| Nathan Bortolin       |             |       
+| Rodrigo Becerra       |             |       
+| Peter Panagiotopoulos |             |       
+| Hector Nunez          |             |       
+|                       |             |       
