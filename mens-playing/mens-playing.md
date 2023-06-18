@@ -19,7 +19,9 @@ has_toc: false
 
 A summary of history of results for all mens teams at Monash University Soccer Club can be found below.
 
-Some of this data was sourced from the [OzFootball](http://www.ozfootball.net/ark/States/VIC.html) web site - a great source of historical data on past soccer seasons in Victoria, as well as other states. Some other data is sourced from the annual Ball and Banter magazine.
+Some of this data was sourced from the [OzFootball](http://www.ozfootball.net/ark/States/VIC.html) web
+site - a great source of historical data on past soccer seasons in Victoria, as well as other states.
+Some other data is sourced from the annual Ball and Banter magazine.
 
 Legend **C **- Champions, **RU** - Runners-up, **P** - Promoted, **R** - Relegated
 
@@ -227,7 +229,9 @@ Legend **C **- Champions, **RU** - Runners-up, **P** - Promoted, **R** -
 
 |  **Season**  |   **League**    | **Pos*** | **P** | **W** | **D** | **L** | **F** | **A** | GD  | **Points** |
 |:------------:|:---------------:|:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|:----------:|
-|     2021     | Metro Div 6 SE  |         |       |      |       |      |     |     |  |          |
+|     2023     | Metro Div 4 SE  |          |       |       |       |       |       |       |     |            |
+|     2022     | Metro Div 3 SE  |          |       |       |       |       |       |       |     |            |
+|     2021     | Metro Div 6 SE  |          |       |       |       |       |       |       |     |            |
 |     2013     | Metro Div 2 SE  |    6     |  18   |   6   |   3   |   9   |  27   |  39   | -12 |     21     |
 | **2012 [C]** | Thirds Div 4 SE |    1     |  18   |  14   |   2   |   2   |  72   |  33   | 39  |     44     |
 

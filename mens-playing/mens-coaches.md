@@ -4,9 +4,11 @@ title: Coaching Staff
 parent: Mens (Playing)
 ---
 
-| Season | Seniors     | Reserves        | Thirds          | Colts (U-21/U-23) | Brumbies                       | Stallions         | Old Boys     |
-|--------|-------------|-----------------|-----------------|-------------------|--------------------------------|-------------------|--------------|
-| 2022   | Brian Vasey | Rhett Nothdurft | Sebastian Fürer | Peter Mastorakis  | Daniel Fornarino, Richard Bain | Michael Pogrebnoy | Nick Mallios |
+
+| Season | Seniors     | Reserves        | Colts (U-21/U-23) | Thirds          | Brumbies (U-21/U-23 #2)        | Stallions         | Old Boys        |
+|--------|-------------|-----------------|-------------------|-----------------|--------------------------------|-------------------|-----------------|
+| 2023   |             |                 |                   | Sebastian Fürer |                                | Michael Pogrebnoy | Miles Rodriquez |
+| 2022   | Brian Vasey | Rhett Nothdurft | Peter Mastorakis  | Sebastian Fürer | Daniel Fornarino, Richard Bain | Michael Pogrebnoy | Nick Mallios    |
 
 | Season                                    | Seniors     | Reserves                                   | Thirds          | Colts (U-21/U-23) | Stallions         | Old Boys     |
 |-------------------------------------------|-------------|--------------------------------------------|-----------------|-------------------|-------------------|--------------|
