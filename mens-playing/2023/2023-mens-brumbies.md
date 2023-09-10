@@ -17,26 +17,26 @@ _front_:
 
 #### Results
 
-| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE) | SCORERS           | OTHER                   |
-|----|--------|:-:|:-:|---------------------------|-------------------|-------------------|-------------------------|
-| 1  | 21 Apr | H | W | **Monash University (3)** | Middle Park (0)   | Bloggs (2), Jones | Smith (CS), Bloggs (RC) |
-| 2  |        |   |   |                           |                   |                   |                         |
-| 3  |        |   |   |                           |                   |                   |                         |
-| 4  |        |   |   |                           |                   |                   |                         |
-| 5  |        |   |   |                           |                   |                   |                         |
-| 6  |        |   |   |                           |                   |                   |                         |
-| 7  |        |   |   |                           |                   |                   |                         |
-| 8  |        |   |   |                           |                   |                   |                         |
-| 9  |        |   |   |                           |                   |                   |                         |
-| 10 |        |   |   |                           |                   |                   |                         |
-| 11 |        |   |   |                           |                   |                   |                         |
-| 12 |        |   |   |                           |                   |                   |                         |
-| 13 |        |   |   |                           |                   |                   |                         |
-| 14 |        |   |   |                           |                   |                   |                         |
-| 15 |        |   |   |                           |                   |                   |                         |
-| 16 |        |   |   |                           |                   |                   |                         |
-| 17 |        |   |   |                           |                   |                   |                         |
-| 18 |        |   |   |                           |                   |                   |                         |
+| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE) | SCORERS                 | OTHER                   |
+|----|--------|:-:|:-:|---------------------------|-------------------|-------------------------|-------------------------|
+| 1  | 21 Apr | H | W | **Monash University (3)** | Middle Park (0)   | Bloggs 2 (1 pen), Jones | Smith (CS), Bloggs (RC) |
+| 2  |        |   |   |                           |                   |                         |                         |
+| 3  |        |   |   |                           |                   |                         |                         |
+| 4  |        |   |   |                           |                   |                         |                         |
+| 5  |        |   |   |                           |                   |                         |                         |
+| 6  |        |   |   |                           |                   |                         |                         |
+| 7  |        |   |   |                           |                   |                         |                         |
+| 8  |        |   |   |                           |                   |                         |                         |
+| 9  |        |   |   |                           |                   |                         |                         |
+| 10 |        |   |   |                           |                   |                         |                         |
+| 11 |        |   |   |                           |                   |                         |                         |
+| 12 |        |   |   |                           |                   |                         |                         |
+| 13 |        |   |   |                           |                   |                         |                         |
+| 14 |        |   |   |                           |                   |                         |                         |
+| 15 |        |   |   |                           |                   |                         |                         |
+| 16 |        |   |   |                           |                   |                         |                         |
+| 17 |        |   |   |                           |                   |                         |                         |
+| 18 |        |   |   |                           |                   |                         |                         |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -76,7 +76,7 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | P C Wong           | 2           |       |    |    |
 | A Azab             | 1           |       |    |    |
 | A Painter          | 1           |       |    |    |
-| C Spinks           | 1           |       |    |    |
+| Connor Spinks      | 1           |       |    |    |
 | K Widodo           | 1           |       |    |    |
 | M Mitrevski        | 1           |       |    |    |
 | Ned Rocke          | 1           | 2     |    |    |
