@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5 Old Boys
+title: 6 Old Boys
 parent: 2023
 grand_parent: Mens (Playing)
 ---
