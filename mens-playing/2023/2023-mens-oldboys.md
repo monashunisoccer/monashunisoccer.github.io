@@ -52,7 +52,7 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | Peter Panagiotopoulos |     17      |       |    |    |              |
 | Andrew Mariadason     |     16      |   8   |    |    |              |
 | Greg Costaras         |     16      |   3   |    |    |              |
-| Harrison Dickinson    |     16      |       |    |    |      3       |
+| Harrison Dickinson    |     16      |       |    |    |      5       |
 | John Jhoomun          |     16      |       | 1  |    |              |
 | Luke Davis            |     16      |       |    |    |              |
 | Martin Blackledge     |     15      |       |    |    |              |
@@ -61,7 +61,7 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | Hector Nunez          |     12      |   1   |    |    |              |
 | Roberto Serrano       |     11      |   3   |    |    |              |
 | Ned Rocke             |     10      |   3   |    |    |              |
-| Rodrigo Becerra       |      7      |       |    |    |              |
+| Rodrigo Becerra       |      7      |       |    |    |             |
 | Michael Kral          |      6      |       |    |    |              |
 | Ricardo Doddo         |      6      |   2   |    |    |              |
 | Joel Fernandez        |      3      |   1   |    |    |              |
