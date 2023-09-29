@@ -6,7 +6,7 @@ grand_parent: Club
 nav_order: "2015b"
 ---
 
-![patto photo](patto.png)
+<img style="float: right;" src="patto.png">
 
 #### Born
  
