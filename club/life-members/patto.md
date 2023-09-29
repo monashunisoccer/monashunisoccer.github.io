@@ -6,6 +6,8 @@ grand_parent: Club
 nav_order: "2015b"
 ---
 
+![patto photo](patto.png)
+
 #### Born
  
 Sydney, 1974
@@ -45,5 +47,3 @@ Sydney, 1974
 
 * Unigames - Silver Medal (2000)
 * Unigames Womens Coach - Silver Medal (2014)
-
-![](patto.png)

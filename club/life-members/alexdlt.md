@@ -6,6 +6,8 @@ grand_parent: Club
 nav_order: "2009b"
 ---
 
+![alex photo](alexdlt.jpg)
+
 #### Born
 
 
