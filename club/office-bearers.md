@@ -8,6 +8,7 @@ Below is a reverse chronological listing of club's office holders.
 
 | Season | President                                        | Vice-President(s)                         | Secretary                                                  | Treasurer                                |
 |--------|--------------------------------------------------|-------------------------------------------|------------------------------------------------------------|------------------------------------------|
+| 2023   | Ned Rocke                                        | Maddie Pick (W)<br> Sam Wait (M)          | Nick Verrios                                               | Oliver Cooke                             |
 | 2022   | Ned Rocke                                        |                                           | Chris Bounds                                               | Ken Kanagalinggam and Oliver Cooke       |
 | 2021   | Ned Rocke                                        |                                           |                                                            | Ken Kanagalinggam                        |
 | 2020   | Ned Rocke                                        | Nathan Ganeson (M)                        | Arnie Clever<br> Jill Pettigrew                            | Ken Kanagalinggam                        |

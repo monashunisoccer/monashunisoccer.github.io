@@ -6,7 +6,8 @@ has_children: true
 ---
 
 Below is a reverse chronological listing of the "best clubman/club person" award winners, 
-as well any Monash University SC life member inductions of that year (see also Life Members page).
+as well any Monash University Soccer Club
+life member inductions of that year (see also Life Members page).
 
 Please note that the data for some seasons is incomplete, and the club
 strongly encourages anyone with any additional information to contact the club.
@@ -21,7 +22,8 @@ for long time club stalwart Tim Smurthwaite.
 
 | Season                           | Tim Smurthwaite Club Person of the Year | Life Members Inducted                                |
 |----------------------------------|-----------------------------------------|------------------------------------------------------|
-| 2022                             |                                         |                                                      |
+| 2023                             | TBA                                     | TBA                                                  |
+| 2022                             | Chris Bounds                            | Steph Wood<br>Morgan Kirk-Eaton                      |
 | 2020/2021<br> (COVID-19 seasons) | Ned Rocke                               | -                                                    |
 | 2019                             | Amelia Pearson                          | Richard Huysmans                                     |
 | 2018                             | Ken Kanagalingham                       | Jessica Gibson<br>Ken Kanagalingham                  |
@@ -37,7 +39,7 @@ for long time club stalwart Tim Smurthwaite.
 | 2008                             | Richard Huysmans                        | -                                                    |
 | 2007                             | Simon Serebryanikov                     | -                                                    |
 | 2006                             | Simon Serebryanikov                     | -                                                    |
-| 2005                             | Mel Permezel and Peter Panagiotopoulos  | -                                                    |
+| 2005                             | Mel Permezel<br>Peter Panagiotopoulos   | -                                                    |
 
 | Season   | Eric Chan Best Clubman Award    | Life Members Inducted         |
 |----------|---------------------------------|-------------------------------|
