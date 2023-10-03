@@ -25,19 +25,19 @@ _absent_: Rohan Mariadason, Dino Vosjan, Tristan White, Will Rice, Ben McAnulty,
 | 2  | 30 Apr | A | W | Old Scotch (1)             | **Monash University (2)** | Smart 2                                                      | Painter (OG) |
 | 3  | 7 May  | H | W | **Monash University (3)**  | South Yarra (2)           | Vosjan, Lay, OG                                              |              |
 | 4  | 15 May | A | L | Malvern City (1)           | **Monash University (0)** |                                                              |              |
-| 5  | 21 May | A | W | Endeavour (0)              | **Monash University (1)** | Spinks (P)                                                   | ?? (CS)      |
+| 5  | 21 May | A | W | Endeavour (0)              | **Monash University (1)** | Spinks (P)                                                   | McAuley (CS) |
 | 6  | 28 May | H | L | **Monash University (1)**  | Albert Park (2)           | Smart                                                        |              |
 | 7  | 4 Jun  | A | W | Cleeland United (4)        | **Monash University (6)** | Smart 2, Wolfhagen, Spinks, McAnulty, Strong                 |              |
 | 8  | 11 Jun | A | L | South Yarra (3)            | **Monash University (2)** | Wolfhagen, White                                             |              |
 | 9  | 18 Jun | H | L | **Monash University (1)**  | Ashburton (2)             | Smart                                                        |              |
-| 10 | 25 Jun | A | W | Old Scotch (0)             | **Monash University (3)** | Smart 2, Strong                                              | ?? (CS)      |
+| 10 | 25 Jun | A | W | Old Scotch (0)             | **Monash University (3)** | Smart 2, Strong                                              | McAuley (CS) |
 | 11 | 9 Jul  | H | L | **Monash University (1)**  | Malvern City (2)          | Wolfhagen                                                    |              |
 | 12 | 16 Jul | H | D | **Monash University (3)**  | Endeavour (3)             | Wolfhagen 2, McAnulty                                        |              |
-| 13 | 23 Jul | A | L | Albert Park (6)            | **Monash University (2)** | Smart, Spinks                                                |              |
+| 13 | 23 Jul | A | L | Albert Park (6)            | **Monash University (2)** | Smart, Spinks (P)                                            |              |
 | 14 | 30 Jul | H | L | **Monash University (1)**  | Cleeland (2)              | Mariadason                                                   |              |
 | 15 | 6 Aug  | H | D | **Monash University (1)**  | South Yarra (1)           | Smart                                                        |              |
-| 16 | 13 Aug | A | W | Ashburton (3)              | **Monash University (4)** | McAnulty 2, Smart, Baena                                     |              |
-| 17 | 20 Aug | H | W | **Monash University (13)** | Old Scotch (0)            | McAnulty 4, Strong 3, O'Neill 2, Smart 2, M.Mitrevski, Scott | ?? (CS)      |
+| 16 | 13 Aug | A | W | Ashburton (3)              | **Monash University (4)** | McAnulty 2, Smart (P), Baena                                 |              |
+| 17 | 20 Aug | H | W | **Monash University (13)** | Old Scotch (0)            | McAnulty 4, Strong 3, O'Neill 2, Smart 2, M.Mitrevski, Scott | McAuley (CS) |
 | 18 | 27 Aug | A | L | Malvern City (5)           | **Monash University (0)** |                                                              |              |
 
 
@@ -52,7 +52,7 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | Player Name          |  M   | GOALS  | YC | RC | CLEAN SHEETS | PLAYERS PLAYER  |
 |:---------------------|:----:|:------:|:--:|:--:|:------------:|:---------------:|
 | Austin Scott         |  18  |   1    |    |    |              |       51        |
-| Callum Mcauley       |  18  |        |    |    |              |       100       |
+| Callum Mcauley       |  18  |        |    |    |      3       |       100       |
 | Adam Painter         |  17  |        |    |    |              |       37        |
 | Vinny Wong           |  16  |        |    |    |              |       88        |
 | Toby Heislers        |  15  |        |    |    |              |  188 (winner)   |

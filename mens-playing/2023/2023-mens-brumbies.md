@@ -46,45 +46,45 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 * Appearances include all games where player participated, but not if they were only listed on the team sheet and did not play
 
-| PLAYER                | APPEARANCES | GOALS | YC | RC | CLEAN SHEETS |
-|:----------------------|:-----------:|:-----:|:--:|:--:|:------------:|
-| Miguel Lourenco       |     18      |  13   |    |    |              |
-| Daniel Hua            |     17      |       |    |    |              |
-| Harvey Lay            |     17      |   1   |    |    |              |
-| Ming Hei (Kyle) Chan  |     17      |   1   |    |    |              |
-| Mirza Yusuf Beg       |     16      |   1   | 1  |    |              |
-| Trung Le              |     16      |   2   | 1  | 1  |              |
-| Paxton Le             |     15      |       |    |    |              |
-| Sasha Stijacic        |     15      |       | 1  |    |              |
-| Jeremy Bassingthwaite |     14      |       |    |    |              |
-| Jose Leonvendagar     |     14      |   1   |    |    |              |
-| Nathan Bortolin       |     14      |   5   |    |    |              |
-| Oskar Bartlinski      |     13      |       |    |    |              |
-| Jared Ng              |     13      |   1   |    |    |              |
-| Joel Rotar            |     12      |   2   |    |    |              |
-| Oliver Cooke          |     11      |       |    |    |              |
-| Damien Hall           |      9      |   1   | 1  |    |              |
-| Josh Baker            |      6      |       |    |    |              |
-| Michael Nguyen        |      5      |   1   | 1  |    |              |
-| Tien Nhat Anh Do      |      5      |       |    |    |              |
-| Sina Fasahat          |      3      |   1   |    |    |              |
-| Callum Mcauley        |      2      |       |    |    |              |
-| Dijon Hoogeveen       |      2      |       |    |    |              |
-| Greg Costaras         |      2      |       |    |    |              |
-| Joren Admiraal        |      2      |       |    |    |              |
-| Niko Verrios          |      2      |       |    |    |              |
-| Pou Chon Wong         |      2      |       |    |    |              |
-| Abdelrahman Azab      |      1      |       |    |    |              |
-| Adam Painter          |      1      |       |    |    |              |
-| Connor Spinks         |      1      |       |    |    |              |
-| Kavindra Widodo       |      1      |       |    |    |              |
-| Milan Mitrevski       |      1      |       |    |    |              |
-| Ned Rocke             |      1      |   2   |    |    |              |
-| Ryan Tan Yi           |      1      |       |    |    |              |
-| S Evans               |      1      |       |    |    |              |
-| Tom Smart             |      1      |   1   |    |    |              |
-| OG                    |   ----      |   0   |    |    |              |
-|                       |             | = 33  |    |    |              |
+| PLAYER                | APPEARANCES | GOALS | YC | RC | CLEAN SHEETS | PLAYERS PLAYER |
+|:----------------------|:-----------:|:-----:|:--:|:--:|:------------:|:--------------:|
+| Miguel Lourenco       |     18      |  13   |    |    |              |       65       |
+| Daniel Hua            |     17      |       |    |    |              |       33       |
+| Harvey Lay            |     17      |   1   |    |    |              | 79 (runner-up) |
+| Ming Hei (Kyle) Chan  |     17      |   1   |    |    |              |       68       |
+| Mirza Yusuf Beg       |     16      |   1   | 1  |    |              |       45       |
+| Trung Le              |     16      |   2   | 1  | 1  |              |       14       |
+| Paxton Le             |     15      |       |    |    |              |       10       |
+| Sasha Stijacic        |     15      |       | 1  |    |              |       53       |
+| Jeremy Bassingthwaite |     14      |       |    |    |              |       10       |
+| Jose Leonvendagar     |     14      |   1   |    |    |              |                |
+| Nathan Bortolin       |     14      |   5   |    |    |              |  150 (winner)  |
+| Oskar Bartlinski      |     13      |       |    |    |              |       14       |
+| Jared Ng              |     13      |   1   |    |    |              |       72       |
+| Joel Rotar            |     12      |   2   |    |    |              |       67       |
+| Oliver Cooke          |     11      |       |    |    |              |       36       |
+| Damien Hall           |      9      |   1   | 1  |    |              |       10       |
+| Josh Baker            |      6      |       |    |    |              |       9        |
+| Michael Nguyen        |      5      |   1   | 1  |    |              |       32       |
+| Tien Nhat Anh Do      |      5      |       |    |    |              |                |
+| Sina Fasahat          |      3      |   1   |    |    |              |       1        |
+| Callum Mcauley        |      2      |       |    |    |              |       1        |
+| Dijon Hoogeveen       |      2      |       |    |    |              |       0        |
+| Greg Costaras         |      2      |       |    |    |              |       8        |
+| Joren Admiraal        |      2      |       |    |    |              |       0        |
+| Niko Verrios          |      2      |       |    |    |              |       3        |
+| Pou Chon Wong         |      2      |       |    |    |              |       0        |
+| Abdelrahman Azab      |      1      |       |    |    |              |       0        |
+| Adam Painter          |      1      |       |    |    |              |       9        |
+| Connor Spinks         |      1      |       |    |    |              |       0        |
+| Kavindra Widodo       |      1      |       |    |    |              |       0        |
+| Milan Mitrevski       |      1      |       |    |    |              |       0        |
+| Ned Rocke             |      1      |   2   |    |    |              |       18       |
+| Ryan Tan Yi           |      1      |       |    |    |              |       1        |
+| Sam Evans             |      1      |       |    |    |              |       3        |
+| Tom Smart             |      1      |   1   |    |    |              |       0        |
+| OG                    |   ----      |   0   |    |    |              |                |
+|                       |             | = 33  |    |    |              |                |
 
 ------------------------
 
