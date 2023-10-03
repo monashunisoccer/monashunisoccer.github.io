@@ -5,7 +5,7 @@ parent: 2023
 grand_parent: Mens (Playing)
 ---
 
-### 2023 Mens Reserves ([State League 3 South-East Reserves](https://websites.mygameday.app/comp_info.cgi?c=0-8746-0-600684-0&a=LADDER))
+### 2023 Mens Reserves (State League 3 South East Reserves)
 
 ![2023 Mens Reserves](https://photos.smugmug.com/2023/2023-Team-Photos/i-j2HNZP6/0/f491564d/XL/DSCF1305-XL.jpg)
 

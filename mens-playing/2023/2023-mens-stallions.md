@@ -10,6 +10,7 @@ grand_parent: Mens (Playing)
 ![2023 Stallions team photo](https://photos.smugmug.com/2023/2023-Cropped-Edited/i-57kKJnw/1/88b93106/XL/Copy%20of%20IMG_6603-XL.jpg)
 
 _back_: Max Diegelmann, Alex Palermo, Denholm Pickering, Aldo Assirvaden, Chris Kougi, Peter Kougi, Chris Blake, James Bernard, Ahmed Hakim
+
 _front_: Luke Cardamone, Victor Cruz de Faria, Tom Flanagan, Michael Pogrebnoy, Yao Zhang, Aidan Tang, Chris Wilde 
 
 ------------------------

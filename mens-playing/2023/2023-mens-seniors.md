@@ -5,7 +5,7 @@ parent: 2023
 grand_parent: Mens (Playing)
 ---
 
-### 2023 Mens Seniors ([State League 3 South-East Reserves](https://websites.mygameday.app/comp_info.cgi?c=0-8746-0-600684-0&a=LADDER))
+### 2023 Mens Seniors (State League 3 South-East)
 
 ![2023 Mens Seniors team photo](https://photos.smugmug.com/2023/2023-Team-Photos/i-ZBZKLJQ/0/1316f398/XL/DSCF1308%202-XL.jpg)
 

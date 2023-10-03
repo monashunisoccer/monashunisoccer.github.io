@@ -5,7 +5,7 @@ parent: 2022
 grand_parent: Mens (Playing)
 ---
 
-### 2022 Mens Reserves ([State League 3 South-East Reserves](https://websites.mygameday.app/comp_info.cgi?c=0-8746-0-600684-0&a=LADDER))
+### 2022 Mens Reserves (State League 3 South East Reserves)
 
 ![2022 Mens Reserves](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-MBLzxV4/0/80a06ecf/XL/DSCF1277-XL.jpg)
 
