@@ -9,34 +9,36 @@ grand_parent: Mens (Playing)
 
 ![2023 Thirds team photo](https://photos.smugmug.com/2023/2023-Cropped-Edited/i-XKFSxPK/1/76d6a278/XL/BE3615A3-530F-4FA5-9A44-5E1C8AC76671-XL.jpg)
 
-_back_: 
+_back_: G Kaltekis, L S S G Singh, N George, M Filip, J Admiraal, M Coleman, L Hyland, S Govindaraj, S Furer (Coach)
 
-_front_: 
+_front_: A Nasios, K C Wong, N Chen, M Mitrevski, F Milone, S Fasahat, D Hoogeveen, L Bonnaud
+
+_absent_: C Bounds, D Welberry, S Ghiasi
 
 ------------------------
 
 #### Results
 
-| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE) | SCORERS           | OTHER                   |
-|----|--------|:-:|:-:|---------------------------|-------------------|-------------------|-------------------------|
-| 1  | 21 Apr | H | W | **Monash University (3)** | Middle Park (0)   | Bloggs (2), Jones | Smith (CS), Bloggs (RC) |
-| 2  |        |   |   |                           |                   |                   |                         |
-| 3  |        |   |   |                           |                   |                   |                         |
-| 4  |        |   |   |                           |                   |                   |                         |
-| 5  |        |   |   |                           |                   |                   |                         |
-| 6  |        |   |   |                           |                   |                   |                         |
-| 7  |        |   |   |                           |                   |                   |                         |
-| 8  |        |   |   |                           |                   |                   |                         |
-| 9  |        |   |   |                           |                   |                   |                         |
-| 10 |        |   |   |                           |                   |                   |                         |
-| 11 |        |   |   |                           |                   |                   |                         |
-| 12 |        |   |   |                           |                   |                   |                         |
-| 13 |        |   |   |                           |                   |                   |                         |
-| 14 |        |   |   |                           |                   |                   |                         |
-| 15 |        |   |   |                           |                   |                   |                         |
-| 16 |        |   |   |                           |                   |                   |                         |
-| 17 |        |   |   |                           |                   |                   |                         |
-| 18 |        |   |   |                           |                   |                   |                         |
+| R  | DATE   |   |   | HOME TEAM (SCORE)                           | AWAY TEAM (SCORE)                           | SCORERS                                            | OTHER           |
+|----|--------|:-:|:-:|---------------------------------------------|---------------------------------------------|----------------------------------------------------|-----------------|
+| 1  | 23 Apr | A | L | Central Park Soccer Club (3)                | **Monash University SC - Men's Thirds (0)** |                                                    |                 |
+| 2  | 30 Apr | A | W | North Caulfield Senior FC (0)               | **Monash University SC - Men's Thirds (1)** | Wong.K.C                                           |                 |
+| 3  | 07 May | H | W | **Monash University SC - Men's Thirds (1)** | Hampton East Brighton Football Club (0)     | Wong.K.C                                           | George (YC)     |
+| 4  | 14 May | H | W | **Monash University SC - Men's Thirds (5)** | Monash University SC - Men's Brumbies (1)   | Bounds, Admiraal, Nasios, Coleman (2)              |                 |
+| 5  | 21 May | A | L | East Bentleigh SC Metro 3 (3)               | **Monash University SC - Men's Thirds (2)** | Coleman, Guszta                                    |                 |
+| 6  | 28 May | H | W | **Monash University SC - Men's Thirds (3)** | Old Scotch SC (1)                           | Coleman, Guszta, OG                                | Hoogeveeen (YC) |
+| 7  | 02 Jun | A | D | Watsonia Heights FC (1)                     | **Monash University SC - Men's Thirds (1)** | Milone                                             |                 |
+| 8  | 11 Jun | H | W | **Monash University SC - Men's Thirds (2)** | Wonga Wizards FC (1)                        | Admiraal, Milone                                   |                 |
+| 9  | 18 Jun | H | L | **Monash University SC - Men's Thirds (0)** | St Kilda Soccer Club Metro (9)              |                                                    | Milone (RC)     |
+| 10 | 25 Jun | H | W | **Monash University SC - Men's Thirds (3)** | Central Park Soccer Club (1)                | Coleman, Fasahat, Ghiasi                           |                 |
+| 11 | 09 Jul | H | W | **Monash University SC - Men's Thirds (6)** | North Caulfield Senior FC (0)               | White, Coleman, Bush-Belton, Laurenco, Beg, Ghiasi |                 |
+| 12 | 16 Jul | A | L | Hampton East Brighton Football Club (1)     | **Monash University SC - Men's Thirds (0)** |                                                    | Laurenco (YC)   |
+| 13 | 21 Jul | A | L | Monash University SC - Men's Brumbies (2)   | **Monash University SC - Men's Thirds (0)** |                                                    |                 |
+| 14 | 30 Jul | H | W | **Monash University SC - Men's Thirds (4)** | East Bentleigh SC Metro 3 (1)               | Coleman (3), Guszta                                |                 |
+| 15 | 06 Aug | A | W | Old Scotch SC (0)                           | **Monash University SC - Men's Thirds (1)** | Laurenco                                           |                 |
+| 16 | 20 Aug | H | W | **Monash University SC - Men's Thirds (3)** | Watsonia Heights FC (2)                     | Chen, Milone, Wong.K.C                             |                 |
+| 17 | 25 Aug | A | D | Wonga Wizards FC (2)                        | **Monash University SC - Men's Thirds (2)** | Coleman, Mitrevski.M                               |                 |
+| 18 | 03 Sep | A | L | St Kilda Soccer Club Metro (3)              | **Monash University SC - Men's Thirds (1)** | Milone                                             |                 |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -46,44 +48,45 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 * Appearances include all games where player participated, but not if they were only listed on the team sheet and did not play
 
-| Player Name       |  M   |   GOALS   |  YC  |  RC  |
-|:------------------|:----:|:---------:|:----:|:----:|
-| Sina Fasahat      |  18  |     1     |      |      |
-| G Kaltekis        |  17  |           |      |      |
-| D Hoogeveen       |  16  |           |  1   |      |
-| M Mitrevski       |  16  |     1     |      |      |
-| C Bounds          |  15  |     1     |      |      |
-| M Coleman         |  15  |    10     |      |      |
-| N George          |  15  |           |  1   |      |
-| J Admiraal        |  14  |     2     |      |      |
-| F Milone          |  13  |     3     |      |      |
-| K C Wong          |  13  |     3     |      |      |
-| L Hyland          |  13  |           |      |      |
-| N Chen            |  13  |     1     |      |      |
-| A Nasios          |  12  |     1     |      |      |
-| B Guszta          |  12  |     3     |      |      |
-| S Ghiasi          |  10  |     2     |      |      |
-| D Welberry        |  9   |           |      |      |
-| M Filip           |  7   |           |      |      |
-| S Govindaraj      |  6   |           |      |      |
-| L S S G Singh     |  5   |           |      |      |
-| M Lourenco        |  4   |     2     |  1   |      |
-| A Mitrevski       |  3   |           |      |      |
-| L Bonnaud         |  3   |           |      |      |
-| Rory Bush-Belton  |  3   |     1     |      |      |
-| M Y Beg           |  2   |     1     |      |      |
-| P C Wong          |  2   |           |      |      |
-| A Scott           |  1   |           |      |      |
-| Joel Rotar        |  1   |           |      |      |
-| J Leonvendagar    |  1   |           |      |      |
-| Miles Rodriquez   |  1   |           |      |      |
-| Oliver Cooke      |  1   |           |      |      |
-| P Le              |  1   |           |      |      |
-| Roberto Serrano   |  1   |           |      |      |
-| T Heislers        |  1   |           |      |      |
-| Tom Flanagan      |  1   |           |      |      |
-| T White           |  1   |     1     |      |      |
-|                   |      |  = total  |      |      |
+| Player Name                         | M  | GOALS | YC | RC |
+|:------------------------------------|:--:|:-----:|:--:|:--:|
+| Sina Fasahat                        | 18 |   1   |    |    |
+| George Kaltekis                     | 17 |       |    |    |
+| Dijon Hoogeveen                     | 16 |       | 1  |    |
+| Milan Mitrevski                     | 16 |   1   |    |    |
+| Chris Bounds                        | 15 |   1   |    |    |
+| Mitchell Coleman                    | 15 |  10   |    |    |
+| Neel George                         | 15 |       | 1  |    |
+| Joren Admiraal                      | 14 |   2   |    |    |
+| Fabricio Milone                     | 13 |   4   |    | 1  |
+| Kwong Ching (Joe) Wong              | 13 |   3   |    |    |
+| Lochey Hyland                       | 13 |       |    |    |
+| Nuo Chen                            | 13 |   1   |    |    |
+| Andreas Nasios                      | 12 |   1   |    |    |
+| Bartosz Guszta                      | 12 |   3   |    |    |
+| Sina Ghiasi                         | 10 |   2   |    |    |
+| Darby Welberry                      | 9  |       |    |    |
+| Michael Filip                       | 7  |       |    |    |
+| Shyam Govindaraj                    | 6  |       |    |    |
+| Livraaj Singh So Gurcharanjit Singh | 5  |       |    |    |
+| Miguel Lourenco                     | 4  |   2   | 1  |    |
+| Ace Mitrevski                       | 3  |       |    |    |
+| Laurent Bonnaud                     | 3  |       |    |    |
+| Rory Bush-Belton                    | 3  |   1   |    |    |
+| Mirza Yusuf Beg                     | 2  |   1   |    |    |
+| Pou Chon (Vincent) Wong             | 2  |       |    |    |
+| Austin Scott                        | 1  |       |    |    |
+| Joel Rotar                          | 1  |       |    |    |
+| Jose Leonvendagar                   | 1  |       |    |    |
+| Miles Rodriquez                     | 1  |       |    |    |
+| Oliver Cooke                        | 1  |       |    |    |
+| Paxton Le                           | 1  |       |    |    |
+| Roberto Serrano                     | 1  |       |    |    |
+| Toby Heislers                       | 1  |       |    |    |
+| Tom Flanagan                        | 1  |       |    |    |
+| Tristan White                       | 1  |   1   |    |    |
+| OG                                  |    |   1   |    |    |
+|                                     |    | = 35  |    |    |
 
 ------------------------
 

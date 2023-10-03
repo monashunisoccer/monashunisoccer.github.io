@@ -17,26 +17,26 @@ _front_: Andrew Patterson, John Jhoomun, Peter Panagiotopoulos, Nick Mallios, Ju
 
 #### Results
 
-| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                                 | OTHER                          |
-|----|--------|:-:|:-:|---------------------------|---------------------------|-----------------------------------------|--------------------------------|
-| 1  | 21 Apr | H | W | **Monash University (2)** | Middle Park (0)           | Rocke 2, J.Serrano                      | Dickinson (CS)                 |
-| 2  | 28 Apr | H | W | **Monash University (3)** | Skye (2)                  | Gould 2, Rocke                          |                                |
-| 3  | 7 May  | A | W | Baxter (1)                | **Monash University (2)** | Doddo 2                                 |                                |
-| 4  | 12 May | H | L | **Monash University (0)** | Beaumaris (1)             |                                         |                                |
-| 5  | 19 May | H | L | **Monash University (0)** | Ashburton (3)             |                                         |                                |
-| 6  | 28 May | A | L | Swinburne (5)             | **Monash University (0)** |                                         |                                |
-| 7  | 2 Jun  | H | D | **Monash University (0)** | Monash Gryphons (0)       |                                         | Dickinson (CS)                 |
-| 8  | 9 Jun  | H | W | **Monash University (2)** | Brighton (0)              | Mariadason, J.Serrano                   | Dickinson (CS)                 |
-| 9  | 16 Jun | H | D | **Monash University (1)** | Old Melburnians (1)       | Mariadason                              |                                |
-| 10 | 25 Jun | A | D | Middle Park (1)           | **Monash University (1)** | Mariadason                              |                                |
-| 11 | 9 Jul  | A | L | Skye (5)                  | **Monash University (1)** | Mariadason                              |                                |
-| 12 | 14 Jul | H | W | **Monash University (4)** | Baxter (0)                | Mariadason 2, Fasahat 2                 | Dickinson (CS)                 |
-| 13 | 23 Jul | A | W | Beaumaris (0)             | **Monash University (2)** | Costaras, Patterson                     | Dickinson (CS), Dickinson (PS) |
-| 14 | 30 Jul | A | W | Ashburton (1)             | **Monash University (5)** | Fernandez, Nunez, Costaras, R.Serrano 2 |                                |
-| 15 | 4 Aug  | H | D | **Monash University (1)** | Swinburne (1)             | R.Serrano                               |                                |
-| 16 | 13 Aug | A | W | Monash Gryphons (2)       | **Monash University (3)** | Patterson, Costaras, J.Serrano          |                                |
-| 17 | 27 Aug | A | W | Brighton (2)              | **Monash University (3)** | Patterson, Mariadason 2                 |                                |
-| 18 | 3 Sep  | A | L | Old Melburnians (3)       | **Monash University (0)** |                                         | Dickinson (PS)                 |
+| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                                 | OTHER               |
+|----|--------|:-:|:-:|---------------------------|---------------------------|-----------------------------------------|---------------------|
+| 1  | 21 Apr | H | W | **Monash University (2)** | Middle Park (0)           | Rocke 2, J.Serrano                      | Dickinson (CS)      |
+| 2  | 28 Apr | H | W | **Monash University (3)** | Skye (2)                  | Gould 2, Rocke                          |                     |
+| 3  | 7 May  | A | W | Baxter (1)                | **Monash University (2)** | Doddo 2                                 |                     |
+| 4  | 12 May | H | L | **Monash University (0)** | Beaumaris (1)             |                                         |                     |
+| 5  | 19 May | H | L | **Monash University (0)** | Ashburton (3)             |                                         |                     |
+| 6  | 28 May | A | L | Swinburne (5)             | **Monash University (0)** |                                         |                     |
+| 7  | 2 Jun  | H | D | **Monash University (0)** | Monash Gryphons (0)       |                                         | Dickinson (CS)      |
+| 8  | 9 Jun  | H | W | **Monash University (2)** | Brighton (0)              | Mariadason, J.Serrano                   | Dickinson (CS)      |
+| 9  | 16 Jun | H | D | **Monash University (1)** | Old Melburnians (1)       | Mariadason                              |                     |
+| 10 | 25 Jun | A | D | Middle Park (1)           | **Monash University (1)** | Mariadason                              |                     |
+| 11 | 9 Jul  | A | L | Skye (5)                  | **Monash University (1)** | Mariadason                              |                     |
+| 12 | 14 Jul | H | W | **Monash University (4)** | Baxter (0)                | Mariadason 2, Fasahat 2                 | Dickinson (CS)      |
+| 13 | 23 Jul | A | W | Beaumaris (0)             | **Monash University (2)** | Costaras, Patterson                     | Dickinson (CS, PS)  |
+| 14 | 30 Jul | A | W | Ashburton (1)             | **Monash University (5)** | Fernandez, Nunez, Costaras, R.Serrano 2 |                     |
+| 15 | 4 Aug  | H | D | **Monash University (1)** | Swinburne (1)             | R.Serrano                               |                     |
+| 16 | 13 Aug | A | W | Monash Gryphons (2)       | **Monash University (3)** | Patterson, Costaras, J.Serrano          |                     |
+| 17 | 27 Aug | A | W | Brighton (2)              | **Monash University (3)** | Patterson, Mariadason 2                 |                     |
+| 18 | 3 Sep  | A | L | Old Melburnians (3)       | **Monash University (0)** |                                         | Dickinson (PS)      |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -44,39 +44,41 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 #### Scorers
 
-| PLAYER                | APPEARANCES | GOALS | YC | RC | CLEAN SHEETS |
-|:----------------------|:-----------:|:-----:|:--:|:--:|:------------:|
-| Julio Serrano         |     18      |   3   | 1  |    |              |
-| Andrew Patterson      |     17      |   3   |    |    |              |
-| Miles Rodriquez       |     17      |       |    |    |              |
-| Peter Panagiotopoulos |     17      |       |    |    |              |
-| Andrew Mariadason     |     16      |   8   |    |    |              |
-| Greg Costaras         |     16      |   3   |    |    |              |
-| Harrison Dickinson    |     16      |       |    |    |      5       |
-| John Jhoomun          |     16      |       | 1  |    |              |
-| Luke Davis            |     16      |       |    |    |              |
-| Martin Blackledge     |     15      |       |    |    |              |
-| Nick Mallios          |     14      |       |    |    |              |
-| Sean Barrett          |     14      |       |    |    |              |
-| Hector Nunez          |     12      |   1   |    |    |              |
-| Roberto Serrano       |     11      |   3   |    |    |              |
-| Ned Rocke             |     10      |   3   |    |    |              |
-| Rodrigo Becerra       |      7      |       |    |    |             |
-| Michael Kral          |      6      |       |    |    |              |
-| Ricardo Doddo         |      6      |   2   |    |    |              |
-| Joel Fernandez        |      3      |   1   |    |    |              |
-| Andy Gould            |      2      |   2   |    |    |              |
-| Sina Fasahat          |      2      |   2   |    |    |              |
-| Ace Mitrevski         |      1      |       |    |    |              |
-| Ben Rogan             |      1      |       |    |    |              |
-| Bryan Bai             |      1      |       |    |    |              |
-| Chris Wilde           |      1      |       |    |    |              |
-| Gab Goncalves         |      1      |       |    |    |              |
-| George Kaltekis       |      1      |       |    |    |              |
-| Kavindra Widodo       |      1      |       |    |    |              |
-| Rory Bush-Belton      |      1      |       |    |    |              |
-| OG                    |    ----     |   0   |    |    |              |
-|                       |             | = 31  |    |    |              |
+| PLAYER                | APPEARANCES | GOALS | YC | RC | CLEAN SHEETS | PLAYERS PLAYER VOTES† |
+|:----------------------|:-----------:|:-----:|:--:|:--:|:------------:|:---------------------:|
+| Julio Serrano         |     18      |   3   | 1  |    |              |          22           |
+| Andrew Patterson      |     17      |   3   |    |    |              |          33           |
+| Miles Rodriquez       |     17      |       |    |    |              |          34           |
+| Peter Panagiotopoulos |     17      |       |    |    |              |           0           |
+| Andrew Mariadason     |     16      |   8   |    |    |              |    56 (runner up)     |
+| Greg Costaras         |     16      |   3   |    |    |              |           7           |
+| Harrison Dickinson    |     16      |       |    |    |      5       |      60 (winner)      |
+| John Jhoomun          |     16      |       | 1  |    |              |           4           |
+| Luke Davis            |     16      |       |    |    |              |          20           |
+| Martin Blackledge     |     15      |       |    |    |              |           0           |
+| Nick Mallios          |     14      |       |    |    |              |          12           |
+| Sean Barrett          |     14      |       |    |    |              |           0           |
+| Hector Nunez          |     12      |   1   |    |    |              |           4           |
+| Roberto Serrano       |     11      |   3   |    |    |              |           3           |
+| Ned Rocke             |     10      |   3   |    |    |              |           0           |
+| Rodrigo Becerra       |      7      |       |    |    |              |           0           |
+| Michael Kral          |      6      |       |    |    |              |           0           |
+| Ricardo Doddo         |      6      |   2   |    |    |              |           0           |
+| Joel Fernandez        |      3      |   1   |    |    |              |                       |
+| Andy Gould            |      2      |   2   |    |    |              |                       |
+| Sina Fasahat          |      2      |   2   |    |    |              |                       |
+| Ace Mitrevski         |      1      |       |    |    |              |                       |
+| Ben Rogan             |      1      |       |    |    |              |                       |
+| Bryan Bai             |      1      |       |    |    |              |                       |
+| Chris Wilde           |      1      |       |    |    |              |                       |
+| Gab Goncalves         |      1      |       |    |    |              |                       |
+| George Kaltekis       |      1      |       |    |    |              |                       | 
+| Kavindra Widodo       |      1      |       |    |    |              |                       |
+| Rory Bush-Belton      |      1      |       |    |    |              |                       |
+| OG                    |    ----     |   0   |    |    |              |                       |
+|                       |             | = 31  |    |    |              |                       |
+
+† Players player voting was done at the end of the season with each regular member asked to provide a 5,4,3,2,1 ranking of best players
 
 ------------------------
 

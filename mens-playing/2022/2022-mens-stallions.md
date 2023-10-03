@@ -9,9 +9,9 @@ grand_parent: Mens (Playing)
 
 ![2022 Stallions](https://photos.smugmug.com/2022/n-wTPrkB/2022-team-photos/i-RMd3vrb/0/be8abfc3/XL/20220821_124251-XL.jpg)
 
-_back_:  
+_back_:  Tom Flanagan, Aldo Assirvaden, Jonathan Jhoomun, Mohammed Taha, Keshav Seshadri, Peter Kougi, Chris Blake, Aidan Tang, Chris Kougi, Mike Vogrinec
 
-_front_: 
+_front_: Ignat Baranov, Alan Pyrcz, George Marcello, Bryce Hall, Michael Pogrebnoy, Hiroaki Ito, Denholm Pickering, James Bernard
 
 ### Results
 

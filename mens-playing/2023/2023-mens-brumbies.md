@@ -9,34 +9,34 @@ grand_parent: Mens (Playing)
 
 ![2023 Brumbies team photo](https://photos.smugmug.com/2023/2023-Team-Photos/i-5Dt6FHS/0/9381720b/XL/IMG_2410-XL.jpg)
 
-_back_: 
+_back_: Jeremy Bassingthwaite, Miguel Lourenco, Oliver Cooke, Oskar Bartlinksi, Piri Haddad, Nathan Bortolin, Yusuf Mirza Beg, Daniel Hua, Pou Chon Wong
 
-_front_: 
+_front_: Harvey Lay, Sasha Stijacic, Paxton Le, Sina Fasahat, Trung Le, Kyle Chan, Jared Ng,
 
 ------------------------
 
 #### Results
 
-| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE) | SCORERS                 | OTHER                   |
-|----|--------|:-:|:-:|---------------------------|-------------------|-------------------------|-------------------------|
-| 1  | 21 Apr | H | W | **Monash University (3)** | Middle Park (0)   | Bloggs 2 (1 pen), Jones | Smith (CS), Bloggs (RC) |
-| 2  |        |   |   |                           |                   |                         |                         |
-| 3  |        |   |   |                           |                   |                         |                         |
-| 4  |        |   |   |                           |                   |                         |                         |
-| 5  |        |   |   |                           |                   |                         |                         |
-| 6  |        |   |   |                           |                   |                         |                         |
-| 7  |        |   |   |                           |                   |                         |                         |
-| 8  |        |   |   |                           |                   |                         |                         |
-| 9  |        |   |   |                           |                   |                         |                         |
-| 10 |        |   |   |                           |                   |                         |                         |
-| 11 |        |   |   |                           |                   |                         |                         |
-| 12 |        |   |   |                           |                   |                         |                         |
-| 13 |        |   |   |                           |                   |                         |                         |
-| 14 |        |   |   |                           |                   |                         |                         |
-| 15 |        |   |   |                           |                   |                         |                         |
-| 16 |        |   |   |                           |                   |                         |                         |
-| 17 |        |   |   |                           |                   |                         |                         |
-| 18 |        |   |   |                           |                   |                         |                         |
+| R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                                                        | OTHER                        |
+|----|--------|:-:|:-:|---------------------------|---------------------------|----------------------------------------------------------------|------------------------------|
+| 1  | 21 Apr | H | W | **Monash University (2)** | East Bentleigh (0)        | Lourenco (1), Ng.J (1)                                         |                              |
+| 2  | 30 Apr | A | W | Old Scotch (3)            | **Monash University (3)** | Rotar (1), Lourenco (1), Mirza (1)                             |                              |
+| 3  | 05 May | H | L | **Monash University (0)** | Watsonia (4)              |                                                                |                              |
+| 4  | 14 May | A | L | Monash 3rds (5)           | **Monash University (1)** | Lourenco (1)                                                   |                              |
+| 5  | 21 May | A | D | St Kilda (8)              | **Monash University (1)** | Rotar (1)                                                      | Hall (YC)                    |
+| 6  | 28 May | A | L | Central Park (1)          | **Monash University (1)** | Lourenco (1)                                                   |                              |
+| 7  | 04 Jun | A | W | Nth Caulfield (2)         | **Monash University (0)** |                                                                |                              |
+| 8  | 09 Jun | H | W | **Monash University (1)** | Hampton East (0)          | Lourenco (1)                                                   | Le.T (YC), Le.T (RC)         |
+| 9  | 16 Jun | A | L | Wonga Wizards (1)         | **Monash University (0)** |                                                                |                              |
+| 10 | 25 Jun | A | W | East Bentleigh (1)        | **Monash University (4)** | Nugyen.M (1), Lourenco (1), Chan (1), Bortolin (1)             | Nugyen.M (YC), Stijacic (YC) |
+| 11 | 07 Jul | H | D | **Monash University (2)** | Old Scotch (2)            | Lourenco (1), Le.T (1)                                         |                              |
+| 12 | 14 Jul | A | L | Watsonia (4)              | **Monash University (0)** |                                                                |                              |
+| 13 | 21 Jul | H | W | **Monash University (2)** | Monash 3rds (0)           | Lay (1), Bortolin (1)                                          |                              |
+| 14 | 28 Jul | H | L | **Monash University (0)** | St Kilda (2)              |                                                                |                              |
+| 15 | 04 Aug | H | D | **Monash University (2)** | Central Park (2)          | Rocke (2)                                                      | Mirza  (YC)                  |
+| 16 | 13 Aug | H | W | **Monash University (7)** | Nth Caulfield(3)          | Bortolin (3), Piri (1), Fasahat (1), Lourenco (1), Hall. D (1) |                              |
+| 17 | 27 Aug | A | W | Hampton East (1)          | **Monash University (7)** | Lourenco (5), Le.T (1) , Smart (1)                          |                              |
+| 18 | 01 Sep | H | D | **Monash University (0)** | Wonga Wizards (0)         |                                                                |                              |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal 
 
@@ -46,43 +46,43 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 
 * Appearances include all games where player participated, but not if they were only listed on the team sheet and did not play
 
-| PLAYER             | APPEARANCES | GOALS | YC | RC |
-|--------------------|-------------|-------|----|----|
-| M Lourenco         | 18          | 13    |    |    |
-| D Hua              | 17          |       |    |    |
-| H Lay              | 17          | 1     |    |    |
-| M H Chan           | 17          | 1     |    |    |
-| M Y Beg            | 16          | 1     | 1  |    |
-| T Le               | 16          | 2     | 1  | 1  |
-| P Le               | 15          |       |    |    |
-| S Stijacic         | 15          |       | 1  |    |
-| J Bassingthwaigthe | 14          |       |    |    |
-| J Leonvendagar     | 14          | 1     |    |    |
-| N Bortolin         | 14          | 5     |    |    |
-| O Bartlinski       | 13          |       |    |    |
-| Y H J Ng           | 13          | 1     |    |    |
-| Joel Rotar         | 12          | 2     |    |    |
-| Oliver Cooke       | 11          |       |    |    |
-| D Hall             | 9           | 1     | 1  |    |
-| J Baker            | 6           |       |    |    |
-| M Nguyen           | 5           | 1     | 1  |    |
-| T N A Do           | 5           |       |    |    |
-| Sina Fasahat       | 3           | 1     |    |    |
-| C Mcauley          | 2           |       |    |    |
-| D Hoogeveen        | 2           |       |    |    |
-| Greg Costaras      | 2           |       |    |    |
-| J Admiraal         | 2           |       |    |    |
-| N Verrios          | 2           |       |    |    |
-| P C Wong           | 2           |       |    |    |
-| A Azab             | 1           |       |    |    |
-| A Painter          | 1           |       |    |    |
-| Connor Spinks      | 1           |       |    |    |
-| K Widodo           | 1           |       |    |    |
-| M Mitrevski        | 1           |       |    |    |
-| Ned Rocke          | 1           | 2     |    |    |
-| R M T Yi           | 1           |       |    |    |
-| S Evans            | 1           |       |    |    |
-| T Smart            | 1           | 1     |    |    |
+| PLAYER                | APPEARANCES | GOALS | YC | RC |
+|-----------------------|-------------|-------|----|----|
+| Miguel Lourenco       | 18          | 13    |    |    |
+| Daniel Hua            | 17          |       |    |    |
+| Harvey Lay            | 17          | 1     |    |    |
+| Ming Hei (Kyle) Chan  | 17          | 1     |    |    |
+| Mirza Yusuf Beg       | 16          | 1     | 1  |    |
+| Trung Le              | 16          | 2     | 1  | 1  |
+| Paxton Le             | 15          |       |    |    |
+| Sasha Stijacic        | 15          |       | 1  |    |
+| Jeremy Bassingthwaite | 14          |       |    |    |
+| Jose Leonvendagar     | 14          | 1     |    |    |
+| Nathan Bortolin       | 14          | 5     |    |    |
+| Oskar Bartlinski      | 13          |       |    |    |
+| Jared Ng              | 13          | 1     |    |    |
+| Joel Rotar            | 12          | 2     |    |    |
+| Oliver Cooke          | 11          |       |    |    |
+| Damien Hall           | 9           | 1     | 1  |    |
+| Josh Baker            | 6           |       |    |    |
+| Michael Nguyen        | 5           | 1     | 1  |    |
+| Tien Nhat Anh Do      | 5           |       |    |    |
+| Sina Fasahat          | 3           | 1     |    |    |
+| Callum Mcauley        | 2           |       |    |    |
+| Dijon Hoogeveen       | 2           |       |    |    |
+| Greg Costaras         | 2           |       |    |    |
+| Joren Admiraal        | 2           |       |    |    |
+| Niko Verrios          | 2           |       |    |    |
+| Pou Chon Wong         | 2           |       |    |    |
+| Abdelrahman Azab      | 1           |       |    |    |
+| Adam Painter          | 1           |       |    |    |
+| Connor Spinks         | 1           |       |    |    |
+| Kavindra Widodo       | 1           |       |    |    |
+| Milan Mitrevski       | 1           |       |    |    |
+| Ned Rocke             | 1           | 2     |    |    |
+| Ryan M T Yi           | 1           |       |    |    |
+| S Evans               | 1           |       |    |    |
+| T Smart               | 1           | 1     |    |    |
 
 ------------------------
 
