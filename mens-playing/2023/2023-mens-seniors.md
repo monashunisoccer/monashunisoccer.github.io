@@ -45,7 +45,7 @@ _front_:  James Oana, , , Nicko Verrios,
 | 19   | 29 Jul |  A  |     | Monbulk                    | **Monash University ()**  |                                                |                     |
 | 20   | 12 Aug |  H  |     | **Monash University ()**   | Noble Park                |                                                |                     |
 | 21   | 19 Aug |  H  |     | **Monash University ()**   | Rowville Eagles           |                                                |                     |
-| 22   | 26 Aug |  H  |     | **Monash University ()**   | Dandenong South           |                                                |                     |
+| 22   | 26 Aug |  H  |  W  | **Monash University (3)**  | Dandenong South (1)       | Konstantopoulos, Mcewan                        |                     |
 
 H Home, A Away, N Neutral, W Win, L Loss, D Draw, F Forfeit, CS Clean sheet, PS Penalty save, RC Red card, OG Own goal
 
@@ -57,81 +57,62 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, F Forfeit, CS Clean sheet, PS 
 
 * Appearances include both starting and substitute appearances as per the online match records system and includes cup fixtures
 
-| PLAYER                 | APPEARANCES (CUP) =TOTAL | GOALS | RC | YC | CLEAN SHEETS |
-|:-----------------------|:-------------------------:|:-----:|:--:|:--:|:------------:|
-| J Fernandes            |            21             |       |    | 4  |              |
-| A Yu                   |            20             |   1   |    | 2  |              |
-| T Carlin               |            18             |       |    | 1  |              |
-| F Komolafe             |            17             |       |    | 2  |              |
-| Niko Verrios           |            16             |       |    | 1  |              |
-| Sam Wait               |            14             |   1   |    |    |              |
-| B Egay                 |            13             |   1   |    | 1  |              |
-| S Chun                 |            13             |   7   |    |    |              |
-| D Patchett             |            12             |       |    |    |              |
-| James Oana             |            11             |   2   |    | 2  |              |
-| J Wilson               |            11             |       |    | 1  |              |
-| L Smith                |            11             |   1   |    | 4  |              |
-| Adoni Konstantopoulos  |            10             |       |    | 1  |              |
-| Ben Knight             |            10             |   2   |    |    |              |
-| Gab Goncalves          |            10             |       |    |    |              |
-| R M T Yi               |            10             |       |    | 3  |              |
-| A Mcewan               |             9             |   3   |    | 1  |              |
-| A Simpson              |             9             |   5   |    |    |              |
-| Genki Mizusawa         |             9             |       |    | 2  |              |
-| J Burley               |             9             |       | 1  |    |              |
-| Patryck Lloyd-Donald   |             8             |       |    |    |              |
-| Sina Fasahat           |             8             |       |    |    |              |
-| Peter Mastorakis       |             7             |       |    |    |              |
-| Harrison Dickinson     |             6             |       |    |    |              |
-| M Bergmann             |             6             |   1   |    | 2  |              |
-| L Mengoni              |             5             |       |    |    |              |
-| N Gardner              |             5             |       |    | 2  |              |
-| R Gill                 |             5             |   1   |    |    |              |
-| Ace Mitrevski          |             4             |   2   |    |    |              |
-| C Lee                  |             4             |       |    | 1  |              |
-| G Gupta                |             4             |       |    | 1  |              |
-| H Wang                 |             4             |       |    |    |              |
-| B Murray               |             3             |       |    |    |              |
-| C Drewell              |             3             |       |    |    |              |
-| Dougal Konstantopoulos |             3             |   2   |    |    |              |
-| Edward Tasker          |             3             |       |    |    |              |
-| Joel Fernandez         |             3             |       |    |    |              |
-| M Tross                |             3             |       |    |    |              |
-| N Emam                 |             3             |       |    |    |              |
-| Rohan Mariadason       |             3             |       |    |    |              |
-| Rory Bush-Belton       |             3             |       |    | 1  |              |
-| Tomi Oladele           |             3             |       |    |    |              |
-| Ben Rogan              |             2             |       |    |    |              |
-| C Mcauley              |             2             |       |    |    |              |
-| Connor Spinks          |             2             |       |    |    |              |
-| Joel Rotar             |             2             |       |    |    |              |
-| M H Haidari            |             2             |       |    |    |              |
-| Sarmad Nikakhter       |         0 (1) = 1         |   5   |    |    |              |
-| Ben Mcanulty           |             1             |       |    |    |              |
-| D Spiller              |             1             |       |    |    |              |
-| Nick Mallios           |             1             |       |    |    |              |
-
-
-#### Scorers (including cup and finals but not friendlies)
-
-| PLAYER           | GOALS           |
-| ---------------- | --------------- |
-| Willing          | 2               |
-| Sarmad Nikakhter | 5               |
-| Simpson          | 6               |
-| Gupta            | 1               |
-| Oana             | 2               |
-| Chun             | 3               |
-| Yu               | 2               |
-| Ben Knight       | 2               |
-| Gill             | 1               |
-| Wait             | 1               |
-| Smith            | 1               |
-| OG               | 2               |
-|                  |                 |
-|                  |                 |
-|                  |                 |
-|                  | = 28 (12 cup, ) |
+| PLAYER                 | APPEARANCES (CUP) =TOTAL | GOALS (CUP) =TOTAL | RC | YC | CLEAN SHEETS |
+|:-----------------------|:------------------------:|:------------------:|:--:|:--:|:------------:|
+| Jonathan Fernandes     |            21            |                    |    | 4  |              |
+| Alex Yu                |            20            |     1 (1) = 2      |    | 2  |              |
+| Thomas Carlin          |            18            |                    |    | 1  |              |
+| Folu Komolafe          |            17            |                    |    | 2  |              |
+| Niko Verrios           |            16            |                    |    | 1  |              |
+| Sam Wait               |            14            |         1          |    |    |              |
+| Benjie Egay            |            13            |         1          |    | 1  |              |
+| Sehwan Chun            |            13            |         7          |    |    |              |
+| Daniel Patchett        |            12            |                    |    |    |              |
+| James Oana             |            11            |         2          |    | 2  |              |
+| Julian Wilson          |            11            |                    |    | 1  |              |
+| Lluan Smith            |            11            |         1          |    | 4  |              |
+| Adoni Konstantopoulos  |            10            |                    |    | 1  |              |
+| Ben Knight             |            10            |         2          |    |    |              |
+| Gab Goncalves          |            10            |                    |    |    |              |
+| Ryan Tan Yi            |            10            |                    |    | 3  |              |
+| Alexander Mcewan       |            9             |         3          |    | 1  |              |
+| Andrew Simpson         |            9             |     5 (2) = 7      |    |    |              |
+| Genki Mizusawa         |            9             |                    |    | 2  |              |
+| Jasper Burley          |            9             |                    | 1  |    |              |
+| Patryck Lloyd-Donald   |            8             |                    |    |    |              |
+| Sina Fasahat           |            8             |                    |    |    |              |
+| Peter Mastorakis       |            7             |                    |    |    |              |
+| Harrison Dickinson     |            6             |                    |    |    |              |
+| Mario Bergmann         |            6             |         1          |    | 2  |              |
+| Leon Mengoni           |            5             |                    |    |    |              |
+| Neil Gardner           |            5             |                    |    | 2  |              |
+| R Gill                 |            5             |         1          |    |    |              |
+| Ace Mitrevski          |            4             |         2          |    |    |              |
+| Calvin Lee             |            4             |                    |    | 1  |              |
+| Gaurav Gupta           |            4             |     0 (1) = 1      |    | 1  |              |
+| Henry Wang             |            4             |                    |    |    |              |
+| Bruno Murray           |            3             |                    |    |    |              |
+| Christopher Drewell    |            3             |                    |    |    |              |
+| Dougal Konstantopoulos |            3             |         2          |    |    |              |
+| Edward Tasker          |            3             |                    |    |    |              |
+| Joel Fernandez         |            3             |                    |    |    |              |
+| Maxwell Tross          |            3             |                    |    |    |              |
+| Nordin Emam            |            3             |                    |    |    |              |
+| Rohan Mariadason       |            3             |                    |    |    |              |
+| Rory Bush-Belton       |            3             |                    |    | 1  |              |
+| Tomi Oladele           |            3             |                    |    |    |              |
+| Ben Rogan              |            2             |                    |    |    |              |
+| Callum Mcauley         |            2             |                    |    |    |              |
+| Connor Spinks          |            2             |                    |    |    |              |
+| Joel Rotar             |            2             |                    |    |    |              |
+| Mohammad Haidari       |            2             |                    |    |    |              |
+| Sarmad Nikakhter       |        0 (1) = 1         |     0 (5) = 5      |    |    |              |
+| Ben Mcanulty           |            1             |                    |    |    |              |
+| Daniel Spiller         |            1             |                    |    |    |              |
+| Nick Mallios           |            1             |                    |    |    |              |
+| Willing                |        0 (?) = ?         |     0 (2) = 2      |    |    |              |
+| OG                     |           ---            |         1          |    |    |              |
+|                        |                          |    30 (14) = 44    |    |    |              |
 
 ------------------------
 
