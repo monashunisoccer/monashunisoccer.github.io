@@ -67,3 +67,5 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | 6     | Glen Eira FC (Ravens)                   | 18 | 5  | 0 | 13 | 33 | 62  | -29  | 15  |
 | 7     | South East United FC                    | 18 | 2  | 0 | 16 | 15 | 99  | -84  | 6   |
 | **8** | **Monash University SC-Women's Thirds** | 17 | 1  | 0 | 16 | 14 | 115 | -101 | 3   |
+
+

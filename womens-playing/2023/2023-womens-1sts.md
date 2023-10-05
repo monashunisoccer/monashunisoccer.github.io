@@ -32,7 +32,7 @@ _front_:
 | 10   | 25 Jun | A | W | Mazenod FC (0)            | **Monash University (4)** | Townsend 4                                             | Pick (CS) |
 | 11   | 9 Jul  | A | W | Beaumaris SC (1)          | **Monash University (2)** | Farrell, Mason                                         |           |
 | 12   | 16 Jul | H | D | **Monash University (1)** | King's Domain (1)         | Farrell                                                |           |
-| 13   | 23 Jul | H | W | **Monash University (5)** | Croydon City (0)          | Farrell 2, Sheanakul, Townsend, O.G.                   | Pick (CS) |
+| 13   | 23 Jul | H | W | **Monash University (5)** | Croydon City (0)          | Farrell 2, Sheanakul, Townsend, OG                     | Pick (CS) |
 | 14   | 30 Jul | A | W | Bayside Argonauts (1)     | **Monash University (2)** | Farrell, Mason                                         |           |
 | 15   | 6 Aug  | A | L | Skye United (3)           | **Monash University (2)** | Mason, Dissanayaka                                     |           |
 | 16   | 13 Aug | A | L | Noble Hurricanes (1)      | **Monash University (0)** |                                                        |           |
@@ -79,3 +79,44 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | 8     | Skye United FC             | 18  | 3   | 4   | 11  | 15  | 46  | -31 | 13     |
 | 9     | Beaumaris SC               | 18  | 1   | 5   | 12  | 12  | 52  | -40 | 8      |
 | 10    | Knox City FC               | 18  | 1   | 4   | 13  | 9   | 70  | -61 | 7      |
+
+
+------------------------
+
+#### Appearances
+
+* Appearances include all games where player participated,
+  but not if they were only listed on the team sheet and did not play
+
+| PLAYER               | TOTAL |
+|----------------------|-------|
+| Pear Sheanakul       | 7     |
+| Abigayle Burnett     | 5     |
+| Dayardi Dissanayaka  | 10    |
+| Megan Robinson       | 2     |
+| Alice Townsend       | 15    |
+| Morgan Kirk-Eaton    | 18    |
+| Ellen Costaras       | 13    |
+| Maddy Pick           | 18    |
+| Olivia Farrell       | 12    |
+| Nicole Ong           | 5     |  
+| Amelia Pearson       | 11    |
+| Rachel Mason         | 16    |
+| Ally Radobuljac      | 5     |
+| Vee Kaur             | 6     |
+| Molly Todd           | 10    |
+| Kate Bradley         | 17    |
+| Lily Fraser          | 8     |
+| Miki Roberts         | 2     |
+| Dharma Kotzur        | 16    |
+| Cailen Lone          | 18    |
+| Rachel Cass          | 1     |
+| Gemma Ferguson       | 10    |
+| Claire Miller        | 4     |
+| Vanessa Franco       | 2     |  
+| Cherry Le            | 3     |
+| Rebecca Elliott      | 3     |
+| Chantelle Herman     | 4     |
+| Ella Titterington    | 6     |
+| Valeria Sabas        | 1     |
+

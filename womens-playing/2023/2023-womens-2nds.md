@@ -84,3 +84,44 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, CS Clean sheet, PS Penalty sav
 | 8     | Knox City FC                        | 18  | 4   | 2   | 12  | 16  | 37  | -21 | 14     |
 | 9     | Banyule City SC Women's Reserves    | 18  | 4   | 1   | 13  | 15  | 104 | -89 | 13     |
 | 10    | Mazenod Football Club               | 18  | 2   | 2   | 14  | 36  | 75  | -39 | 8      |
+
+
+#### Appearances
+
+* Appearances include all games where player participated,
+  but not if they were only listed on the team sheet and did not play
+
+| PLAYER                    | TOTAL |
+|---------------------------|-------|
+| Ally Radobuljac           | 9     |
+| Amelia Hurd               | 4     |
+| Amelia Pearson            | 1     |
+| Bridget Di Stefano        | 2     |
+| Claire Miller             | 4     |
+| Ellen Costaras            | 1     |
+| Emma Perkins              | 5     |
+| Francine Ellsala          | 7     |
+| Gemma Ferguson            | 4     |
+| Harper Rackham            | 17    |
+| Imagen Boardman           | 5     |
+| Janice Rebello            | 1     |
+| Jasmine Halford Mollinaro | 12    |
+| Jess Gibson               | 1     |
+| Karolina Aguirre          | 10    |
+| Katie Netherway           | 6     |
+| Leah Berson               | 10    |
+| Lily Fraser               | 4     |
+| Maddy Pick                | 1     |
+| Mia Gibson                | 2     |
+| Megan Robinson            | 11    |
+| Miki Roberts              | 18    |
+| Molly Todd 		             | 6     |
+| Montana McGrath           | 14    |
+| Nicole Ong                | 14    |
+| Rachel Cass		             | 17    |
+| Ravenna Kaur              | 13    |
+| Sarah Husodo              | 5     |
+| Shruti Varsani            | 5     |
+| Tracey Chan               | 17    |
+| Valeria Sabas             | 4     |
+| Vanessa Franco            | 11    | 
