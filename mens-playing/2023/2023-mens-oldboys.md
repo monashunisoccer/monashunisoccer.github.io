@@ -19,7 +19,7 @@ _front_: Andrew Patterson, John Jhoomun, Peter Panagiotopoulos, Nick Mallios, Ju
 
 | R  | DATE   |   |   | HOME TEAM (SCORE)         | AWAY TEAM (SCORE)         | SCORERS                                 | OTHER               |
 |----|--------|:-:|:-:|---------------------------|---------------------------|-----------------------------------------|---------------------|
-| 1  | 21 Apr | H | W | **Monash University (2)** | Middle Park (0)           | Rocke 2, J.Serrano                      | Dickinson (CS)      |
+| 1  | 21 Apr | H | W | **Monash University (3)** | Middle Park (0)           | Rocke 2, J.Serrano                      | Dickinson (CS)      |
 | 2  | 28 Apr | H | W | **Monash University (3)** | Skye (2)                  | Gould 2, Rocke                          |                     |
 | 3  | 7 May  | A | W | Baxter (1)                | **Monash University (2)** | Doddo 2                                 |                     |
 | 4  | 12 May | H | L | **Monash University (0)** | Beaumaris (1)             |                                         |                     |
