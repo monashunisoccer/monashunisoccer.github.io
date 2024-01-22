@@ -48,65 +48,67 @@ H Home, A Away, N Neutral, W Win, L Loss, D Draw, F Forfeit, CS Clean sheet, PS 
 
 ‡ Whilst Ashburton were the home team, this game was played at Monash University.
 
-#### Scorers
+------------------------
 
-| Player Name           | M   | GOALS | RC | YC |
-|-----------------------|-----|-------|----|----|
-| Peter Mastorakis      | 21  | 2     | 2  |    |
-| Tomi Oladele          | 19  | 1     |    |    |
-| Rory Bush-Belton      | 18  | 2     | 2  |    |
-| Anthony Padula        | 16  |       |    |    |
-| Edward Tasker         | 14  | 2     |    |    |
-| Gaurav Gupta          | 13  | 3     | 3  |    |
-| Ace Mitrevski         | 12  | 1     |    |    |
-| Connor Spinks         | 11  |       |    |    |
-| Mario Bergmann        | 11  | 2     |    |    |
-| Nordin Emam           | 11  | 19    | 1  |    |
-| Calvin Lee            | 10  | 1     |    |    |
-| Patryck Lloyd-Donald  | 10  | 2     |    |    |
-| Ben Rogan             | 9   | 1     | 1  |    |
-| Daniel Patchett       | 9   |       |    |    |
-| Sam Evans             | 9   | 1     |    |    |
-| Sam Wait              | 9   | 2     |    |    |
-| Gab Goncalves         | 8   | 1     | 1  |    |
-| H Wang                | 8   | 4     |    |    |
-| Maxwell Tross         | 8   | 9     |    |    |
-| Sina Fasahat          | 8   | 1     |    |    |
-| J Burley              | 6   | 1     |    |    |
-| Ned Rocke             | 6   | 1     |    |    |
-| Neil Gardner          | 6   | 1     |    |    |
-| B Egay                | 5   | 3     |    |    |
-| Ming Hei Chan         | 5   | 3     |    |    |
-| Rohan Mariadason      | 5   | 1     |    |    |
-| Ryan Tan Yi           | 5   | 1     | 2  |    |
-| Sehwan Chun           | 5   | 4     |    |    |
-| Alexandar Mcewan      | 4   | 1     |    |    |
-| F Komolafe            | 4   |       |    |    |
-| Niko Verrios          | 4   |       |    |    |
-| P C Wong              | 4   |       |    |    |
-| A Yu                  | 3   | 1     |    |    |
-| D Spiller             | 3   |       |    |    |
-| Joel Fernandez        | 3   |       |    |    |
-| Joel Rotar            | 3   |       |    |    |
-| Nick Mallios          | 3   | 1     |    |    |
-| C Mcauley             | 2   |       |    |    |
-| D Hua                 | 2   |       |    |    |
-| Dino Vosjan           | 2   |       |    |    |
-| Greg Costaras         | 2   |       |    |    |
-| H Dickinson           | 2   |       |    |    |
-| James Bernard         | 2   |       |    |    |
-| J Wilson              | 2   |       |    |    |
-| M H Haidari           | 2   | 1     |    |    |
-| T Carlin              | 2   |       |    |    |
-| Adoni Konstantopoulos | 1   |       |    |    |
-| Ben Mcanulty          | 1   |       |    |    |
-| B Murray              | 1   |       |    |    |
-| E Mckie               | 1   |       |    |    |
-| Rory Van De Zand      | 1   |       |    |    |
-| Sina Ghiasi           | 1   |       |    |    |
-| Andrew Patterson      | 1   |       |    |    |
-| OG                    | --- | 1     |    |    |
-|                       |     | = 74  |    |
+#### Player Appearances and Individual Statistics
+
+| Player Name           |  M  | GOALS | RC | YC | CLEAN SHEETS |
+|-----------------------|:---:|:-----:|:--:|:--:|:------------:|
+| Peter Mastorakis      | 21  |   2   | 2  |    |              |
+| Tomi Oladele          | 19  |   1   |    |    |              |
+| Rory Bush-Belton      | 18  |   2   | 2  |    |              |
+| Anthony Padula        | 16  |       |    |    |              |
+| Edward Tasker         | 14  |   2   |    |    |              |
+| Gaurav Gupta          | 13  |   3   | 3  |    |              |
+| Ace Mitrevski         | 12  |   1   |    |    |              |
+| Connor Spinks         | 11  |       |    |    |              |
+| Mario Bergmann        | 11  |   2   |    |    |              |
+| Nordin Emam           | 11  |  19   | 1  |    |              |
+| Calvin Lee            | 10  |   1   |    |    |              |
+| Patryck Lloyd-Donald  | 10  |   2   |    |    |              |
+| Ben Rogan             |  9  |   1   | 1  |    |              |
+| Daniel Patchett       |  9  |       |    |    |              |
+| Sam Evans             |  9  |   1   |    |    |              |
+| Sam Wait              |  9  |   2   |    |    |              |
+| Gab Goncalves         |  8  |   1   | 1  |    |              |
+| H Wang                |  8  |   4   |    |    |              |
+| Maxwell Tross         |  8  |   9   |    |    |              |
+| Sina Fasahat          |  8  |   1   |    |    |              |
+| J Burley              |  6  |   1   |    |    |              |
+| Ned Rocke             |  6  |   1   |    |    |              |
+| Neil Gardner          |  6  |   1   |    |    |              |
+| B Egay                |  5  |   3   |    |    |              |
+| Ming Hei Chan         |  5  |   3   |    |    |              |
+| Rohan Mariadason      |  5  |   1   |    |    |              |
+| Ryan Tan Yi           |  5  |   1   | 2  |    |              |
+| Sehwan Chun           |  5  |   4   |    |    |              |
+| Alexandar Mcewan      |  4  |   1   |    |    |              |
+| F Komolafe            |  4  |       |    |    |              |
+| Niko Verrios          |  4  |       |    |    |              |
+| P C Wong              |  4  |       |    |    |              |
+| A Yu                  |  3  |   1   |    |    |              |
+| D Spiller             |  3  |       |    |    |              |
+| Joel Fernandez        |  3  |       |    |    |              |
+| Joel Rotar            |  3  |       |    |    |              |
+| Nick Mallios          |  3  |   1   |    |    |              |
+| C Mcauley             |  2  |       |    |    |              |
+| D Hua                 |  2  |       |    |    |              |
+| Dino Vosjan           |  2  |       |    |    |              |
+| Greg Costaras         |  2  |       |    |    |              |
+| H Dickinson           |  2  |       |    |    |              |
+| James Bernard         |  2  |       |    |    |              |
+| J Wilson              |  2  |       |    |    |              |
+| M H Haidari           |  2  |   1   |    |    |              |
+| T Carlin              |  2  |       |    |    |              |
+| Adoni Konstantopoulos |  1  |       |    |    |              |
+| Ben Mcanulty          |  1  |       |    |    |              |
+| B Murray              |  1  |       |    |    |              |
+| E Mckie               |  1  |       |    |    |              |
+| Rory Van De Zand      |  1  |       |    |    |              |
+| Sina Ghiasi           |  1  |       |    |    |              |
+| Andrew Patterson      |  1  |       |    |    |              |
+| OG                    | --- |   1   |    |    |              |
+|                       |     | = 74  |    |    |              |
 
 ------------------------
 
